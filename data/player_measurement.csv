@@ -1,0 +1,843 @@
+,college,draft_rank,draft_year,height_in,name,reach_in,weight_lb,wingspan_in
+0,Wake Forest University,1,1997,,Tim Duncan,,,
+1,University of Utah,2,1997,81.5,Keith Van Horn,,240,
+2,University of Colorado,3,1997,75.0,Chauncey Billups,,207,
+3,Bowling Green State University,4,1997,74.0,Antonio Daniels,,197,80.0
+4,Texas Tech University,5,1997,81.5,Tony Battie,,227,
+5,University of Kentucky,6,1997,,Ron Mercer,,,
+6,Villanova University,7,1997,81.5,Tim Thomas,,240,
+7,Colgate University,8,1997,80.5,Adonal Foyle,,263,89.5
+8,University of Cincinnati,10,1997,79.25,Danny Fortson,,257,
+9,San Jose State University,11,1997,77.5,Tariq Abdul-Wahad,,216,
+10,Providence College,12,1997,81.0,Austin Croshere,,220,
+11,University of Kentucky,13,1997,75.5,Derek Anderson,,188,
+12,University of Michigan,14,1997,,Maurice Taylor,,,
+13,Iowa State University,15,1997,82.5,Kelvin Cato,,241,
+14,Stanford University,16,1997,69.5,Brevin Knight,,172,
+15,University of Tennessee at Chattanooga,17,1997,,Johnny Taylor,,,
+16,University of Kansas,19,1997,,Scot Pollard,,,
+17,University of Wisconsin,20,1997,,Paul Grant,,,
+18,Bradley University,21,1997,,Anthony Parker,,,
+19,University of California,22,1997,,Ed Gray,,,
+20,University of Minnesota,23,1997,71.0,Bobby Jackson,,184,
+21,University of Southern California,24,1997,,Rodrick Rhodes,,,
+22,University of Minnesota,25,1997,79.5,John Thomas,,260,
+23,University of New Mexico,26,1997,,Charles Smith,,,
+24,University of Kansas,27,1997,71.0,Jacque Vaughn,,193,
+25,University of Maryland,28,1997,,Keith Booth,,,
+26,"University of California, Los Angeles",31,1997,,Charles O'Bannon,,196,83.0
+27,"California State University, Long Beach",32,1997,,James Cotton,,,
+28,Austin Peay State University,34,1997,,Bubba Wells,,,
+29,"California State University, Bakersfield",35,1997,78.5,Kebu Stewart,,244,
+30,Florida State University,36,1997,,James Collins,,,
+31,Temple University,37,1997,,Marc Jackson,,,
+32,Tulane University,38,1997,78.75,Jerald Honeycutt,, ,
+33,College of Charleston,39,1997,75.0,Anthony Johnson,,210,81.0
+34,Villanova University,41,1997,,Jason Lawson,,,
+35,Butler County Community College,42,1997,78.0,Stephen Jackson,,204,
+36,University of Memphis,44,1997,,Cedric Henderson,,,
+37,Providence College,45,1997,,God Shammgod,,,
+38,University of Alabama,46,1997,,Eric Washington,,,
+39,Villanova University,47,1997,,Alvin Williams,,,
+40,Marquette University,50,1997,,Chris Crawford,,,
+41,University of Louisville,51,1997,,DeJuan Wheat,,,
+42,University of Pittsburgh,54,1997,,Mark Blount,,,
+43,University of the Pacific,1,1998,83.75,Michael Olowokandi,,269,92.0
+44,University of Arizona,2,1998,73.0,Mike Bibby,,194,
+45,University of Kansas,3,1998,83.5,Raef LaFrentz,,235,
+46,University of North Carolina,4,1998,79.75,Antawn Jamison,,230,
+47,University of North Carolina,5,1998,77.5,Vince Carter,,219,
+48,University of Michigan,6,1998,79.5,Robert Traylor,,288,
+49,University of Florida,7,1998,,Jason Williams,,,
+50,Saint Louis University,8,1998,76.5,Larry Hughes,,183,
+51,University of Kansas,10,1998,78.0,Paul Pierce,,229,
+52,Ball State University,11,1998,77.0,Bonzi Wells,,213,
+53,University of Utah,12,1998,,Michael Doleac,,,
+54,"University of Nevada, Las Vegas",13,1998,82.5,Keon Clark,,220,
+55,University of Arizona,14,1998,,Michael Dickerson,,,
+56,Georgia Institute of Technology,15,1998,78.5,Matt Harpring,,231,
+57,Valparaiso University,16,1998,74.0,Bryce Drew,,187,
+58,University of Notre Dame,19,1998,81.0,Pat Garrity,,237,
+59,Duke University,20,1998,80.0,Roshown McLeod,,221,
+60,University of Iowa,21,1998,77.5,Ricky Davis,,201,
+61,Baylor University,22,1998,81.0,Brian Skinner,,255,
+62,University of Nebraska,23,1998,,Tyronn Lue,,,
+63,St. John's University,24,1998,76.75,Felipe Lopez,,198,
+64,University of Minnesota,26,1998,76.0,Sam Jacobson,,219,
+65,Oregon State University,28,1998,77.5,Corey Benjamin,,203,
+66,University of Kentucky,29,1998,82.0,Nazr Mohammed,,221,
+67,University of Mississippi,30,1998,80.0,Ansu Sesay,,223,
+68,University of Cincinnati,31,1998,77.0,Ruben Patterson,,224,
+69,"University of California, Los Angeles",33,1998,82.0,Jelani McCoy,,245,
+70,University of North Carolina,34,1998,73.0,Shammond Williams,,200,
+71,Florida Agricultural and Mechanical University,36,1998,83.5,Jerome James,,315,
+72,University of Toledo,37,1998,,Casey Shaw,,,
+73,University of North Carolina at Charlotte,38,1998,79.0,DeMarco Johnson,,244,
+74,"California State University, Fresno",39,1998,73.75,Rafer Alston,,170,
+75,University of Rhode Island,41,1998,,Cuttino Mobley,,,
+76,University of Arizona,42,1998,75.0,Miles Simon,,202,
+77,Georgetown University,43,1998,81.0,Jahidi White,,293,
+78,University of California,44,1998,82.0,Sean Marks,,242,
+79,"University of California, Los Angeles",45,1998,,Toby Bailey,,,
+80,Indiana University,46,1998,,Andrae Patterson,,,
+81,University of Rhode Island,47,1998,71.5,Tyson Wheeler,,165,
+82,University of South Carolina,48,1998,,Ryan Stack,,,
+83,Texas Tech University,49,1998,75.0,Cory Carr,,211,
+84,Eastern Michigan University,52,1998,76.0,Derrick Dial,,184,
+85,Clemson University,53,1998,75.5,Greg Buckner,,210,
+86,"California State University, Fresno",54,1998,79.0,Tremaine Fowlkes,,208,
+87,University of Iowa,55,1998,80.75,Ryan Bowen,,212,
+88,"University of California, Los Angeles",56,1998,81.0,J.R. Henderson,,226,
+89,Xavier University,57,1998,78.0,Torraye Braggs,,237,
+90,University of Michigan,58,1998,,Maceo Baston,,,
+91,Duke University,1,1999,80.25,Elton Brand,110.0,260,89.5
+92,University of Maryland,2,1999,74.5,Steve Francis,,195,
+93,"University of California, Los Angeles",3,1999,74.5,Baron Davis,,209,
+94,University of Rhode Island,4,1999,,Lamar Odom,,,
+95,Miami University,6,1999,79.5,Wally Szczerbiak,,243,
+96,University of Connecticut,7,1999,,Richard Hamilton,,,
+97,University of Utah,8,1999,,Andre Miller,,,
+98,"University of Nevada, Las Vegas",9,1999,78.5,Shawn Marion,,220,
+99,University of Arizona,10,1999,73.5,Jason Terry,,176,
+100,Duke University,11,1999,,Trajan Langdon,,,
+101,Barton County Community College,12,1999,,Aleksandar Radojevic,,,
+102,Duke University,13,1999,,Corey Maggette,,,
+103,Duke University,14,1999,,William Avery,,,
+104,St. John's University,16,1999,,Metta World Peace,,,
+105,Old Dominion University,17,1999,,Cal Bowdler,,,
+106,Xavier University,18,1999,78.5,James Posey,,208,84.0
+107,University of Minnesota,19,1999,,Quincy Lewis,,,
+108,Georgia Institute of Technology,20,1999,,Dion Glover,,,
+109,Texas State University,21,1999,,Jeff Foster,,,
+110,University of New Mexico,22,1999,78.5,Kenny Thomas,,NANANANA00NANANANANANANANA22,
+111,Augsburg College,23,1999,78.5,Devean George,,220,
+112,University of Miami,25,1999,,Tim James,,,
+113,University of Pittsburgh,26,1999,,Vonteego Cummings,,,
+114,University of Georgia,27,1999,79.5,Jumaine Jones,,218,
+115,University of Kentucky,28,1999,,Scott Padgett,,,
+116,Villanova University,30,1999,,John Celestand,,,
+117,University of Tulsa,32,1999,,Michael Ruffin,,,
+118,"California State University, Fresno",33,1999,,Chris Herren,,,
+119,Northwestern University,34,1999,83.5,Evan Eschmeyer,110.0,261,85.0
+120,Pennsylvania State University,35,1999,,Calvin Booth,,,
+121,University of Maryland,37,1999,,Obinna Ekezie,,,
+122,University of Maryland,38,1999,,Laron Profit,,,
+123,University of Arizona,39,1999,,A.J. Bramlett,,,
+124,University of California,41,1999,,Francisco Elson,,,
+125,Texas Christian University,43,1999,,Lee Nailon,,,
+126,University of Kansas,45,1999,,Ryan Robertson,,,
+127,University of Washington,47,1999,83.75,Todd MacCulloch,,NANANANA00NANANANANANANANA47,
+128,University of Massachusetts Amherst,49,1999,,Lari Ketner,,,
+129,University of Nebraska,50,1999,,Venson Hamilton,,,
+130,Creighton University,53,1999,,Rodney Buford,,,
+131,Stanford University,56,1999,,Tim Young,,,
+132,University of Cincinnati,1,2000,,Kenyon Martin,,,
+133,Louisiana State University,2,2000,,Stromile Swift,,,
+134,Iowa State University,4,2000,,Marcus Fizer,,,
+135,University of Florida,5,2000,,Mike Miller,,,
+136,University of Cincinnati,6,2000,,DerMarr Johnson,,,
+137,University of Texas at Austin,7,2000,,Chris Mihm,,,
+138,University of Michigan,8,2000,76.5,Jamal Crawford,102.5,175,82.0
+139,University of Minnesota,9,2000,,Joel Przybilla,,,
+140,University of Missouri,10,2000,,Keyon Dooling,,,
+141,"University of California, Los Angeles",11,2000,,Jerome Moiso,,,
+142,Syracuse University,12,2000,,Etan Thomas,,,
+143,"California State University, Fresno",13,2000,,Courtney Alexander,,,
+144,Michigan State University,14,2000,,Mateen Cleaves,,,
+145,Georgia Institute of Technology,15,2000,,Jason Collier,,,
+146,Oklahoma State University,17,2000,,Desmond Mason,,,
+147,DePaul University,18,2000,,Quentin Richardson,,,
+148,University of Kentucky,19,2000,,Jamaal Magloire,,,
+149,Hofstra University,20,2000,70.5,Speedy Claxton,94.5,166,72.0
+150,Michigan State University,21,2000,,Morris Peterson,,,
+151,University of Florida,22,2000,79.25,Donnell Harvey,105.5,220,84.5
+152,Auburn University,26,2000,,Mamadou N'Diaye,,,
+153,St. John's University,28,2000,,Erick Barkley,,,
+154,Stanford University,29,2000,80.0,Mark Madsen,104.5,237,84.5
+155,Vanderbilt University,31,2000,81.0,Dan Langhi,104.0,198,80.0
+156,Indiana University,32,2000,72.75,A.J. Guyton,97.5,175,75.75
+157,University of Connecticut,33,2000,,Jake Voskuhl,,,
+158,University of Connecticut,34,2000,69.0,Khalid El-Amin,93.0,200,73.5
+159,University of Louisiana at Monroe,35,2000,76.75,Mike Smith,99.75,223,79.0
+160,Arizona State University,37,2000,71.75,Eddie House,95.0,177,75.5
+161,University of Oklahoma,38,2000,78.5,Eduardo Najera,104.5,235,83.5
+162,St. John's University,39,2000,76.5,Lavor Postell,101.5,205,80.5
+163,University of Utah,40,2000,,Hanno Mottola,,,
+164,Ohio State University,43,2000,76.75,Michael Redd,102.0,214,81.0
+165,Purdue University,44,2000,,Brian Cardinal,,,
+166,Louisiana State University,45,2000,81.75,Jabari Smith,109.5,241,86.5
+167,Syracuse University,49,2000,73.75,Jason Hart,97.5,181,78.0
+168,University of Idaho,50,2000,,Kaniel Dickens,,,
+169,Indian Hills Community College,52,2000,82.0,Ernest Brown,109.5,223,85.25
+170,Northern Arizona University,53,2000,83.0,Dan McClintock,107.0,250,85.5
+171,Auburn University,55,2000,77.5,Chris Porter,103.5,214,81.5
+172,Michigan State University,5,2001,76.75,Jason Richardson,102.5,213,83.5
+173,Duke University,6,2001,80.25,Shane Battier,105.0,229,82.5
+174,Seton Hall University,7,2001,81.25,Eddie Griffin,110.0,222,87.0
+175,University of North Carolina at Charlotte,9,2001,79.5,Rodney White,104.5,243,83.5
+176,University of Arkansas,10,2001,78.75,Joe Johnson,105.0,226,81.0
+177,Okaloosa-Walton Community College,11,2001,,Kedrick Brown,,,
+178,University of Arizona,13,2001,79.25,Richard Jefferson,103.0,223,84.0
+179,University of Notre Dame,14,2001,81.75,Troy Murphy,105.5,230,83.0
+180,DePaul University,15,2001,82.25,Steven Hunter,108.0,224,88.0
+181,Indiana University,16,2001,80.0,Kirk Haston,106.0,242,84.25
+182,Villanova University,17,2001,81.5,Michael Bradley,107.0,227,85.5
+183,Stanford University,18,2001,82.25,Jason Collins,110.0,251,88.5
+184,Michigan State University,19,2001,,Zach Randolph,,,
+185,University of North Carolina,20,2001,83.75,Brendan Haywood,113.5,266,90.5
+186,University of North Carolina,21,2001,75.5,Joseph Forte,100.5,193,78.5
+187,Southern Methodist University,22,2001,77.5,Jeryl Sasser,103.5,194,82.5
+188,Pepperdine University,23,2001,75.5,Brandon Armstrong,99.5,188,81.5
+189,University of Alabama,25,2001,,Gerald Wallace,,,
+190,Seton Hall University,26,2001,,Samuel Dalembert,,,
+191,Iowa State University,27,2001,72.75,Jamaal Tinsley,97.5,199,79.5
+192,Austin Peay State University,29,2001,76.25,Trenton Hassell,99.5,205,80.0
+193,University of Arizona,30,2001,74.25,Gilbert Arenas,99.5,199,81.5
+194,St. John's University,31,2001,71.5,Omar Cook,92.0,189,77.5
+195,Clemson University,32,2001,71.75,Will Solomon,99.5,172,81.5
+196,University of Maryland,33,2001,,Terence Morris,,,
+197,University of Southern California,34,2001,80.75,Brian Scalabrine,105.5,241,81.75
+198,University of Southern California,35,2001,,Jeff Trepagnier,,,
+199,Syracuse University,36,2001,80.25,Damone Brown,104.5,202,83.75
+200,"University of California, Los Angeles",39,2001,72.0,Earl Watson,97.0,184,78.75
+201,Auburn University,40,2001,74.5,Jamison Brewer,102.5,178,80.75
+202,DePaul University,41,2001,78.25,Bobby Simmons,105.0,235,84.25
+203,University of California,44,2001,77.5,Sean Lampley,101.0,213,81.25
+204,University of Arizona,45,2001,84.75,Loren Woods,113.0,246,89.5
+205,Ohio State University,48,2001,82.75,Ken Johnson,109.5,227,88.0
+206,Georgetown University,49,2001,83.5,Ruben Boumtje-Boumtje,111.0,245,88.0
+207,University of Houston,50,2001,80.25,Alton Ford,102.5,271,82.5
+208,Stanford University,52,2001,81.25,Jarron Collins,104.0,252,87.0
+209,University of Cincinnati,53,2001,73.0,Kenny Satterfield,98.0,176,76.5
+210,Georgia Institute of Technology,56,2001,,Alvin Jones,,,
+211,Duke University,2,2002,72.25,Jay Williams,97.0,197,75.5
+212,Duke University,3,2002,80.0,Mike Dunleavy,106.0,230,81.0
+213,University of Kansas,4,2002,80.75,Drew Gooden,106.5,227,84.5
+214,University of Memphis,6,2002,72.75,Dajuan Wagner,99.0,193,74.0
+215,University of Maryland,8,2002,80.25,Chris Wilcox,107.5,218,85.0
+216,University of Connecticut,10,2002,77.25,Caron Butler,103.5,222,83.5
+217,Indiana University,11,2002,,Jared Jeffries,,,
+218,"California State University, Fresno",12,2002,81.0,Melvin Ely,111.0,240,88.0
+219,University of Tennessee,13,2002,80.5,Marcus Haislip,107.0,221,84.0
+220,University of Oregon,14,2002,74.25,Fred Jones,100.0,218,84.0
+221,University of Maryland,17,2002,,Juan Dixon,,,
+222,Stanford University,18,2002,82.75,Curtis Borchardt,112.0,238,86.5
+223,University of Notre Dame,19,2002,78.0,Ryan Humphrey,104.5,223,84.0
+224,University of Missouri,20,2002,76.75,Kareem Rush,103.5,199,81.75
+225,Northeast Mississippi Community College,21,2002,79.0,Qyntel Woods,105.0,213,82.0
+226,Stanford University,22,2002,,Casey Jacobsen,,,
+227,University of Kentucky,23,2002,,Tayshaun Prince,,,
+228,University of Illinois at Urbana-Champaign,25,2002,,Frank Williams,,151,79.0
+229,University of Miami,26,2002,77.5,John Salmons,104.0,207,82.25
+230,"California State University, Fresno",27,2002,,Chris Jefferies,,,
+231,Gonzaga University,28,2002,,Dan Dickau,,,
+232,University of Virginia,30,2002,,Roger Mason,,,
+233,University of Illinois at Urbana-Champaign,31,2002,82.0,Robert Archibald,109.5,250,83.75
+234,University of Tennessee,32,2002,77.5,Vincent Yarbrough,104.5,202,84.5
+235,"University of California, Los Angeles",33,2002,,Dan Gadzuric,,,
+236,Duke University,34,2002,79.75,Carlos Boozer,108.5,258,86.25
+237,"California State University, Fresno",37,2002,75.0,Tito Maddox,99.0,200,77.0
+238,Shaw University,41,2002,75.0,Ronald Murray,100.5,197,79.5
+239,University of Maryland,43,2002,78.25,Lonny Baxter,107.5,264,85.5
+240,"University of California, Los Angeles",45,2002,78.75,Matt Barnes,96.5,226,81.0
+241,University of California,46,2002,,Jamal Sampson,,,
+242,University of Texas at Austin,47,2002,79.0,Chris Owens,104.0,237,83.5
+243,Wake Forest University,49,2002,80.0,Darius Songaila,108.5,240,85.0
+244,La Salle University,52,2002,78.75,Rasual Butler,105.5,198,84.0
+245,Marshall University,53,2002,78.75,Tamar Slay,104.0,203,83.5
+246,San Diego State University,56,2002,79.0,Randy Holcomb,105.0,225,85.0
+247,Central Connecticut State University,57,2002,79.25,Corsley Edwards,106.5,285,82.75
+248,Syracuse University,3,2003,78.25,Carmelo Anthony,105.5,233,84.0
+249,Georgia Institute of Technology,4,2003,82.25,Chris Bosh,109.0,225,87.5
+250,Marquette University,5,2003,75.75,Dwyane Wade,102.0,212,82.75
+251,Central Michigan University,6,2003,83.5,Chris Kaman,110.5,252,83.75
+252,University of Kansas,7,2003,74.75,Kirk Hinrich,98.5,186,78.0
+253,University of Texas at Austin,8,2003,71.0,T.J. Ford,93.5,162,71.5
+254,Georgetown University,9,2003,79.25,Mike Sweetney,107.5,262,85.0
+255,University of Georgia,10,2003,,Jarvis Hayes,,,
+256,University of Kansas,12,2003,80.75,Nick Collison,108.0,255,85.5
+257,"University of Nevada, Las Vegas",13,2003,,Marcus Banks,,,
+258,University of Oregon,14,2003,73.0,Luke Ridnour,95.5,167,75.0
+259,University of Louisville,15,2003,,Reece Gaines,,,
+260,Boston College,16,2003,72.25,Troy Bell,97.5,178,77.0
+261,Xavier University,18,2003,80.25,David West,108.5,226,88.25
+262,Duke University,20,2003,76.75,Dahntay Jones,102.5,214,81.0
+263,University of Illinois at Urbana-Champaign,24,2003,81.5,Brian Cook,109.0,234,86.0
+264,Wake Forest University,29,2003,77.25,Josh Howard,105.5,202,86.0
+265,"University of California, Los Angeles",31,2003,78.5,Jason Kapono,102.0,215,78.5
+266,University of Arizona,32,2003,79.75,Luke Walton,104.0,235,80.5
+267,University of North Dakota,33,2003,81.0,Jerome Beasley,107.0,237,84.5
+268,Mississippi State University,36,2003,,Mario Austin,,,
+269,Brigham Young University,37,2003,76.5,Travis Hansen,100.5,200,78.5
+270,University of Maryland,38,2003,,Steve Blake,,,
+271,Mississippi State University,40,2003,73.0,Derrick Zimmerman,98.5,190,81.0
+272,University of Detroit Mercy,41,2003,74.5,Willie Green,100.0,201,79.25
+273,University of Kentucky,43,2003,76.25,Keith Bogans,101.0,213,81.25
+274,University of Florida,45,2003,80.5,Matt Bonner,105.5,242,80.75
+275,University of Alabama,47,2003,,Mo Williams,,,
+276,University of Miami,49,2003,79.25,James Jones,107.5,218,86.5
+277,Creighton University,51,2003,78.25,Kyle Korver,102.5,211,81.5
+278,Ohio University,56,2003,78.5,Brandon Hunter,105.5,266,86.75
+279,University of Connecticut,2,2004,80.75,Emeka Okafor,110.5,257,88.0
+280,University of Connecticut,3,2004,73.0,Ben Gordon,99.0,192,80.5
+281,University of Wisconsin,5,2004,73.75,Devin Harris,98.5,170,79.5
+282,Stanford University,6,2004,77.75,Josh Childress,105.0,196,83.0
+283,Duke University,7,2004,79.0,Luol Deng,108.5,220,84.5
+284,Brigham Young University,8,2004,,Rafael Araujo,,,
+285,University of Arizona,9,2004,77.75,Andre Iguodala,105.5,217,83.0
+286,University of Oregon,10,2004,78.0,Luke Jackson,103.0,212,80.5
+287,University of Minnesota,14,2004,80.25,Kris Humphries,106.5,238,84.5
+288,"University of Nevada, Reno",16,2004,78.0,Kirk Snyder,104.0,228,81.0
+289,Saint Joseph's University,20,2004,71.0,Jameer Nelson,95.0,199,74.5
+290,Saint Joseph's University,24,2004,73.5,Delonte West,99.5,183,78.0
+291,Oklahoma State University,25,2004,75.5,Tony Allen,102.0,214,81.0
+292,Western Carolina University,26,2004,,Kevin Martin,,,
+293,University of Colorado,29,2004,,David Harrison,,,
+294,Iowa State University,31,2004,81.25,Jackson Vroman,105.5,226,84.0
+295,Xavier University,33,2004,,Lionel Chalmers,,,
+296,Southeastern Illinois College,34,2004,,Donta Smith,,,
+297,Texas Tech University,35,2004,75.5,Andre Emmett,100.0,216,81.0
+298,University of Memphis,36,2004,72.0,Antonio Burks,96.5,191,78.5
+299,University of Texas at Austin,37,2004,,Royal Ivey,,,
+300,Duke University,38,2004,72.0,Chris Duhon,98.0,193,78.5
+301,University of Mississippi,40,2004,,Justin Reed,,,
+302,"University of California, Los Angeles",43,2004,79.0,Trevor Ariza,107.5,201,86.0
+303,University of Michigan,45,2004,77.25,Bernard Robinson,102.0,208,82.0
+304,"California State University, Fullerton",47,2004,80.5,Pape Sow,108.5,233,86.0
+305,Vanderbilt University,53,2004,80.25,Matt Freije,108.5,234,85.0
+306,Manhattan College,55,2004,72.5,Luis Flores,98.5,202,79.5
+307,University of Utah,1,2005,83.0,Andrew Bogut,110.5,251,87.0
+308,University of North Carolina,2,2005,79.0,Marvin Williams,108.0,228,87.5
+309,University of Illinois at Urbana-Champaign,3,2005,73.75,Deron Williams,98.0,202,78.25
+310,Wake Forest University,4,2005,71.75,Chris Paul,93.0,178,76.25
+311,University of North Carolina,5,2005,71.5,Raymond Felton,98.0,199,76.25
+312,University of Connecticut,7,2005,81.0,Charlie Villanueva,109.0,237,84.25
+313,University of Arizona,8,2005,81.5,Channing Frye,110.5,244,86.5
+314,Arizona State University,9,2005,78.5,Ike Diogu,109.0,255,87.5
+315,University of North Carolina,13,2005,79.0,Sean May,105.0,259,85.25
+316,University of North Carolina,14,2005,74.75,Rashad McCants,103.5,201,82.75
+317,Texas A&M University,15,2005,77.25,Antoine Wright,104.5,203,80.75
+318,Oklahoma State University,16,2005,77.25,Joey Graham,104.0,217,80.0
+319,University of New Mexico,17,2005,79.5,Danny Granger,103.0,225,85.5
+320,Syracuse University,19,2005,79.25,Hakim Warrick,108.0,215,86.0
+321,North Carolina State University,20,2005,78.0,Julius Hodge,107.5,202,84.5
+322,University of Washington,21,2005,67.75,Nate Robinson,91.5,181,73.0
+323,Georgia Institute of Technology,22,2005,74.5,Jarrett Jack,100.0,198,79.5
+324,University of Louisville,23,2005,77.75,Francisco Garcia,103.0,190,82.75
+325,University of Illinois at Urbana-Champaign,24,2005,74.0,Luther Head,98.5,179,77.25
+326,University of Cincinnati,26,2005,77.0,Jason Maxiell,107.0,258,87.25
+327,University of Missouri,27,2005,,Linas Kleiza,,,
+328,University of Kansas,29,2005,79.25,Wayne Simien,107.0,256,84.0
+329,University of Florida,30,2005,79.75,David Lee,106.5,230,84.0
+330,University of Arizona,31,2005,,Salim Stoudamire,,,
+331,Duke University,32,2005,,Daniel Ewing,,,
+332,Louisiana State University,33,2005,78.25,Brandon Bass,106.5,246,86.5
+333,Gonzaga University,37,2005,80.0,Ronny Turiaf,106.5,238,85.5
+334,Marquette University,38,2005,71.75,Travis Diener,93.5,165,71.75
+335,Florida State University,39,2005,,Von Wafer,,,
+336,University of Pittsburgh,42,2005,80.5,Chris Taft,109.0,261,85.75
+337,Indiana University,47,2005,73.25,Bracey Wright,100.5,187,82.0
+338,Providence College,50,2005,78.5,Ryan Gomes,106.5,248,86.0
+339,Walsh University,51,2005,80.0,Robert Whaley,108.0,269,86.0
+340,University of Louisiana at Lafayette,53,2005,,Orien Greene,,,
+341,"University of California, Los Angeles",54,2005,78.25,Dijon Thompson,105.5,196,81.75
+342,Mississippi State University,55,2005,79.5,Lawrence Roberts,106.5,233,81.5
+343,Pepperdine University,60,2005,75.75,Alex Acker,102.5,183,84.0
+344,University of Texas at Austin,2,2006,82.0,LaMarcus Aldridge,110.0,234,88.75
+345,Gonzaga University,3,2006,78.5,Adam Morrison,105.0,198,82.0
+346,Louisiana State University,4,2006,79.25,Tyrus Thomas,108.0,217,87.0
+347,Duke University,5,2006,79.5,Shelden Williams,104.0,258,88.25
+348,University of Washington,6,2006,77.25,Brandon Roy,101.0,207,80.0
+349,Villanova University,7,2006,74.25,Randy Foye,97.0,212,78.25
+350,University of Connecticut,8,2006,79.0,Rudy Gay,107.2,222,87.0
+351,Bradley University,9,2006,83.0,Patrick O'Bryant,113.0,249,89.75
+352,Duke University,11,2006,76.0,J.J. Redick,97.5,190,75.25
+353,University of Connecticut,12,2006,81.5,Hilton Armstrong,109.0,240,88.0
+354,University of Arkansas,14,2006,77.75,Ronnie Brewer,103.5,223,83.25
+355,North Carolina State University,15,2006,80.25,Cedric Simmons,108.5,223,88.25
+356,University of Memphis,16,2006,76.5,Rodney Carney,103.5,204,82.0
+357,University of Memphis,17,2006,79.25,Shawne Williams,104.0,227,87.0
+358,Rutgers University,19,2006,,Quincy Douby,,,
+359,University of South Carolina,20,2006,77.25,Renaldo Balkman,104.5,206,85.0
+360,University of Kentucky,21,2006,,Rajon Rondo,,,
+361,University of Connecticut,22,2006,,Marcus Williams,,,
+362,University of Connecticut,23,2006,,Josh Boone,,,
+363,Villanova University,24,2006,,Kyle Lowry,,,
+364,Michigan State University,25,2006,,Shannon Brown,,,
+365,"University of California, Los Angeles",26,2006,72.75,Jordan Farmar,94.5,171,75.0
+366,Michigan State University,28,2006,75.25,Maurice Ager,101.5,203,79.75
+367,Temple University,29,2006,76.25,Mardy Collins,103.0,224,82.0
+368,University of Cincinnati,31,2006,,James White,,,
+369,Marquette University,32,2006,80.0,Steve Novak,103.0,216,81.5
+370,University of South Florida,33,2006,80.5,Solomon Jones,109.0,224,88.0
+371,Michigan State University,34,2006,,Paul Davis,,,
+372,University of Texas at Austin,35,2006,,P.J. Tucker,,,
+373,Boston College,36,2006,77.5,Craig Smith,103.5,259,81.5
+374,University of Washington,37,2006,77.75,Bobby Jones,101.5,211,81.5
+375,University of North Carolina,39,2006,76.5,David Noel,100.0,223,81.5
+376,University of Illinois at Urbana-Champaign,41,2006,80.25,James Augustine,104.0,227,84.25
+377,University of Texas at Austin,42,2006,,Daniel Gibson,,,
+378,Florida State University,45,2006,,Alexander Johnson,,,
+379,University of Illinois at Urbana-Champaign,46,2006,71.0,Dee Brown,94.0,179,74.0
+380,Louisiana Tech University,47,2006,78.25,Paul Millsap,105.5,258,85.5
+381,University of California,49,2006,,Leon Powe,,,
+382,"University of California, Los Angeles",50,2006,84.0,Ryan Hollins,110.0,245,86.0
+383,University of Miami,52,2006,,Guillermo Diaz,,,
+384,University of Arizona,54,2006,,Hassan Adams,,,
+385,Iowa State University,60,2006,71.25,Will Blalock,96.5,194,78.0
+386,Ohio State University,1,2007,83.0,Greg Oden,112.0,257,88.25
+387,University of Texas at Austin,2,2007,81.0,Kevin Durant,110.0,215,88.75
+388,University of Florida,3,2007,80.75,Al Horford,107.0,246,84.75
+389,Ohio State University,4,2007,,Mike Conley,,,
+390,Georgetown University,5,2007,79.75,Jeff Green,103.0,228,85.25
+391,University of Florida,7,2007,78.75,Corey Brewer,103.0,185,80.25
+392,University of North Carolina,8,2007,80.75,Brandan Wright,108.5,200,87.75
+393,University of Florida,9,2007,82.5,Joakim Noah,106.5,223,85.25
+394,University of Washington,10,2007,82.5,Spencer Hawes,110.0,244,84.5
+395,Texas A&M University,11,2007,74.0,Acie Law,98.0,186,78.5
+396,Georgia Institute of Technology,12,2007,77.75,Thaddeus Young,106.0,210,83.5
+397,University of Kansas,13,2007,78.5,Julian Wright,108.0,211,86.25
+398,Florida State University,14,2007,77.75,Al Thornton,104.0,221,85.0
+399,Eastern Washington University,15,2007,75.75,Rodney Stuckey,100.5,207,79.25
+400,University of Southern California,16,2007,77.0,Nick Young,100.5,206,84.0
+401,Boston College,17,2007,,Sean Williams,,,
+402,Georgia Institute of Technology,19,2007,75.0,Javaris Crittenton,98.0,194,77.5
+403,Colorado State University,20,2007,82.75,Jason Smith,106.0,233,82.75
+404,Ohio State University,21,2007,75.75,Daequan Cook,101.5,203,80.25
+405,Boston College,22,2007,77.75,Jared Dudley,102.0,219,79.0
+406,DePaul University,23,2007,,Wilson Chandler,,,
+407,Rice University,25,2007,76.75,Morris Almond,102.5,214,82.0
+408,University of Oregon,26,2007,70.5,Aaron Brooks,94.0,161,76.0
+409,"University of California, Los Angeles",27,2007,,Arron Afflalo,,,
+410,University of Wisconsin,29,2007,,Alando Tucker,,,
+411,Purdue University,31,2007,79.75,Carl Landry,102.5,248,83.0
+412,University of Southern California,32,2007,,Gabe Pruitt,,,
+413,University of Arizona,33,2007,,Marcus Williams,,,
+414,"University of Nevada, Reno",34,2007,,Nick Fazekas,,,
+415,Louisiana State University,35,2007,,Glen Davis,,,
+416,University of Alabama,36,2007,81.5,Jermareo Davidson,109.5,230,88.0
+417,Duke University,37,2007,80.75,Josh McRoberts,106.5,240,85.0
+418,University of Florida,41,2007,79.5,Chris Richard,110.5,252,88.5
+419,Vanderbilt University,42,2007,,Derrick Byars,,,
+420,University of Massachusetts Amherst,46,2007,77.5,Stephane Lasme,107.0,213,86.0
+421,"California State University, Fresno",47,2007,79.75,Dominic McGuire,104.0,220,82.5
+422,University of Pittsburgh,49,2007,84.0,Aaron Gray,108.5,271,87.25
+423,Oklahoma State University,51,2007,,JamesOn Curry,,,
+424,University of Florida,52,2007,71.75,Taurean Green,96.0,173,74.25
+425,Syracuse University,53,2007,78.25,Demetris Nichols,105.0,211,84.25
+426,"University of Nevada, Reno",56,2007,74.0,Ramon Sessions,97.5,185,76.25
+427,University of Maryland,59,2007,75.75,D.J. Strawberry,101.0,199,78.5
+428,University of Memphis,1,2008,73.5,Derrick Rose,98.5,196,80.0
+429,Kansas State University,2,2008,79.0,Michael Beasley,107.0,239,84.25
+430,University of Southern California,3,2008,75.25,O.J. Mayo,99.5,200,78.0
+431,"University of California, Los Angeles",4,2008,74.25,Russell Westbrook,100.0,192,79.75
+432,"University of California, Los Angeles",5,2008,79.75,Kevin Love,106.0,255,83.25
+433,Indiana University,7,2008,74.0,Eric Gordon,99.0,222,81.0
+434,West Virginia University,8,2008,79.25,Joe Alexander,106.0,220,83.5
+435,University of Texas at Austin,9,2008,70.0,D.J. Augustin,94.5,172,75.5
+436,Stanford University,10,2008,83.25,Brook Lopez,113.0,256,89.5
+437,University of Arizona,11,2008,73.75,Jerryd Bayless,97.0,204,75.5
+438,Rider University,12,2008,,Jason Thompson,,,
+439,University of Kansas,13,2008,77.0,Brandon Rush,104.5,211,83.25
+440,Louisiana State University,14,2008,82.0,Anthony Randolph,110.0,230,87.0
+441,Stanford University,15,2008,,Robin Lopez,,,
+442,University of Florida,16,2008,,Marreese Speights,,,
+443,Georgetown University,17,2008,,Roy Hibbert,,,
+444,"University of Nevada, Reno",18,2008,83.0,JaVale McGee,114.5,241,90.0
+445,North Carolina State University,19,2008,,J.J. Hickson,,,
+446,University of California,21,2008,79.5,Ryan Anderson,105.5,234,81.0
+447,Western Kentucky University,22,2008,,Courtney Lee,,,
+448,Ohio State University,23,2008,,Kosta Koufos,,,
+449,Indiana University-Purdue University Indianapolis,26,2008,73.25,George Hill,97.5,181,81.0
+450,University of Kansas,27,2008,79.5,Darrell Arthur,107.0,216,82.75
+451,Syracuse University,28,2008,80.25,Donte Greene,108.0,221,82.0
+452,Indiana University,29,2008,,D.J. White,,,
+453,University of New Mexico,30,2008,76.0,J.R. Giddens,104.0,208,83.25
+454,University of Alabama at Birmingham,32,2008,,Walter Sharpe,,,
+455,University of Memphis,33,2008,78.25,Joey Dorsey,107.0,265,85.75
+456,University of Kansas,34,2008,,Mario Chalmers,,,
+457,Texas A&M University,35,2008,81.75,DeAndre Jordan,113.5,250,90.0
+458,"University of California, Los Angeles",37,2008,,Luc Mbah a Moute,,,
+459,Washington State University,38,2008,,Kyle Weaver,,,
+460,University of Arkansas,39,2008,76.0,Sonny Weems,104.0,193,82.0
+461,University of Memphis,40,2008,,Chris Douglas-Roberts,,,
+462,University of Virginia,42,2008,71.0,Sean Singletary,95.0,184,76.5
+463,Georgetown University,43,2008,79.0,Patrick Ewing,,234,84.5
+464,Kansas State University,47,2008,,Bill Walker,,,
+465,University of Oregon,48,2008,76.25,Malik Hairston,103.5,204,81.0
+466,University of California,50,2008,81.5,DeVon Hardin,109.5,235,87.0
+467,University of Kansas,52,2008,79.0,Darnell Jackson,106.5,241,83.25
+468,University of Oregon,54,2008,79.25,Maarty Leunen,102.75,222,80.0
+469,Iowa State University,55,2008,72.75,Mike Taylor,98.0,166,79.25
+470,University of Kansas,56,2008,81.0,Sasha Kaun,110.0,247,90.0
+471,University of Kentucky,58,2008,75.0,Joe Crawford,99.5,213,77.75
+472,University of Oklahoma,1,2009,80.5,Blake Griffin,105.0,248,83.25
+473,University of Connecticut,2,2009,85.0,Hasheem Thabeet,114.0,275,90.0
+474,Arizona State University,3,2009,76.0,James Harden,103.5,222,82.75
+475,University of Memphis,4,2009,76.0,Tyreke Evans,104.0,221,83.25
+476,Syracuse University,6,2009,71.25,Jonny Flynn,95.5,196,76.0
+477,Davidson College,7,2009,74.0,Stephen Curry,97.0,181,75.5
+478,University of Arizona,8,2009,81.25,Jordan Hill,108.0,232,85.5
+479,University of Southern California,9,2009,,DeMar DeRozan,,,
+480,University of Louisville,11,2009,77.0,Terrence Williams,103.5,213,81.0
+481,Duke University,12,2009,76.0,Gerald Henderson,102.5,215,82.25
+482,University of North Carolina,13,2009,80.25,Tyler Hansbrough,106.0,234,83.5
+483,University of Louisville,14,2009,80.5,Earl Clark,109.5,228,86.5
+484,Gonzaga University,15,2009,81.75,Austin Daye,110.0,192,86.75
+485,Wake Forest University,16,2009,,James Johnson,,212,84.0
+486,"University of California, Los Angeles",17,2009,75.25,Jrue Holiday,100.5,199,79.0
+487,University of North Carolina,18,2009,71.25,Ty Lawson,94.5,197,72.75
+488,Wake Forest University,19,2009,72.25,Jeff Teague,98.5,175,79.5
+489,Virginia Commonwealth University,20,2009,74.25,Eric Maynor,97.0,164,74.5
+490,"University of California, Los Angeles",21,2009,72.25,Darren Collison,96.5,166,75.0
+491,Ohio State University,24,2009,,Byron Mullens,,,
+492,University of Southern California,26,2009,80.5,Taj Gibson,109.0,214,88.0
+493,University of Missouri,27,2009,79.25,DeMarre Carroll,,210,82.0
+494,University of North Carolina,28,2009,76.25,Wayne Ellington,100.0,202,78.5
+495,Florida State University,29,2009,73.0,Toney Douglas,97.5,183,78.0
+496,Arizona State University,31,2009,80.75,Jeff Pendergraph,107.0,240,85.0
+497,University of Central Florida,32,2009,75.5,Jermaine Taylor,,208,80.25
+498,Villanova University,33,2009,79.0,Dante Cunningham,106.5,227,83.0
+499,Georgetown University,35,2009,79.25,DaJuan Summers,106.5,243,84.75
+500,University of Pittsburgh,36,2009,77.25,Sam Young,105.5,223,82.75
+501,University of Pittsburgh,37,2009,,DeJuan Blair,,,
+502,University of Washington,38,2009,79.0,Jon Brockman,,252,79.75
+503,Xavier University,40,2009,79.5,Derrick Brown,107.5,225,86.5
+504,University of Kentucky,41,2009,75.0,Jodie Meeks,98.0,211,76.5
+505,University of Arkansas,42,2009,72.25,Patrick Beverley,98.0,179,78.5
+506,Louisiana State University,43,2009,,Marcus Thornton,,,
+507,University of Arizona,44,2009,78.25,Chase Budinger,101.0,206,79.0
+508,University of Florida,45,2009,,Nick Calathes,,,
+509,University of North Carolina,46,2009,77.25,Danny Green,103.0,208,82.0
+510,University of Oklahoma,48,2009,78.25,Taylor Griffin,103.0,238,82.5
+511,University of Connecticut,52,2009,72.5,A.J. Price,97.0,193,75.75
+512,Saint Mary's College of California,55,2009,70.75,Patrick Mills,94.0,179,74.75
+513,University of Tennessee at Martin,58,2009,71.75,Lester Hudson,98.5,196,80.75
+514,Texas A&M University,59,2009,,Chinemelu Elonu,,,
+515,University of Kentucky,1,2010,74.75,John Wall,101.5,196,81.25
+516,Ohio State University,2,2010,77.75,Evan Turner,103.5,214,80.0
+517,Georgia Institute of Technology,3,2010,80.75,Derrick Favors,110.0,245,88.0
+518,Syracuse University,4,2010,78.25,Wesley Johnson,106.0,206,85.0
+519,University of Kentucky,5,2010,81.5,DeMarcus Cousins,113.0,292,89.75
+520,Baylor University,6,2010,80.75,Ekpe Udoh,106.5,237,88.5
+521,Georgetown University,7,2010,81.75,Greg Monroe,108.5,247,86.25
+522,Wake Forest University,8,2010,79.25,Al-Farouq Aminu,108.5,216,87.25
+523,Butler University,9,2010,78.75,Gordon Hayward,103.0,211,79.75
+524,"California State University, Fresno",10,2010,79.75,Paul George,107.0,214,83.25
+525,University of Kansas,11,2010,81.0,Cole Aldrich,111.5,236,88.75
+526,University of Kansas,12,2010,77.25,Xavier Henry,105.0,210,83.25
+527,University of North Carolina,13,2010,81.0,Ed Davis,108.0,227,84.0
+528,University of Kentucky,14,2010,80.0,Patrick Patterson,107.0,240,85.25
+529,Virginia Commonwealth University,15,2010,81.25,Larry Sanders,112.0,222,89.75
+530,"University of Nevada, Reno",16,2010,79.5,Luke Babbitt,104.5,218,83.25
+531,University of Kentucky,18,2010,72.25,Eric Bledsoe,98.0,192,79.5
+532,University of Texas at Austin,19,2010,74.0,Avery Bradley,98.5,180,79.25
+533,Oklahoma State University,20,2010,76.75,James Anderson,104.0,208,80.5
+534,Iowa State University,21,2010,80.5,Craig Brackins,109.0,229,84.0
+535,University of Memphis,22,2010,,Elliot Williams,,,
+536,Clemson University,23,2010,78.25,Trevor Booker,106.0,236,81.75
+537,University of Texas at Austin,24,2010,78.25,Damion James,107.0,227,84.75
+538,University of South Florida,25,2010,75.25,Dominique Jones,101.0,216,81.25
+539,University of Washington,26,2010,,Quincy Pondexter,,,
+540,Xavier University,27,2010,75.0,Jordan Crawford,101.0,198,79.0
+541,University of Maryland,28,2010,77.0,Greivis Vasquez,101.0,211,79.0
+542,University of Kentucky,29,2010,80.75,Daniel Orton,110.5,269,88.25
+543,Marquette University,30,2010,76.5,Lazar Hayward,102.0,226,84.75
+544,University of Texas at Austin,32,2010,81.5,Dexter Pittman,111.0,303,90.0
+545,Marshall University,33,2010,82.5,Hassan Whiteside,113.0,227,91.0
+546,"University of Nevada, Reno",34,2010,74.0,Armon Johnson,99.5,195,80.0
+547,University of New Mexico,37,2010,77.25,Darington Hobson,104.5,204,81.25
+548,Syracuse University,38,2010,76.25,Andy Rautins,100.0,192,79.0
+549,Stanford University,39,2010,78.5,Landry Fields,104.5,216,81.5
+550,University of Cincinnati,40,2010,76.5,Lance Stephenson,103.0,227,82.5
+551,Mississippi State University,41,2010,80.25,Jarvis Varnado,109.5,210,87.5
+552,West Virginia University,43,2010,79.0,Devin Ebanks,107.5,208,84.25
+553,University of Tulsa,44,2010,83.5,Jerome Jordan,113.0,244,89.25
+554,Georgia Institute of Technology,46,2010,79.5,Gani Lawal,107.5,233,84.0
+555,Florida State University,50,2010,83.5,Solomon Alabi,113.0,237,89.0
+556,University of Notre Dame,52,2010,78.0,Luke Harangody,106.0,240,81.5
+557,University of Oklahoma,54,2010,74.5,Willie Warren,99.5,208,78.0
+558,Western Kentucky University,55,2010,,Jeremy Evans,,,
+559,Rutgers University,56,2010,82.5,Hamady N'Diaye,111.0,233,90.0
+560,Florida State University,57,2010,,Ryan Reid,,,
+561,University of Texas at El Paso,58,2010,80.25,Derrick Caracter,107.25,280,84.25
+562,University of Miami,60,2010,,Dwayne Collins,,236,88.5
+563,Duke University,1,2011,73.75,Kyrie Irving,99.0,191,76.0
+564,University of Arizona,2,2011,79.25,Derrick Williams,108.0,248,85.5
+565,University of Texas at Austin,4,2011,79.5,Tristan Thompson,108.5,227,85.25
+566,University of Kentucky,8,2011,73.5,Brandon Knight,98.5,177,78.75
+567,University of Connecticut,9,2011,,Kemba Walker,,179,74.0
+568,Brigham Young University,10,2011,,Jimmer Fredette,,196,77.0
+569,Washington State University,11,2011,77.75,Klay Thompson,103.5,206,81.0
+570,University of Colorado,12,2011,77.0,Alec Burks,103.5,193,82.0
+571,University of Kansas,13,2011,79.75,Markieff Morris,106.5,241,82.75
+572,University of Kansas,14,2011,79.0,Marcus Morris,105.5,230,82.0
+573,San Diego State University,15,2011,78.0,Kawhi Leonard,106.0,227,87.0
+574,University of Southern California,16,2011,82.25,Nikola Vucevic,112.5,260,88.5
+575,Georgia Institute of Technology,17,2011,,Iman Shumpert,,210,79.5
+576,Florida State University,18,2011,80.0,Chris Singleton,107.5,239,85.0
+577,University of Tennessee,19,2011,78.5,Tobias Harris,103.5,223,83.0
+578,Duke University,21,2011,,Nolan Smith,,189,78.0
+579,Morehead State University,22,2011,78.0,Kenneth Faried,108.0,225,84.0
+580,Boston College,24,2011,,Reggie Jackson,,,
+581,Providence College,25,2011,,MarShon Brooks,,,
+582,University of Texas at Austin,26,2011,78.75,Jordan Hamilton,104.0,228,81.5
+583,Purdue University,27,2011,,JaJuan Johnson,,176,81.0
+584,Cleveland State University,28,2011,,Norris Cole,,175,77.5
+585,University of Texas at Austin,29,2011,74.0,Cory Joseph,99.0,186,77.5
+586,Marquette University,30,2011,78.0,Jimmy Butler,101.5,222,79.5
+587,University of Richmond,32,2011,80.0,Justin Harper,106.0,228,83.75
+588,Duke University,33,2011,79.5,Kyle Singler,106.0,228,82.1
+589,Butler University,34,2011,,Shelvin Mack,,211,79.0
+590,"University of California, Los Angeles",35,2011,78.75,Tyler Honeycutt,105.0,187,81.0
+591,University of Maryland,36,2011,79.75,Jordan Williams,106.5,247,84.25
+592,University of Georgia,37,2011,80.5,Trey Thompkins,107.5,239,85.0
+593,University of Florida,38,2011,80.75,Chandler Parsons,104.5,221,81.5
+594,University of Wisconsin,40,2011,82.0,Jon Leuer,105.5,223,84.0
+595,University of Michigan,41,2011,75.25,Darius Morris,102.0,190,79.5
+596,"University of California, Los Angeles",43,2011,76.0,Malcolm Lee,101.5,198,81.75
+597,Hofstra University,44,2011,73.5,Charles Jenkins,96.5,216,79.5
+598,University of Kentucky,45,2011,80.5,Josh Harrellson,104.5,279,83.25
+599,College of Charleston,46,2011,73.0,Andrew Goudelock,96.0,200,76.5
+600,University of Georgia,47,2011,75.0,Travis Leslie,103.0,205,82.5
+601,Oakland University,48,2011,82.0,Keith Benson,109.5,217,87.75
+602,University of Kansas,49,2011,73.75,Josh Selby,98.0,195,77.25
+603,Temple University,50,2011,,Lavoy Allen,,,
+604,Ohio State University,51,2011,77.25,Jon Diebler,99.0,197,78.0
+605,University of Florida,52,2011,80.5,Vernon Macklin,108.75,243,87.5
+606,University of Kentucky,53,2011,77.0,DeAndre Liggins,104.0,213,83.5
+607,Purdue University,55,2011,74.5,E'Twaun Moore,99.5,191,81.5
+608,University of Washington,60,2011,,Isaiah Thomas,,189,73.5
+609,University of Kentucky,1,2012,81.25,Anthony Davis,108.0,222,89.5
+610,University of Kentucky,2,2012,77.75,Michael Kidd-Gilchrist,104.5,233,84.0
+611,University of Florida,3,2012,75.25,Bradley Beal,100.0,202,80.0
+612,Syracuse University,4,2012,74.5,Dion Waiters,98.0,221,79.25
+613,University of Kansas,5,2012,79.75,Thomas Robinson,106.0,244,87.25
+614,Weber State University,6,2012,73.75,Damian Lillard,95.5,189,79.75
+615,University of North Carolina,7,2012,79.0,Harrison Barnes,101.5,228,83.25
+616,University of Washington,8,2012,78.0,Terrence Ross,100.5,197,79.25
+617,University of Connecticut,9,2012,81.75,Andre Drummond,109.5,279,90.25
+618,Duke University,10,2012,75.5,Austin Rivers,96.5,203,79.25
+619,University of Illinois at Urbana-Champaign,11,2012,83.75,Meyers Leonard,108.0,250,87.0
+620,University of Connecticut,12,2012,76.0,Jeremy Lamb,102.0,179,83.0
+621,University of North Carolina,13,2012,75.25,Kendall Marshall,96.0,198,77.5
+622,University of North Carolina,14,2012,81.0,John Henson,112.0,216,89.0
+623,St. John's University,15,2012,,Maurice Harkless,,,
+624,Iowa State University,16,2012,79.0,Royce White,104.5,261,84.0
+625,University of North Carolina,17,2012,83.25,Tyler Zeller,104.5,247,84.0
+626,University of Kentucky,18,2012,80.25,Terrence Jones,107.0,252,86.25
+627,St. Bonaventure University,19,2012,80.5,Andrew Nicholson,107.0,234,88.0
+628,Ohio State University,21,2012,79.75,Jared Sullinger,105.5,268,85.25
+629,Syracuse University,22,2012,82.75,Fab Melo,110.0,255,86.5
+630,Vanderbilt University,23,2012,75.25,John Jenkins,98.0,212,80.5
+631,Oregon State University,24,2012,75.5,Jared Cunningham,98.0,188,78.5
+632,University of Washington,25,2012,76.75,Tony Wroten,101.0,203,81.0
+633,Duke University,26,2012,82.5,Miles Plumlee,105.5,252,84.75
+634,Mississippi State University,27,2012,81.5,Arnett Moultrie,106.5,233,86.25
+635,Baylor University,28,2012,82.25,Perry Jones,107.0,234,85.75
+636,University of Kentucky,29,2012,73.0,Marquis Teague,98.0,184,79.0
+637,Vanderbilt University,30,2012,81.75,Festus Ezeli,108.0,264,89.75
+638,Vanderbilt University,31,2012,78.0,Jeff Taylor,101.5,213,78.25
+639,Florida State University,33,2012,80.75,Bernard James,108.5,230,87.0
+640,Marquette University,34,2012,75.75,Jae Crowder,102.75,242,80.5
+641,Michigan State University,35,2012,77.75,Draymond Green,105.0,236,85.25
+642,"University of California, Santa Barbara",36,2012,75.0,Orlando Johnson,98.5,223,83.0
+643,Baylor University,37,2012,78.5,Quincy Acy,106.5,224,86.75
+644,Baylor University,38,2012,80.75,Quincy Miller,105.0,219,85.25
+645,Texas A&M University,39,2012,78.75,Khris Middleton,103.0,216,82.75
+646,University of Memphis,40,2012,77.0,Will Barton,102.5,174,81.75
+647,University of Kansas,41,2012,74.75,Tyshawn Taylor,97.5,177,78.25
+648,University of Kentucky,42,2012,75.25,Doron Lamb,98.5,199,78.75
+649,University of Virginia,43,2012,79.25,Mike Scott,104.0,241,82.75
+650,University of Missouri,44,2012,75.5,Kim English,99.25,198,78.75
+651,Louisiana State University,45,2012,81.75,Justin Hamilton,109.25,264,85.5
+652,University of Kentucky,46,2012,78.0,Darius Miller,101.0,233,81.0
+653,Tennessee Technological University,47,2012,77.0,Kevin Murphy,99.0,194,78.75
+654,Norfolk State University,49,2012,80.5,Kyle O'Quinn,106.5,241,88.75
+655,Syracuse University,51,2012,78.0,Kris Joseph,104.0,215,83.0
+656,Marquette University,55,2012,73.0,Darius Johnson-Odom,98.0,214,78.5
+657,Purdue University,58,2012,79.25,Robbie Hummel,102.0,218,80.5
+658,University of Missouri,59,2012,73.5,Marcus Denmon,97.25,189,76.75
+659,Gonzaga University,60,2012,82.75,Robert Sacre,107.5,263,84.5
+660,"University of Nevada, Las Vegas",1,2013,,Anthony Bennett,,239,85.0
+661,Indiana University,2,2013,75.25,Victor Oladipo,100.5,213,81.25
+662,Georgetown University,3,2013,79.5,Otto Porter,105.5,198,85.5
+663,Indiana University,4,2013,82.75,Cody Zeller,106.0,230,82.75
+664,University of Maryland,5,2013,,Alex Len,,"NA7' 3.5""NA6.4910.75NANANANANANANANA5",87.5
+665,University of Kentucky,6,2013,82.0,Nerlens Noel,110.0,206,87.75
+666,University of Kansas,7,2013,75.5,Ben McLemore,100.5,189,79.75
+667,University of Georgia,8,2013,76.5,Kentavious Caldwell-Pope,100.5,204,80.0
+668,University of Michigan,9,2013,71.75,Trey Burke,97.5,187,77.5
+669,Lehigh University,10,2013,,C.J. McCollum,,192,78.0
+670,Syracuse University,11,2013,76.75,Michael Carter-Williams,101.0,184,79.25
+671,University of Pittsburgh,12,2013,82.75,Steven Adams,109.5,255,88.5
+672,Gonzaga University,13,2013,82.75,Kelly Olynyk,108.0,234,81.75
+673,"University of California, Los Angeles",14,2013,76.75,Shabazz Muhammad,104.5,222,83.0
+674,University of Miami,18,2013,70.25,Shane Larkin,89.5,171,70.75
+675,University of New Mexico,20,2013,78.0,Tony Snell,105.5,198,83.5
+676,University of Louisville,21,2013,81.75,Gorgui Dieng,111.5,230,87.5
+677,Duke University,22,2013,83.25,Mason Plumlee,108.0,238,83.0
+678,University of Arizona,23,2013,77.5,Solomon Hill,103.0,226,81.0
+679,University of Michigan,24,2013,76.5,Tim Hardaway,101.0,199,79.0
+680,University of North Carolina,25,2013,77.75,Reggie Bullock,102.0,200,80.75
+681,University of Colorado,26,2013,78.25,Andre Roberson,104.5,206,83.0
+682,University of Kentucky,29,2013,75.75,Archie Goodwin,102.0,189,81.5
+683,University of California,31,2013,77.25,Allen Crabbe,103.5,197,83.25
+684,Arizona State University,33,2013,76.75,Carrick Felix,103.5,203,81.25
+685,Murray State University,34,2013,71.0,Isaiah Canaan,94.5,188,76.5
+686,Georgia Institute of Technology,35,2013,76.5,Glen Rice,101.5,211,81.25
+687,University of Detroit Mercy,36,2013,72.25,Ray McCallum,96.5,191,75.25
+688,University of North Texas,37,2013,79.5,Tony Mitchell,106.5,236,86.5
+689,South Dakota State University,38,2013,75.5,Nate Wolters,98.0,196,75.75
+690,University of Kansas,39,2013,82.75,Jeff Withey,110.5,222,86.0
+691,University of Arizona,40,2013,80.75,Grant Jerrett,109.0,232,86.0
+692,San Diego State University,41,2013,76.0,Jamaal Franklin,103.5,191,83.25
+693,Baylor University,42,2013,0.0,Pierre Jackson,0.0,175,0.0
+694,Providence College,43,2013,76.75,Ricky Ledo,102.5,197,79.25
+695,Bucknell University,44,2013,82.25,Mike Muscala,108.0,230,85.0
+696,Virginia Polytechnic Institute and State University,46,2013,73.5,Erick Green,98.0,178,77.75
+697,Duke University,48,2013,81.75,Ryan Kelly,110.0,228,83.5
+698,University of Florida,49,2013,80.75,Erik Murphy,108.0,240,82.5
+699,"California State University, Long Beach",50,2013,77.75,James Ennis,104.5,201,83.5
+700,North Carolina State University,52,2013,76.0,Lorenzo Brown,100.0,189,79.0
+701,Colorado State University,53,2013,82.5,Colton Iverson,110.0,263,86.0
+702,University of Oregon,54,2013,78.5,Arsalan Kazemi,103.5,228,84.0
+703,University of Louisville,56,2013,71.5,Peyton Siva,93.0,181,75.0
+704,University of Missouri,57,2013,80.0,Alex Oriakhi,108.0,258,87.75
+705,Ohio State University,58,2013,77.0,Deshaun Thomas,104.0,220,82.0
+706,University of Kansas,1,2014,,Andrew Wiggins,,197,84.0
+707,Duke University,2,2014,,Jabari Parker,,240,83.5
+708,University of Kansas,3,2014,,Joel Embiid,,240,89.0
+709,University of Arizona,4,2014,79.5,Aaron Gordon,105.0,220,83.75
+710,Oklahoma State University,6,2014,74.0,Marcus Smart,99.0,227,81.25
+711,University of Kentucky,7,2014,79.75,Julius Randle,105.5,250,84.0
+712,University of Michigan,8,2014,77.25,Nik Stauskas,102.0,207,79.75
+713,Indiana University,9,2014,80.0,Noah Vonleh,108.0,247,88.25
+714,University of Louisiana at Lafayette,10,2014,74.5,Elfrid Payton,98.5,185,80.0
+715,Creighton University,11,2014,78.25,Doug McDermott,103.0,218,81.25
+716,"University of California, Los Angeles",13,2014,76.5,Zach LaVine,100.0,181,80.25
+717,North Carolina State University,14,2014,79.0,T.J. Warren,104.0,220,82.25
+718,Michigan State University,15,2014,81.0,Adreian Payne,109.0,239,88.0
+719,University of Kentucky,17,2014,77.25,James Young,104.0,213,84.0
+720,Syracuse University,18,2014,73.0,Tyler Ennis,98.0,182,79.25
+721,Michigan State University,19,2014,74.5,Gary Harris,96.0,205,78.75
+722,University of Michigan,21,2014,,Mitch McGary,,266,83.5
+723,"University of California, Los Angeles",22,2014,75.5,Jordan Adams,102.0,209,82.0
+724,Duke University,23,2014,79.25,Rodney Hood,103.0,208,80.5
+725,University of Connecticut,24,2014,71.0,Shabazz Napier,93.0,175,75.25
+726,University of North Carolina,26,2014,76.25,P.J. Hairston,101.0,229,81.0
+727,University of Washington,28,2014,75.5,C.J. Wilcox,100.5,201,81.75
+728,Stanford University,29,2014,,Josh Huestis,,NANANANANANA31.5NA38.5NA1911.373.19NA29,
+729,"University of California, Los Angeles",30,2014,79.5,Kyle Anderson,107.5,230,86.75
+730,Clemson University,32,2014,76.5,K.J. McDaniels,102.0,196,83.25
+731,University of Virginia,33,2014,76.75,Joe Harris,100.0,215,78.0
+732,Wichita State University,34,2014,78.0,Cleanthony Early,101.5,209,82.75
+733,University of Tennessee,35,2014,79.0,Jarnell Stokes,103.5,263,85.25
+734,Louisiana State University,36,2014,,Johnny O'Bryant III,,,
+735,University of Connecticut,37,2014,79.25,DeAndre Daniels,106.5,196,86.0
+736,University of Colorado,38,2014,76.5,Spencer Dinwiddie,103.0,205,80.25
+737,Syracuse University,39,2014,78.5,Jerami Grant,107.0,214,86.75
+738,University of Michigan,40,2014,,Glenn Robinson III,,,
+739,University of Arizona,42,2014,73.5,Nick Johnson,96.5,198,79.25
+740,Oklahoma State University,44,2014,74.5,Markel Brown,100.0,184,80.75
+741,Stanford University,45,2014,81.5,Dwight Powell,105.0,234,84.5
+742,University of Missouri,46,2014,75.25,Jordan Clarkson,98.0,186,80.0
+743,University of Louisville,47,2014,,Russ Smith,,NANANANANANA31.5NA37.0NANANANANA47,
+744,University of Pittsburgh,48,2014,76.0,Lamar Patterson,101.0,226,83.0
+745,University of New Mexico,49,2014,80.75,Cameron Bairstow,107.0,252,84.75
+746,University of Wisconsin-Green Bay,50,2014,84.25,Alec Brown,109.0,231,85.5
+747,Xavier University,55,2014,73.5,Semaj Christon,99.0,186,78.5
+748,University of Iowa,56,2014,,Roy Devyn Marble,,,
+749,University of Tennessee,58,2014,75.75,Jordan McRae,104.0,179,84.5
+750,San Diego State University,59,2014,74.25,Xavier Thames,96.0,187,76.0
+751,Baylor University,60,2014,79.75,Cory Jefferson,105.0,218,84.5
+752,University of Kentucky,1,2015,82.25,Karl-Anthony Towns,109.0,250,87.25
+753,Ohio State University,2,2015,75.25,D'Angelo Russell,102.0,193,81.75
+754,Duke University,3,2015,,Jahlil Okafor,110.5,272,89.0
+755,University of Kentucky,6,2015,83.25,Willie Cauley-Stein,111.0,242,87.0
+756,University of Arizona,8,2015,77.0,Stanley Johnson,102.0,242,83.5
+757,University of Wisconsin,9,2015,83.75,Frank Kaminsky,109.5,231,83.0
+758,Duke University,10,2015,76.5,Justise Winslow,104.5,222,82.25
+759,University of Texas at Austin,11,2015,81.75,Myles Turner,112.0,239,88.0
+760,University of Kentucky,12,2015,81.0,Trey Lyles,108.0,241,85.5
+761,University of Kentucky,13,2015,76.5,Devin Booker,102.5,206,80.25
+762,Murray State University,14,2015,72.75,Cameron Payne,97.5,183,79.25
+763,University of Kansas,15,2015,77.75,Kelly Oubre,102.5,203,86.25
+764,University of Louisville,16,2015,72.75,Terry Rozier,98.5,190,80.25
+765,"University of Nevada, Las Vegas",17,2015,75.75,Rashad Vaughn,101.0,199,79.0
+766,University of Wisconsin,18,2015,79.75,Sam Dekker,106.0,219,83.5
+767,University of Notre Dame,19,2015,75.25,Jerian Grant,100.0,198,79.5
+768,University of Utah,20,2015,76.25,Delon Wright,101.5,181,79.5
+769,University of Virginia,21,2015,77.25,Justin Anderson,101.0,231,83.75
+770,University of Arkansas,22,2015,81.5,Bobby Portis,108.5,246,86.0
+771,University of Arizona,23,2015,77.5,Rondae Hollis-Jefferson,104.0,211,86.0
+772,Duke University,24,2015,72.25,Tyus Jones,97.0,185,77.0
+773,Louisiana State University,25,2015,80.0,Jarell Martin,106.5,239,81.75
+774,University of Wyoming,27,2015,,Larry Nance Jr.,,,
+775,Georgia State University,28,2015,76.5,R.J. Hunter,104.0,185,82.5
+776,Syracuse University,29,2015,80.25,Chris McCullough,109.0,199,87.25
+777,"University of California, Los Angeles",30,2015,80.0,Kevon Looney,110.0,222,87.5
+778,University of Louisville,32,2015,79.0,Montrezl Harrell,109.0,253,88.25
+779,Louisiana State University,33,2015,79.0,Jordan Mickey,106.0,238,87.25
+780,Stanford University,34,2015,77.25,Anthony Brown,104.5,211,83.25
+781,Syracuse University,36,2015,80.25,Rakeem Christmas,110.5,243,89.25
+782,Bowling Green State University,37,2015,80.25,Richaun Holmes,108.0,243,85.5
+783,Villanova University,38,2015,77.5,Darrun Hilliard,103.5,220,81.0
+784,University of Tennessee,40,2015,,Josh Richardson,,,
+785,University of Notre Dame,41,2015,75.75,Pat Connaughton,99.5,206,81.0
+786,Boston College,42,2015,75.25,Olivier Hanlan,100.0,186,78.5
+787,University of Oregon,43,2015,72.75,Joseph Young,94.5,182,77.0
+788,University of Kentucky,44,2015,76.5,Andrew Harrison,100.0,213,81.0
+789,College of William & Mary,45,2015,,Marcus Thornton,,,
+790,"University of California, Los Angeles",46,2015,75.0,Norman Powell,102.5,215,82.75
+791,University of Kentucky,48,2015,83.0,Dakari Johnson,112.0,265,86.0
+792,University of Iowa,49,2015,79.75,Aaron White,106.5,220,83.5
+793,Eastern Washington University,51,2015,74.75,Tyler Harvey,98.5,181,77.5
+794,St. John's University,53,2015,,Sir'Dominic Pointer,,,
+795,University of Massachusetts Amherst,55,2015,80.25,Cady Lalanne,110.5,241,89.0
+796,Michigan State University,56,2015,77.5,Branden Dawson,105.0,230,83.0
+797,University of North Carolina,58,2015,77.25,J.P. Tokoto,100.5,196,82.0
+798,Louisiana State University,1,2016,,Ben Simmons,,229,83.0
+799,Duke University,2,2016,80.0,Brandon Ingram,109.5,196,87.0
+800,University of California,3,2016,77.25,Jaylen Brown,102.5,223,83.75
+801,Providence College,5,2016,75.0,Kris Dunn,100.0, ,81.5
+802,University of Oklahoma,6,2016,75.75,Buddy Hield,101.0,212,81.25
+803,University of Kentucky,7,2016,,Jamal Murray,98.5,204,79.0
+804,University of Washington,8,2016,,Marquesse Chriss,,,
+805,University of Utah,9,2016,84.25,Jakob Poeltl,111.5,239,86.75
+806,Gonzaga University,11,2016,,Domantas Sabonis,,238,82.5
+807,Baylor University,12,2016,78.5,Taurean Prince,102.0,220,83.5
+808,Michigan State University,14,2016,76.0,Denzel Valentine,102.0,210,82.75
+809,Vanderbilt University,17,2016,74.5,Wade Baldwin,100.0,202,83.25
+810,Marquette University,18,2016,82.0,Henry Ellenson,108.0,242,86.25
+811,Florida State University,19,2016,75.5,Malik Beasley,100.5,190,79.0
+812,University of Michigan,20,2016,77.75,Caris LeVert,101.0,191,82.0
+813,Saint Joseph's University,21,2016,76.25,DeAndre Bembry,101.0,207,81.25
+814,Syracuse University,22,2016,76.75,Malachi Richardson,101.5,200,84.0
+815,University of North Carolina,25,2016,81.0,Brice Johnson,106.5,209,84.5
+816,New Mexico State University,27,2016,80.25,Pascal Siakam,107.5,227,87.25
+817,University of Kentucky,28,2016,82.5,Skal Labissiere,105.5,216,86.5
+818,University of Washington,29,2016,,Dejounte Murray,,162,81.5
+819,Vanderbilt University,30,2016,82.25,Damian Jones,107.0,244,87.75
+820,Michigan State University,31,2016,81.25,Deyonta Davis,108.5,237,86.5
+821,University of Kansas,33,2016,79.5,Cheick Diallo,107.5,219,88.5
+822,University of Kentucky,34,2016,68.75,Tyler Ulis,88.5,149,74.0
+823,University of Virginia,36,2016,75.75,Malcolm Brogdon,98.0,223,82.5
+824,University of Louisville,37,2016,81.0,Chinanu Onuaku,108.5,245,86.75
+825,"University of Nevada, Las Vegas",38,2016,77.25,Patrick McCaw,100.5,181,82.0
+826,University of Maryland,40,2016,81.0,Diamond Stone,108.5,254,86.75
+827,"University of Nevada, Las Vegas",41,2016,82.25,Stephen Zimmerman,108.5,234,87.25
+828,Seton Hall University,42,2016,75.25,Isaiah Whitehead,100.0,210,80.75
+829,University of Notre Dame,45,2016,72.0,Demetrius Jackson,93.0,194,77.5
+830,Purdue University,46,2016,,A.J. Hammons,,278,87.0
+831,University of Maryland,47,2016,80.0,Jake Layman,102.0,209,81.25
+832,Syracuse University,49,2016,77.5,Michael Gbinije,101.0,205,79.5
+833,Iowa State University,50,2016,78.75,Georges Niang,103.0,231,82.0
+834,Providence College,51,2016,79.25,Ben Bentil,105.0,229,85.5
+835,Weber State University,52,2016,79.5,Joel Bolomboy,103.5,224,85.75
+836,Oakland University,54,2016,68.25,Kay Felder,88.5,177,74.5
+837,University of North Carolina,55,2016,72.5,Marcus Paige,97.0,164,78.25
+838,University of Connecticut,56,2016,78.25,Daniel Hamilton,103.5,197,81.0
+839,Iowa State University,58,2016,77.0,Abdel Nader,103.5,221,85.0
+840,University of Oklahoma,59,2016,75.25,Isaiah Cousins,98.5,194,78.25
+841,University of California,60,2016,,Tyrone Wallace,,198,81.5

@@ -1,0 +1,1779 @@
+,name,salary,position,birthday,shoot
+0,Tim Duncan,2967840.0,Center and Power Forward,1976-04-25,Right
+1,Keith Van Horn,2655360.0,Small Forward and Power Forward,1975-10-23,Right
+2,Chauncey Billups,2384640.0,Point Guard and Shooting Guard,1976-09-25,Right
+3,Antonio Daniels,2149920.0,Point Guard and Shooting Guard,1975-03-19,Right
+4,Tony Battie,1946880.0,Center and Power Forward,1976-02-11,Right
+5,Ron Mercer,1768320.0,Shooting Guard and Small Forward,1976-05-18,Right
+6,Tim Thomas,1614240.0,Small Forward and Power Forward,1977-02-26,Right
+7,Adonal Foyle,1495000.0,Center,1975-03-09,Right
+8,Danny Fortson,1291440.0,Power Forward and Center,1976-03-27,Right
+9,Tariq Abdul-Wahad,1226880.0,Shooting Guard,1974-11-03,Right
+10,Austin Croshere,1165440.0,Power Forward,1975-05-01,Right
+11,Derek Anderson,1107240.0,Shooting Guard and Small Forward and Point Guard,1974-07-18,Right
+12,Maurice Taylor,1051800.0,Power Forward and Small Forward and Center,1976-10-30,Right
+13,Kelvin Cato,999240.0,Center and Power Forward,1974-08-26,Right
+14,Brevin Knight,949320.0,Point Guard,1975-11-08,Right
+15,Johnny Taylor,901880.0,Small Forward,1974-06-04,Right
+16,Scot Pollard,818160.0,Center,1975-02-12,Right
+17,Paul Grant,785400.0,Center,1974-01-06,Right
+18,Anthony Parker,754080.0,Shooting Guard and Small Forward,1975-06-19,Right
+19,Ed Gray,723840.0,Shooting Guard,1975-09-27,Right
+20,Bobby Jackson,694920.0,Point Guard and Shooting Guard,1973-03-13,Right
+21,Rodrick Rhodes,555900.0,Small Forward and Shooting Guard,1973-09-24,Right
+22,John Thomas,640440.0,Center and Power Forward,1975-09-08,Right
+23,Charles Smith,619200.0,Shooting Guard,1975-08-22,Right
+24,Jacque Vaughn,601320.0,Point Guard and Shooting Guard,1975-02-11,Right
+25,Keith Booth,597600.0,Small Forward,1974-10-09,Right
+26,Charles O'Bannon,320000.0,Shooting Guard,1975-02-22,Right
+27,James Cotton,242000.0,Shooting Guard,1975-12-14,Left
+28,Bubba Wells,260000.0,Shooting Guard,1974-07-26,Right
+29,Kebu Stewart,242000.0,Power Forward,1973-12-19,Right
+30,James Collins,242000.0,Shooting Guard,1973-11-05,Right
+31,Marc Jackson,316969.0,Center and Power Forward,1975-01-16,Right
+32,Jerald Honeycutt,300000.0,Power Forward,1974-10-20,Right
+33,Anthony Johnson,242000.0,Point Guard and Shooting Guard,1974-10-02,Right
+34,Jason Lawson,242250.0,Center,1974-09-02,Right
+35,Stephen Jackson,316969.0,Small Forward and Shooting Guard and Power Forward,1978-04-05,Right
+36,Cedric Henderson,250000.0,Small Forward,1975-03-11,Right
+37,God Shammgod,242250.0,Point Guard,1976-04-29,Right
+38,Eric Washington,242000.0,Shooting Guard,1974-03-23,Right
+39,Alvin Williams,242000.0,Point Guard and Shooting Guard,1974-08-06,Right
+40,Chris Crawford,242000.0,Power Forward,1975-05-13,Right
+41,DeJuan Wheat,242000.0,Point Guard,1973-10-14,Right
+42,Mark Blount,316969.0,Center,1975-11-30,Right
+43,Michael Olowokandi,2700000.0,Center,1975-04-03,Right
+44,Mike Bibby,2400000.0,Point Guard,1978-05-13,Right
+45,Raef LaFrentz,2150000.0,Center and Power Forward,1976-05-29,Left
+46,Antawn Jamison,1940000.0,Power Forward and Small Forward,1976-06-12,Right
+47,Vince Carter,1760000.0,Shooting Guard and Small Forward,1977-01-26,Right
+48,Robert Traylor,1590000.0,Center and Power Forward,1977-02-01,Right
+49,Jason Williams,1460000.0,Point Guard,1975-11-18,Right
+50,Larry Hughes,1330000.0,Shooting Guard and Point Guard and Small Forward,1979-01-23,Right
+51,Paul Pierce,1165000.0,Small Forward and Shooting Guard,1977-10-13,Right
+52,Bonzi Wells,1100000.0,Shooting Guard and Small Forward,1976-09-28,Right
+53,Michael Doleac,1050000.0,Center,1977-06-15,Right
+54,Keon Clark,1000000.0,Center and Power Forward,1975-04-16,Left
+55,Michael Dickerson,949600.0,Shooting Guard,1975-06-25,Right
+56,Matt Harpring,900000.0,Small Forward and Shooting Guard,1976-05-31,Right
+57,Bryce Drew,857000.0,Point Guard,1974-09-21,Right
+58,Pat Garrity,740000.0,Power Forward and Small Forward,1976-08-23,Right
+59,Roshown McLeod,740000.0,Small Forward,1975-11-17,Right
+60,Ricky Davis,680000.0,Shooting Guard and Small Forward,1979-09-23,Right
+61,Brian Skinner,653500.0,Power Forward and Center,1976-05-19,Right
+62,Tyronn Lue,287500.0,Point Guard,1977-05-03,Right
+63,Felipe Lopez,600000.0,Shooting Guard and Point Guard,1974-12-19,Right
+64,Sam Jacobson,559000.0,Point Guard,1975-07-22,Right
+65,Corey Benjamin,540000.0,Shooting Guard and Point Guard,1978-02-24,Right
+66,Nazr Mohammed,535000.0,Center,1977-09-05,Right
+67,Ansu Sesay,287500.0,Small Forward,1976-07-29,Left
+68,Ruben Patterson,628500.0,Small Forward and Shooting Guard,1975-07-31,Right
+69,Jelani McCoy,287500.0,Center,1977-12-06,Right
+70,Shammond Williams,500000.0,Point Guard and Shooting Guard,1975-04-05,Right
+71,Jerome James,287500.0,Center,1975-11-17,Right
+72,Casey Shaw,287500.0,Center,1975-07-20,Right
+73,DeMarco Johnson,111871.0,Power Forward,1975-10-06,Right
+74,Rafer Alston,301875.0,Point Guard,1976-07-24,Right
+75,Cuttino Mobley,287500.0,Shooting Guard and Small Forward and Point Guard,1975-09-01,Left
+76,Miles Simon,287500.0,Shooting Guard,1975-11-21,Right
+77,Jahidi White,385000.0,Center and Power Forward,1976-02-19,Right
+78,Sean Marks,287500.0,Power Forward and Center,1975-08-23,Right
+79,Toby Bailey,287500.0,Shooting Guard,1975-11-19,Right
+80,Andrae Patterson,287500.0,Power Forward,1975-11-12,Right
+81,Tyson Wheeler,,Point Guard,1975-10-08,Right
+82,Ryan Stack,287500.0,Power Forward,1975-07-24,Right
+83,Cory Carr,287500.0,Shooting Guard,1975-12-05,Right
+84,Derrick Dial,301875.0,Shooting Guard,1975-12-20,Right
+85,Greg Buckner,47647.0,Shooting Guard and Small Forward,1976-09-16,Right
+86,Tremaine Fowlkes,512435.0,Small Forward,1976-04-11,Right
+87,Ryan Bowen,301875.0,Small Forward and Power Forward and Shooting Guard,1975-11-20,Right
+88,J.R. Henderson,287500.0,Small Forward,1976-10-30,Right
+89,Torraye Braggs,316969.0,Power Forward,1976-05-15,Right
+90,Maceo Baston,20000.0,Power Forward,1975-05-29,Right
+91,Elton Brand,3375960.0,Power Forward and Center,1979-03-11,Right
+92,Steve Francis,3020520.0,Point Guard and Shooting Guard,1977-02-21,Right
+93,Baron Davis,2712480.0,Point Guard,1979-04-13,Right
+94,Lamar Odom,2445480.0,Power Forward and Small Forward,1979-11-06,Left
+95,Wally Szczerbiak,2011440.0,Small Forward,1977-03-05,Right
+96,Richard Hamilton,1836240.0,Shooting Guard and Small Forward,1978-02-14,Right
+97,Andre Miller,1682280.0,Point Guard and Shooting Guard,1976-03-19,Right
+98,Shawn Marion,1546320.0,Small Forward and Power Forward,1978-05-07,Right
+99,Jason Terry,1468920.0,Shooting Guard and Point Guard,1977-09-15,Right
+100,Trajan Langdon,1394280.0,Shooting Guard,1976-05-13,Right
+101,Aleksandar Radojevic,1325760.0,Center,1976-08-08,Right
+102,Corey Maggette,1259400.0,Small Forward and Shooting Guard and Power Forward,1979-11-12,Right
+103,William Avery,1196520.0,Point Guard,1979-08-08,Right
+104,Metta World Peace,1079760.0,Small Forward,1979-11-13,Right
+105,Cal Bowdler,1025880.0,Small Forward and Power Forward,1977-03-31,Right
+106,James Posey,974520.0,Small Forward and Shooting Guard and Power Forward,1977-01-13,Right
+107,Quincy Lewis,930720.0,Small Forward and Shooting Guard,1977-06-26,Right
+108,Dion Glover,893400.0,Shooting Guard,1978-10-22,Right
+109,Jeff Foster,857760.0,Center,1977-01-16,Right
+110,Kenny Thomas,823440.0,Power Forward,1977-07-25,Right
+111,Devean George,790440.0,Small Forward,1977-08-29,Right
+112,Tim James,728520.0,Small Forward,1976-12-26,Right
+113,Vonteego Cummings,704400.0,Point Guard,1976-02-29,Right
+114,Jumaine Jones,684000.0,Small Forward and Power Forward and Shooting Guard,1979-02-10,Right
+115,Scott Padgett,679800.0,Power Forward,1976-04-19,Right
+116,John Celestand,301875.0,Point Guard,1977-03-06,Right
+117,Michael Ruffin,401875.0,Power Forward and Center,1977-01-21,Right
+118,Chris Herren,301875.0,Point Guard,1975-09-27,Right
+119,Evan Eschmeyer,301875.0,Center,1975-05-30,Right
+120,Calvin Booth,301875.0,Center,1976-05-07,Left
+121,Obinna Ekezie,301875.0,Power Forward and Center,1975-08-22,Right
+122,Laron Profit,301875.0,Shooting Guard and Small Forward and Point Guard,1977-08-05,Right
+123,A.J. Bramlett,118974.0,Center,1977-01-10,Right
+124,Francisco Elson,366931.0,Center,1976-02-28,Right
+125,Lee Nailon,316969.0,Small Forward and Power Forward,1975-02-22,Left
+126,Ryan Robertson,301875.0,Shooting Guard,1976-10-02,Right
+127,Todd MacCulloch,301875.0,Center,1976-01-27,Right
+128,Lari Ketner,92338.0,Power Forward,1977-02-01,Right
+129,Venson Hamilton,,Center,1977-08-11,Right
+130,Rodney Buford,301875.0,Small Forward and Shooting Guard,1977-11-02,Right
+131,Tim Young,301875.0,Center,1976-02-06,Right
+132,Kenyon Martin,3536640.0,Power Forward and Center,1977-12-30,Right
+133,Stromile Swift,3164280.0,Power Forward and Center,1979-11-21,Right
+134,Marcus Fizer,2562000.0,Power Forward and Small Forward,1978-08-10,Right
+135,Mike Miller,2320080.0,Small Forward and Shooting Guard,1980-02-19,Right
+136,DerMarr Johnson,2107200.0,Small Forward and Shooting Guard,1980-05-05,Right
+137,Chris Mihm,1923600.0,Center and Power Forward,1979-07-16,Right
+138,Jamal Crawford,1762320.0,Shooting Guard and Point Guard,1980-03-20,Right
+139,Joel Przybilla,1619880.0,Center,1979-10-10,Right
+140,Keyon Dooling,1538880.0,Point Guard and Shooting Guard,1980-05-08,Right
+141,Jerome Moiso,1461960.0,Center and Power Forward,1978-06-15,Left
+142,Etan Thomas,1388880.0,Center and Power Forward,1978-04-01,Right
+143,Courtney Alexander,1319400.0,Point Guard and Shooting Guard,1977-04-27,Right
+144,Mateen Cleaves,1253400.0,Point Guard,1977-09-07,Right
+145,Jason Collier,1190760.0,Center,1977-09-08,Left
+146,Desmond Mason,1074720.0,Small Forward and Shooting Guard,1977-10-11,Right
+147,Quentin Richardson,1020960.0,Small Forward and Shooting Guard,1980-04-13,Right
+148,Jamaal Magloire,975000.0,Center,1978-05-21,Right
+149,Speedy Claxton,936000.0,Point Guard,1978-05-08,Right
+150,Morris Peterson,898560.0,Shooting Guard and Small Forward,1977-08-26,Left
+151,Donnell Harvey,862560.0,Power Forward and Small Forward,1980-08-26,Left
+152,Mamadou N'Diaye,737880.0,Center,1975-06-16,Right
+153,Erick Barkley,712200.0,Point Guard,1978-02-21,Right
+154,Mark Madsen,707040.0,Center and Power Forward,1976-01-28,Right
+155,Dan Langhi,316969.0,Small Forward,1977-11-28,Right
+156,A.J. Guyton,316969.0,Point Guard,1978-02-12,Right
+157,Jake Voskuhl,316969.0,Center,1977-11-01,Right
+158,Khalid El-Amin,316969.0,Point Guard,1979-04-25,Right
+159,Mike Smith,316969.0,Small Forward,1976-04-15,Right
+160,Eddie House,316969.0,Point Guard and Shooting Guard,1978-05-14,Right
+161,Eduardo Najera,316969.0,Power Forward and Small Forward,1976-07-11,Right
+162,Lavor Postell,316969.0,Shooting Guard,1978-02-26,Right
+163,Hanno Mottola,316969.0,Center and Small Forward,1976-09-09,Right
+164,Michael Redd,316969.0,Shooting Guard and Small Forward,1979-08-24,Left
+165,Brian Cardinal,316969.0,Power Forward and Small Forward,1977-05-02,Right
+166,Jabari Smith,316969.0,Center and Power Forward,1977-02-12,Right
+167,Jason Hart,316969.0,Point Guard,1978-04-29,Right
+168,Kaniel Dickens,264011.0,Power Forward and Small Forward,1978-07-21,Right
+169,Ernest Brown,332817.0,Center,1979-05-17,Right
+170,Dan McClintock,,Center,1977-04-19,Right
+171,Chris Porter,316969.0,Small Forward,1978-05-09,Right
+172,Jason Richardson,2425440.0,Shooting Guard and Small Forward,1981-01-20,Right
+173,Shane Battier,2203080.0,Small Forward and Shooting Guard,1978-09-09,Right
+174,Eddie Griffin,2011080.0,Power Forward and Center,1982-05-30,Right
+175,Rodney White,1693560.0,Small Forward and Shooting Guard,1980-06-28,Right
+176,Joe Johnson,1608840.0,Shooting Guard and Small Forward,1981-06-29,Right
+177,Kedrick Brown,1528440.0,Small Forward,1981-03-18,Right
+178,Richard Jefferson,1379400.0,Small Forward,1980-06-21,Right
+179,Troy Murphy,1310400.0,Power Forward,1980-05-02,Left
+180,Steven Hunter,1244880.0,Center and Power Forward,1981-10-31,Right
+181,Kirk Haston,1182600.0,Small Forward and Power Forward,1979-03-10,Right
+182,Michael Bradley,1123560.0,Power Forward and Center,1979-04-18,Right
+183,Jason Collins,1067400.0,Center and Power Forward,1978-12-02,Right
+184,Zach Randolph,1019280.0,Power Forward and Center,1981-07-16,Left
+185,Brendan Haywood,978600.0,Center,1979-11-27,Right
+186,Joseph Forte,939360.0,Shooting Guard,1981-03-23,Right
+187,Jeryl Sasser,901800.0,Shooting Guard,1979-02-13,Right
+188,Brandon Armstrong,865800.0,Shooting Guard,1980-06-16,Left
+189,Gerald Wallace,797880.0,Small Forward and Power Forward,1982-07-23,Right
+190,Samuel Dalembert,771480.0,Center,1981-05-10,Right
+191,Jamaal Tinsley,749160.0,Point Guard,1978-02-28,Right
+192,Trenton Hassell,332817.0,Shooting Guard and Small Forward,1979-03-04,Right
+193,Gilbert Arenas,332817.0,Point Guard,1982-01-06,Right
+194,Omar Cook,292230.0,Point Guard,1982-01-28,Right
+195,Will Solomon,332817.0,Point Guard and Shooting Guard,1978-07-20,Right
+196,Terence Morris,420000.0,Small Forward,1979-01-11,Right
+197,Brian Scalabrine,332817.0,Power Forward and Center,1978-03-18,Right
+198,Jeff Trepagnier,332817.0,Shooting Guard,1979-07-11,Left
+199,Damone Brown,332817.0,Small Forward and Power Forward,1979-06-28,Right
+200,Earl Watson,332817.0,Point Guard,1979-06-12,Right
+201,Jamison Brewer,332817.0,Point Guard and Shooting Guard,1980-11-19,Right
+202,Bobby Simmons,332817.0,Small Forward and Shooting Guard and Power Forward,1980-06-02,Right
+203,Sean Lampley,349458.0,Small Forward,1979-09-03,Right
+204,Loren Woods,332817.0,Center,1978-06-21,Right
+205,Ken Johnson,349458.0,Center,1978-02-01,Right
+206,Ruben Boumtje-Boumtje,332817.0,Center,1978-05-20,Right
+207,Alton Ford,332817.0,Power Forward,1981-05-29,Right
+208,Jarron Collins,332817.0,Center,1978-12-02,Right
+209,Kenny Satterfield,332817.0,Point Guard,1981-04-10,Right
+210,Alvin Jones,332817.0,Center,1978-09-09,Right
+211,Jay Williams,3451920.0,Point Guard,1981-09-10,Right
+212,Mike Dunleavy,3100080.0,Small Forward and Shooting Guard and Power Forward,1980-09-15,Right
+213,Drew Gooden,2794920.0,Power Forward and Center and Small Forward,1981-09-24,Right
+214,Dajuan Wagner,2298840.0,Shooting Guard,1983-02-04,Right
+215,Chris Wilcox,1922520.0,Center and Power Forward,1982-09-03,Right
+216,Caron Butler,1678800.0,Small Forward and Shooting Guard,1980-03-13,Right
+217,Jared Jeffries,1594920.0,Power Forward and Small Forward,1981-11-25,Right
+218,Melvin Ely,1490120.0,Center and Power Forward,1978-05-02,Right
+219,Marcus Haislip,1439400.0,Power Forward and Small Forward,1980-12-22,Right
+220,Fred Jones,1367400.0,Shooting Guard and Small Forward,1979-03-11,Right
+221,Juan Dixon,1172400.0,Shooting Guard and Point Guard,1978-10-09,Right
+222,Curtis Borchardt,1113720.0,Center,1980-09-13,Right
+223,Ryan Humphrey,1063680.0,Power Forward and Small Forward,1979-07-24,Right
+224,Kareem Rush,1021080.0,Shooting Guard and Point Guard,1980-10-30,Left
+225,Qyntel Woods,980280.0,Small Forward and Power Forward,1981-02-16,Right
+226,Casey Jacobsen,941040.0,Small Forward and Shooting Guard,1981-03-19,Right
+227,Tayshaun Prince,903360.0,Small Forward,1980-02-28,Left
+228,Frank Williams,832560.0,Point Guard and Shooting Guard,1980-02-25,Right
+229,John Salmons,670800.0,Shooting Guard and Small Forward and Point Guard,1979-12-12,Right
+230,Chris Jefferies,781800.0,Small Forward and Shooting Guard,1980-02-13,Right
+231,Dan Dickau,776880.0,Point Guard,1978-09-16,Right
+232,Roger Mason,349458.0,Shooting Guard and Point Guard and Small Forward,1980-09-10,Right
+233,Robert Archibald,349458.0,Power Forward and Center,1980-03-29,Right
+234,Vincent Yarbrough,349458.0,Shooting Guard,1981-03-21,Right
+235,Dan Gadzuric,349458.0,Center and Power Forward,1978-02-02,Right
+236,Carlos Boozer,349458.0,Power Forward and Center,1981-11-20,Right
+237,Tito Maddox,349458.0,Shooting Guard,1981-06-07,Right
+238,Ronald Murray,349458.0,Shooting Guard and Point Guard,1979-07-29,Right
+239,Lonny Baxter,349458.0,Power Forward and Center,1979-01-27,Right
+240,Matt Barnes,695046.0,Small Forward and Power Forward,1980-03-09,Right
+241,Jamal Sampson,349458.0,Power Forward and Center,1983-05-15,Right
+242,Chris Owens,349458.0,Small Forward,1979-03-01,Right
+243,Darius Songaila,366931.0,Center and Power Forward,1978-02-14,Right
+244,Rasual Butler,349458.0,Small Forward and Shooting Guard,1979-05-23,Right
+245,Tamar Slay,349458.0,Shooting Guard,1980-04-02,Right
+246,Randy Holcomb,52033.0,Small Forward,1979-08-08,Left
+247,Corsley Edwards,319498.0,Center,1979-03-05,Right
+248,Carmelo Anthony,3229200.0,Small Forward and Power Forward,1984-05-29,Right
+249,Chris Bosh,2911320.0,Center and Power Forward,1984-03-24,Left
+250,Dwyane Wade,2636400.0,Shooting Guard and Point Guard,1982-01-17,Right
+251,Chris Kaman,2394600.0,Center,1982-04-28,Right
+252,Kirk Hinrich,2185920.0,Point Guard and Shooting Guard,1981-01-02,Right
+253,T.J. Ford,2002680.0,Point Guard,1983-03-24,Right
+254,Mike Sweetney,1840800.0,Center and Power Forward,1982-10-25,Right
+255,Jarvis Hayes,1748760.0,Small Forward and Shooting Guard,1981-08-09,Right
+256,Nick Collison,1578240.0,Power Forward and Center,1980-10-26,Right
+257,Marcus Banks,1499400.0,Point Guard,1981-11-19,Right
+258,Luke Ridnour,1424400.0,Point Guard and Shooting Guard,1981-02-13,Right
+259,Reece Gaines,1353120.0,Point Guard,1981-01-07,Right
+260,Troy Bell,1285440.0,Point Guard,1980-11-10,Right
+261,David West,1160160.0,Power Forward and Small Forward,1980-08-29,Right
+262,Dahntay Jones,1063680.0,Small Forward and Shooting Guard,1980-12-27,Right
+263,Brian Cook,903360.0,Power Forward and Center,1980-12-04,Right
+264,Josh Howard,773400.0,Small Forward,1980-04-28,Right
+265,Jason Kapono,366931.0,Small Forward and Shooting Guard,1981-02-04,Right
+266,Luke Walton,366931.0,Small Forward and Power Forward,1980-03-28,Right
+267,Jerome Beasley,366931.0,Power Forward,1980-05-17,Right
+268,Mario Austin,,Forward/Center,1982-02-26,Right
+269,Travis Hansen,366931.0,Small Forward,1978-04-15,Right
+270,Steve Blake,366931.0,Point Guard,1980-02-26,Right
+271,Derrick Zimmerman,,Point Guard,1981-12-02,Right
+272,Willie Green,366931.0,Shooting Guard,1981-07-28,Right
+273,Keith Bogans,366931.0,Shooting Guard and Small Forward,1980-05-12,Right
+274,Matt Bonner,385277.0,Power Forward and Center,1980-04-05,Right
+275,Mo Williams,366931.0,Point Guard and Shooting Guard,1982-12-19,Right
+276,James Jones,366931.0,Small Forward and Shooting Guard,1980-10-04,Right
+277,Kyle Korver,366931.0,Shooting Guard and Small Forward and Power Forward,1981-03-17,Right
+278,Brandon Hunter,366931.0,Power Forward,1980-11-24,Right
+279,Emeka Okafor,3739680.0,Center and Power Forward,1982-09-28,Right
+280,Ben Gordon,3358320.0,Shooting Guard,1983-04-04,Right
+281,Devin Harris,2741880.0,Point Guard and Shooting Guard,1983-02-27,Right
+282,Josh Childress,2490360.0,Small Forward and Shooting Guard,1983-06-20,Right
+283,Luol Deng,2273400.0,Small Forward and Power Forward,1985-04-16,Right
+284,Rafael Araujo,2082720.0,Center,1980-08-12,Right
+285,Andre Iguodala,1914480.0,Small Forward and Shooting Guard,1984-01-28,Right
+286,Luke Jackson,1818720.0,Small Forward,1981-11-06,Left
+287,Kris Humphries,1481400.0,Power Forward and Small Forward,1985-02-06,Right
+288,Kirk Snyder,1336920.0,Small Forward and Shooting Guard and Power Forward,1983-06-05,Right
+289,Jameer Nelson,1106160.0,Point Guard,1982-02-09,Right
+290,Delonte West,939480.0,Point Guard and Shooting Guard,1983-07-26,Left
+291,Tony Allen,901920.0,Shooting Guard and Point Guard,1982-01-11,Right
+292,Kevin Martin,872040.0,Shooting Guard and Point Guard,1983-02-01,Right
+293,David Harrison,835560.0,Center,1982-08-15,Right
+294,Jackson Vroman,385277.0,Power Forward and Center,1981-06-06,Right
+295,Lionel Chalmers,450000.0,Point Guard,1980-11-10,Right
+296,Donta Smith,425000.0,Shooting Guard,1983-11-27,Right
+297,Andre Emmett,385277.0,Shooting Guard and Small Forward,1982-08-27,Right
+298,Antonio Burks,385277.0,Point Guard,1980-02-25,Right
+299,Royal Ivey,425000.0,Shooting Guard and Point Guard,1981-12-20,Right
+300,Chris Duhon,385277.0,Point Guard,1982-08-31,Right
+301,Justin Reed,385277.0,Small Forward and Power Forward,1982-01-16,Right
+302,Trevor Ariza,385277.0,Small Forward and Shooting Guard,1985-06-30,Right
+303,Bernard Robinson,385277.0,Shooting Guard and Small Forward,1980-12-26,Left
+304,Pape Sow,385277.0,Center,1981-11-22,Right
+305,Matt Freije,352388.0,Power Forward,1981-10-02,Right
+306,Luis Flores,385277.0,Point Guard,1981-04-11,Right
+307,Andrew Bogut,4340520.0,Center and Power Forward,1984-11-28,Right
+308,Marvin Williams,3883560.0,Power Forward and Small Forward,1986-06-19,Right
+309,Deron Williams,3487400.0,Point Guard,1984-06-26,Right
+310,Chris Paul,3144240.0,Point Guard,1985-05-06,Right
+311,Raymond Felton,2847360.0,Point Guard and Shooting Guard,1984-06-26,Right
+312,Charlie Villanueva,2360880.0,Power Forward,1984-08-24,Right
+313,Channing Frye,2162880.0,Power Forward and Center,1983-05-17,Right
+314,Ike Diogu,1988160.0,Power Forward,1983-09-11,Right
+315,Sean May,1619280.0,Power Forward and Center,1984-04-04,Right
+316,Rashad McCants,1538400.0,Shooting Guard,1984-09-25,Right
+317,Antoine Wright,1461360.0,Shooting Guard and Small Forward,1984-02-06,Right
+318,Joey Graham,1388400.0,Small Forward,1982-06-11,Right
+319,Danny Granger,1318920.0,Small Forward,1983-04-20,Right
+320,Hakim Warrick,1196520.0,Power Forward,1982-07-08,Right
+321,Julius Hodge,1148760.0,Shooting Guard,1983-11-18,Right
+322,Nate Robinson,1102680.0,Point Guard,1984-05-31,Right
+323,Jarrett Jack,1058640.0,Point Guard and Shooting Guard,1983-10-28,Right
+324,Francisco Garcia,1016400.0,Small Forward and Shooting Guard,1981-12-31,Right
+325,Luther Head,975600.0,Shooting Guard and Point Guard,1982-11-26,Right
+326,Jason Maxiell,905640.0,Power Forward and Center,1983-02-18,Right
+327,Linas Kleiza,879360.0,Small Forward and Power Forward,1985-01-03,Right
+328,Wayne Simien,867720.0,Power Forward,1983-03-09,Right
+329,David Lee,861360.0,Power Forward and Center and Small Forward,1983-04-29,Left
+330,Salim Stoudamire,675000.0,Shooting Guard and Point Guard,1982-10-11,Left
+331,Daniel Ewing,450000.0,Point Guard and Shooting Guard,1983-03-26,Right
+332,Brandon Bass,398762.0,Power Forward and Center,1985-04-30,Right
+333,Ronny Turiaf,664209.0,Center,1983-01-13,Right
+334,Travis Diener,398762.0,Point Guard,1982-03-01,Right
+335,Von Wafer,398762.0,Shooting Guard and Small Forward,1985-07-21,Right
+336,Chris Taft,423762.0,Center,1985-03-10,Right
+337,Bracey Wright,398762.0,Shooting Guard,1984-07-01,Right
+338,Ryan Gomes,428762.0,Small Forward and Power Forward,1982-09-01,Right
+339,Robert Whaley,398762.0,Center,1982-04-16,Right
+340,Orien Greene,398762.0,Shooting Guard and Point Guard,1982-02-04,Right
+341,Dijon Thompson,398762.0,Shooting Guard and Small Forward,1983-02-23,Right
+342,Lawrence Roberts,398762.0,Center and Power Forward,1982-10-20,Right
+343,Alex Acker,398762.0,Shooting Guard,1983-01-21,Right
+344,LaMarcus Aldridge,4027320.0,Power Forward and Center,1985-07-19,Right
+345,Adam Morrison,3616680.0,Small Forward and Power Forward,1984-07-19,Right
+346,Tyrus Thomas,3260760.0,Power Forward and Center,1986-08-17,Right
+347,Shelden Williams,2952840.0,Power Forward and Center,1983-10-21,Right
+348,Brandon Roy,2681880.0,Shooting Guard,1984-07-23,Right
+349,Randy Foye,2448240.0,Shooting Guard and Point Guard,1983-09-24,Right
+350,Rudy Gay,2242290.0,Small Forward,1986-08-17,Right
+351,Patrick O'Bryant,2061720.0,Center,1986-06-20,Right
+352,J.J. Redick,1860720.0,Shooting Guard and Point Guard,1984-06-24,Right
+353,Hilton Armstrong,1767600.0,Center and Power Forward,1984-11-11,Right
+354,Ronnie Brewer,1595400.0,Shooting Guard and Small Forward,1985-03-20,Right
+355,Cedric Simmons,1515480.0,Power Forward,1986-01-03,Right
+356,Rodney Carney,1439760.0,Small Forward and Shooting Guard,1984-04-15,Right
+357,Shawne Williams,1367760.0,Small Forward and Power Forward and Shooting Guard,1986-02-16,Right
+358,Quincy Douby,1240920.0,Point Guard,1984-05-16,Right
+359,Renaldo Balkman,1191240.0,Small Forward and Power Forward,1984-07-14,Right
+360,Rajon Rondo,1143600.0,Point Guard,1986-02-22,Right
+361,Marcus Williams,1097880.0,Point Guard,1985-12-03,Left
+362,Josh Boone,1053960.0,Power Forward and Center,1984-11-21,Right
+363,Kyle Lowry,1011720.0,Point Guard,1986-03-25,Right
+364,Shannon Brown,971280.0,Shooting Guard,1985-11-29,Right
+365,Jordan Farmar,939120.0,Point Guard,1986-11-30,Right
+366,Maurice Ager,906480.0,Shooting Guard,1984-02-09,Right
+367,Mardy Collins,899880.0,Shooting Guard and Point Guard and Small Forward,1984-08-04,Right
+368,James White,412718.0,Small Forward and Shooting Guard,1982-10-21,Right
+369,Steve Novak,600000.0,Small Forward and Power Forward,1983-06-13,Right
+370,Solomon Jones,675000.0,Power Forward and Center,1984-07-16,Right
+371,Paul Davis,412718.0,Power Forward and Center,1984-07-21,Right
+372,P.J. Tucker,412718.0,Small Forward and Shooting Guard,1985-05-05,Right
+373,Craig Smith,412718.0,Power Forward,1983-11-10,Right
+374,Bobby Jones,412718.0,Small Forward and Center,1984-01-09,Right
+375,David Noel,412718.0,Power Forward,1984-02-27,Right
+376,James Augustine,412718.0,Power Forward,1984-02-27,Left
+377,Daniel Gibson,412718.0,Point Guard and Shooting Guard,1986-02-27,Right
+378,Alexander Johnson,412718.0,Power Forward,1983-02-08,Right
+379,Dee Brown,412718.0,Point Guard,1984-08-17,Right
+380,Paul Millsap,625000.0,Power Forward,1985-02-10,Right
+381,Leon Powe,432000.0,Center and Power Forward and Small Forward,1984-01-22,Right
+382,Ryan Hollins,412718.0,Center and Power Forward,1984-10-10,Right
+383,Guillermo Diaz,56065.0,Shooting Guard,1985-03-04,Right
+384,Hassan Adams,412718.0,Shooting Guard,1984-06-20,Right
+385,Will Blalock,412718.0,Point Guard,1983-09-08,Right
+386,Greg Oden,4662000.0,Center,1988-01-22,Right
+387,Kevin Durant,4171200.0,Small Forward and Shooting Guard,1988-09-29,Right
+388,Al Horford,3745800.0,Center,1986-06-03,Right
+389,Mike Conley,3377160.0,Point Guard,1987-10-11,Left
+390,Jeff Green,3058200.0,Small Forward and Power Forward,1986-08-28,Right
+391,Corey Brewer,2535720.0,Small Forward and Shooting Guard,1986-03-05,Right
+392,Brandan Wright,2323080.0,Power Forward and Center,1987-10-05,Left
+393,Joakim Noah,2135400.0,Center,1985-02-25,Right
+394,Spencer Hawes,2028600.0,Center and Power Forward,1988-04-28,Right
+395,Acie Law,1927080.0,Point Guard,1985-01-25,Right
+396,Thaddeus Young,1830720.0,Power Forward,1988-06-21,Left
+397,Julian Wright,1739160.0,Small Forward,1987-05-20,Right
+398,Al Thornton,1652280.0,Small Forward and Power Forward,1983-12-07,Right
+399,Rodney Stuckey,1569600.0,Point Guard and Shooting Guard,1986-04-21,Right
+400,Nick Young,1491240.0,Shooting Guard,1985-06-01,Right
+401,Sean Williams,1416600.0,Center and Power Forward,1986-09-13,Right
+402,Javaris Crittenton,1285200.0,Shooting Guard and Point Guard,1987-12-31,Right
+403,Jason Smith,1233840.0,Center and Power Forward,1986-03-02,Right
+404,Daequan Cook,1184400.0,Shooting Guard and Small Forward,1987-04-28,Right
+405,Jared Dudley,1137000.0,Small Forward and Power Forward and Shooting Guard,1985-07-10,Right
+406,Wilson Chandler,1091640.0,Small Forward and Power Forward and Shooting Guard,1987-05-10,Right
+407,Morris Almond,1005960.0,Shooting Guard,1985-02-02,Right
+408,Aaron Brooks,972720.0,Point Guard,1985-01-14,Right
+409,Arron Afflalo,944520.0,Shooting Guard and Small Forward,1985-10-15,Right
+410,Alando Tucker,931920.0,Small Forward and Shooting Guard,1984-02-11,Right
+411,Carl Landry,427163.0,Power Forward,1983-09-19,Right
+412,Gabe Pruitt,650000.0,Point Guard and Shooting Guard,1986-04-19,Right
+413,Nick Fazekas,427163.0,Power Forward,1985-06-17,Right
+414,Glen Davis,427163.0,Power Forward and Center,1986-01-01,Right
+415,Jermareo Davidson,427163.0,Small Forward,1984-11-15,Right
+416,Josh McRoberts,427163.0,Power Forward and Center,1987-02-28,Left
+417,Chris Richard,427163.0,Power Forward and Center,1984-12-25,Right
+418,Derrick Byars,,Power Forward,1984-04-25,Right
+419,Stephane Lasme,48056.0,Small Forward and Power Forward,1982-12-17,Right
+420,Dominic McGuire,427163.0,Small Forward and Power Forward and Shooting Guard,1985-10-20,Right
+421,Aaron Gray,427163.0,Center,1984-12-07,Right
+422,JamesOn Curry,427163.0,Point Guard,1986-01-07,Right
+423,Taurean Green,427163.0,Shooting Guard and Point Guard,1986-11-28,Right
+424,Demetris Nichols,427163.0,Small Forward,1984-09-04,Right
+425,Ramon Sessions,427163.0,Point Guard and Shooting Guard,1986-04-11,Right
+426,D.J. Strawberry,427163.0,Shooting Guard,1985-06-15,Right
+427,Derrick Rose,4822800.0,Point Guard,1988-10-04,Right
+428,Michael Beasley,4314960.0,Small Forward and Power Forward,1989-01-09,Left
+429,O.J. Mayo,3875040.0,Shooting Guard,1987-11-05,Right
+430,Russell Westbrook,3493680.0,Point Guard,1988-11-12,Right
+431,Kevin Love,3163680.0,Power Forward and Center,1988-09-07,Right
+432,Eric Gordon,2623200.0,Shooting Guard and Point Guard,1988-12-25,Right
+433,Joe Alexander,2403120.0,Small Forward,1986-12-26,Right
+434,D.J. Augustin,2208960.0,Point Guard,1987-11-10,Right
+435,Brook Lopez,2098560.0,Center,1988-04-01,Right
+436,Jerryd Bayless,1993560.0,Point Guard and Shooting Guard,1988-08-20,Right
+437,Jason Thompson,1893840.0,Power Forward and Center,1986-07-21,Right
+438,Brandon Rush,1799160.0,Shooting Guard and Small Forward,1985-07-07,Right
+439,Anthony Randolph,1709280.0,Power Forward and Center,1989-07-15,Left
+440,Robin Lopez,1623720.0,Center,1988-04-01,Right
+441,Marreese Speights,1542600.0,Center and Power Forward,1987-08-04,Right
+442,Roy Hibbert,1465400.0,Center,1986-12-11,Right
+443,JaVale McGee,1392240.0,Center,1988-01-19,Right
+444,J.J. Hickson,1329480.0,Center and Power Forward,1988-09-04,Right
+445,Ryan Anderson,1225200.0,Power Forward,1988-05-06,Right
+446,Courtney Lee,1176240.0,Shooting Guard,1985-10-03,Right
+447,Kosta Koufos,1129320.0,Center,1989-02-24,Right
+448,George Hill,1006200.0,Point Guard,1986-05-04,Right
+449,Darrell Arthur,977160.0,Power Forward and Small Forward,1988-03-25,Right
+450,Donte Greene,971160.0,Small Forward and Power Forward,1988-02-21,Right
+451,D.J. White,964080.0,Power Forward and Center,1986-08-31,Right
+452,J.R. Giddens,957120.0,Small Forward,1985-02-13,Right
+453,Walter Sharpe,442114.0,Power Forward,1986-07-18,Right
+454,Joey Dorsey,816500.0,Power Forward and Center,1983-12-16,Right
+455,Mario Chalmers,700000.0,Point Guard,1986-05-19,Right
+456,DeAndre Jordan,550000.0,Center,1988-07-21,Left
+457,Luc Mbah a Moute,757000.0,Power Forward and Small Forward,1986-09-09,Right
+458,Kyle Weaver,806452.0,Shooting Guard,1986-02-18,Right
+459,Sonny Weems,442114.0,Shooting Guard and Small Forward,1986-07-08,Right
+460,Chris Douglas-Roberts,442411.0,Small Forward and Shooting Guard,1987-01-08,Right
+461,Sean Singletary,442114.0,Point Guard,1985-09-06,Right
+462,Patrick Ewing,,Small Forward,1984-05-20,Right
+463,Henry Walker,542114.0,Shooting Guard and Small Forward,1987-10-09,Right
+464,Malik Hairston,351091.0,Shooting Guard,1987-02-23,Right
+465,DeVon Hardin,,Center,1986-08-07,Right
+466,Darnell Jackson,450000.0,Power Forward,1985-11-07,Right
+467,Maarty Leunen,,Forward,1985-09-03,Right
+468,Mike Taylor,500000.0,Point Guard,1986-01-21,Right
+469,Sasha Kaun,1300000.0,Center,1985-05-08,Right
+470,Joe Crawford,,Small Forward,1986-06-17,Right
+471,Blake Griffin,4983480.0,Power Forward,1989-03-16,Right
+472,Hasheem Thabeet,4458840.0,Center,1987-02-16,Right
+473,James Harden,4054160.0,Shooting Guard and Point Guard,1989-08-26,Left
+474,Tyreke Evans,3610080.0,Shooting Guard and Small Forward,1989-09-19,Right
+475,Jonny Flynn,2969280.0,Point Guard,1989-02-06,Right
+476,Stephen Curry,2710560.0,Point Guard,1988-03-14,Right
+477,Jordan Hill,2483280.0,Center and Power Forward,1987-07-27,Right
+478,DeMar DeRozan,2282640.0,Shooting Guard,1989-08-07,Right
+479,Terrence Williams,2060040.0,Shooting Guard and Small Forward,1987-06-28,Right
+480,Gerald Henderson,1957080.0,Shooting Guard,1987-12-09,Right
+481,Tyler Hansbrough,1859160.0,Power Forward,1985-11-03,Right
+482,Earl Clark,1766280.0,Power Forward and Small Forward,1988-01-17,Right
+483,Austin Daye,1677840.0,Small Forward,1988-06-05,Right
+484,James Johnson,1594080.0,Small Forward and Power Forward,1987-02-20,Right
+485,Jrue Holiday,1514280.0,Point Guard,1990-06-12,Right
+486,Ty Lawson,1438690.0,Point Guard,1987-11-03,Right
+487,Jeff Teague,1373880.0,Point Guard,1988-06-10,Right
+488,Eric Maynor,1318920.0,Point Guard and Shooting Guard,1987-06-11,Right
+489,Darren Collison,1266120.0,Point Guard,1987-08-23,Right
+490,Byron Mullens,1120200.0,Center and Power Forward,1989-02-14,Right
+491,Taj Gibson,1039800.0,Power Forward,1985-06-24,Right
+492,DeMarre Carroll,1009680.0,Small Forward and Power Forward,1986-07-27,Right
+493,Wayne Ellington,1003560.0,Shooting Guard,1987-10-29,Right
+494,Toney Douglas,996240.0,Point Guard and Shooting Guard,1986-03-16,Right
+495,Jeff Ayres,457588.0,Power Forward and Center,1987-04-29,Right
+496,Jermaine Taylor,725000.0,Shooting Guard,1986-12-08,Right
+497,Dante Cunningham,457588.0,Power Forward and Small Forward,1987-04-22,Right
+498,DaJuan Summers,457588.0,Small Forward and Power Forward,1988-01-24,Right
+499,Sam Young,824200.0,Small Forward and Shooting Guard,1985-06-01,Right
+500,DeJuan Blair,850000.0,Power Forward and Center,1989-04-22,Right
+501,Jon Brockman,457588.0,Power Forward and Center,1987-03-20,Right
+502,Derrick Brown,457588.0,Small Forward,1987-09-08,Left
+503,Jodie Meeks,650000.0,Shooting Guard,1987-08-21,Right
+504,Patrick Beverley,281377.0,Point Guard and Shooting Guard,1988-07-12,Right
+505,Marcus Thornton,457888.0,Shooting Guard,1987-06-05,Right
+506,Chase Budinger,457588.0,Small Forward,1988-05-22,Right
+507,Nick Calathes,816482.0,Shooting Guard,1989-02-07,Right
+508,Danny Green,457588.0,Shooting Guard,1987-06-22,Right
+509,Taylor Griffin,457588.0,Small Forward,1986-04-18,Right
+510,A.J. Price,457588.0,Point Guard and Shooting Guard,1986-10-07,Right
+511,Patty Mills,457588.0,Point Guard,1988-08-11,Right
+512,Lester Hudson,199185.0,Point Guard and Shooting Guard,1984-08-07,Right
+513,Chinemelu Elonu,,Center/Forward,1987-03-11,Right
+514,John Wall,5144280.0,Point Guard,1990-09-06,Right
+515,Evan Turner,4602720.0,Small Forward and Shooting Guard,1988-10-27,Right
+516,Derrick Favors,4133280.0,Power Forward,1991-07-15,Right
+517,Wesley Johnson,3726600.0,Small Forward and Shooting Guard,1987-07-11,Right
+518,DeMarcus Cousins,3374640.0,Center,1990-08-13,Right
+519,Ekpe Udoh,3065040.0,Center and Power Forward,1987-05-20,Right
+520,Greg Monroe,2798040.0,Center and Power Forward,1990-06-04,Left
+521,Al-Farouq Aminu,2563320.0,Small Forward,1990-09-21,Right
+522,Gordon Hayward,2356320.0,Small Forward,1990-03-23,Right
+523,Paul George,2238360.0,Small Forward and Shooting Guard,1990-05-02,Right
+524,Cole Aldrich,2126520.0,Center,1988-10-31,Right
+525,Xavier Henry,2020200.0,Small Forward and Shooting Guard,1991-03-15,Left
+526,Ed Davis,1919160.0,Power Forward and Center,1989-06-05,Left
+527,Patrick Patterson,1823280.0,Power Forward,1989-03-14,Right
+528,Larry Sanders,1731960.0,Center and Power Forward,1988-11-21,Right
+529,Luke Babbitt,1645440.0,Small Forward and Power Forward,1989-06-20,Right
+530,Eric Bledsoe,1485000.0,Point Guard,1989-12-09,Right
+531,Avery Bradley,1418160.0,Point Guard and Shooting Guard,1990-11-26,Right
+532,James Anderson,1361400.0,Shooting Guard and Small Forward,1989-03-25,Right
+533,Craig Brackins,1306920.0,Power Forward,1987-10-09,Right
+534,Elliot Williams,1254720.0,Shooting Guard and Point Guard,1989-06-20,Left
+535,Trevor Booker,1204560.0,Power Forward,1987-11-25,Left
+536,Damion James,1156320.0,Small Forward,1987-10-07,Right
+537,Dominique Jones,1110120.0,Shooting Guard and Point Guard,1988-10-15,Right
+538,Quincy Pondexter,1073280.0,Small Forward and Shooting Guard,1988-03-10,Right
+539,Jordan Crawford,1042320.0,Shooting Guard,1988-10-23,Right
+540,Greivis Vasquez,1035960.0,Point Guard and Shooting Guard,1987-01-16,Right
+541,Daniel Orton,1028400.0,Center and Power Forward,1990-08-06,Right
+542,Lazar Hayward,1020960.0,Small Forward,1986-11-26,Right
+543,Dexter Pittman,473604.0,Center,1988-03-02,Right
+544,Hassan Whiteside,730437.0,Center,1989-06-13,Right
+545,Armon Johnson,473604.0,Point Guard,1989-02-23,Left
+546,Darington Hobson,103078.0,Shooting Guard,1987-09-29,Left
+547,Andy Rautins,600000.0,Shooting Guard,1986-11-02,Right
+548,Landry Fields,473604.0,Small Forward and Shooting Guard,1988-06-27,Right
+549,Lance Stephenson,750000.0,Shooting Guard and Small Forward,1990-09-05,Right
+550,Jarvis Varnado,275805.0,Power Forward,1988-03-01,Right
+551,Devin Ebanks,473604.0,Shooting Guard and Small Forward,1989-10-28,Right
+552,Jerome Jordan,473604.0,Center,1986-09-29,Right
+553,Gani Lawal,473640.0,Power Forward,1988-11-07,Right
+554,Solomon Alabi,770000.0,Center,1988-03-21,Right
+555,Luke Harangody,473604.0,Power Forward,1988-01-02,Right
+556,Willie Warren,500000.0,Point Guard,1989-10-22,Right
+557,Jeremy Evans,473604.0,Small Forward and Power Forward,1987-10-24,Right
+558,Hamady N'Diaye,473604.0,Center,1987-01-12,Right
+559,Ryan Reid,475000.0,Power Forward,1986-10-30,Right
+560,Derrick Caracter,473604.0,Center,1988-05-04,Right
+561,Dwayne Collins,,Forward,1988-04-13,Right
+562,Kyrie Irving,5144280.0,Point Guard,1992-03-23,Right
+563,Derrick Williams,4602720.0,Power Forward and Small Forward,1991-05-25,Right
+564,Tristan Thompson,3726600.0,Power Forward and Center,1991-03-13,
+565,Brandon Knight,2563320.0,Point Guard and Shooting Guard,1991-12-02,Right
+566,Kemba Walker,2356320.0,Point Guard,1990-05-08,Right
+567,Jimmer Fredette,2238360.0,Shooting Guard and Point Guard,1989-02-25,Right
+568,Klay Thompson,2126520.0,Shooting Guard,1990-02-08,Right
+569,Alec Burks,2020200.0,Shooting Guard,1991-07-20,Right
+570,Markieff Morris,1919160.0,Power Forward,1989-09-02,Right
+571,Marcus Morris,1823280.0,Small Forward and Power Forward,1989-09-02,Right
+572,Kawhi Leonard,1731960.0,Small Forward,1991-06-29,Right
+573,Nikola Vucevic,1645400.0,Center,1990-10-24,Right
+574,Iman Shumpert,1563120.0,Shooting Guard and Point Guard,1990-06-26,Right
+575,Chris Singleton,1485000.0,Small Forward and Power Forward,1989-11-21,Right
+576,Tobias Harris,1418160.0,Power Forward and Small Forward,1992-07-15,Right
+577,Nolan Smith,1306920.0,Point Guard,1988-07-25,Right
+578,Kenneth Faried,1254720.0,Power Forward,1989-11-19,Right
+579,Reggie Jackson,1156320.0,Point Guard,1990-04-16,Right
+580,MarShon Brooks,1110120.0,Shooting Guard,1989-01-26,Right
+581,Jordan Hamilton,1073286.0,Small Forward,1990-10-06,Right
+582,JaJuan Johnson,1042320.0,Power Forward,1989-02-08,Right
+583,Norris Cole,1035960.0,Point Guard,1988-10-13,Right
+584,Cory Joseph,1028400.0,Shooting Guard and Point Guard,1991-08-20,Right
+585,Jimmy Butler,1020960.0,Shooting Guard and Small Forward,1989-09-14,Right
+586,Justin Harper,473604.0,Power Forward,1989-08-30,Right
+587,Kyle Singler,1000000.0,Small Forward,1988-05-04,Right
+588,Shelvin Mack,473604.0,Point Guard and Shooting Guard,1990-04-22,Right
+589,Tyler Honeycutt,775000.0,Small Forward,1990-07-15,Right
+590,Jordan Williams,473604.0,Center,1990-10-11,Right
+591,Trey Thompkins,473604.0,Center,1990-05-20,Right
+592,Chandler Parsons,850000.0,Small Forward,1988-10-25,Right
+593,Jon Leuer,473604.0,Power Forward and Center,1989-05-14,Right
+594,Darius Morris,473604.0,Point Guard,1991-01-03,Right
+595,Malcolm Lee,500000.0,Shooting Guard,1990-05-22,Right
+596,Charles Jenkins,473604.0,Point Guard and Shooting Guard,1989-02-28,Right
+597,Josh Harrellson,473604.0,Center and Power Forward,1989-02-12,Right
+598,Andrew Goudelock,473604.0,Shooting Guard and Point Guard,1988-12-07,Right
+599,Travis Leslie,473604.0,Shooting Guard,1990-03-29,Right
+600,Keith Benson,,Center,1988-08-13,Right
+601,Josh Selby,550000.0,Point Guard,1991-03-27,Right
+602,Lavoy Allen,473604.0,Power Forward and Center,1989-02-04,Right
+603,Jon Diebler,,Guard,1988-06-22,Right
+604,Vernon Macklin,473604.0,Center,1986-09-20,Right
+605,DeAndre Liggins,473604.0,Shooting Guard and Small Forward,1988-03-31,Right
+606,E'Twaun Moore,473604.0,Shooting Guard and Point Guard,1989-02-28,Right
+607,Isaiah Thomas,473604.0,Point Guard,1989-02-07,Left
+608,Anthony Davis,5144280.0,Power Forward and Center,1993-03-11,Right
+609,Michael Kidd-Gilchrist,4602720.0,Small Forward,1993-09-26,Right
+610,Bradley Beal,4133280.0,Shooting Guard,1993-06-28,Right
+611,Dion Waiters,3726600.0,Shooting Guard,1991-12-10,Right
+612,Thomas Robinson,3374640.0,Power Forward,1991-03-17,Right
+613,Damian Lillard,3065040.0,Point Guard,1990-07-15,Right
+614,Harrison Barnes,2798040.0,Small Forward and Power Forward,1992-05-30,Right
+615,Terrence Ross,2563320.0,Small Forward and Shooting Guard,1991-02-05,Right
+616,Andre Drummond,2356320.0,Center,1993-08-10,Right
+617,Austin Rivers,2238360.0,Shooting Guard and Point Guard,1992-08-01,Right
+618,Meyers Leonard,2126520.0,Center and Power Forward,1992-02-27,Right
+619,Jeremy Lamb,2020200.0,Shooting Guard and Small Forward,1992-05-30,Right
+620,Kendall Marshall,1919160.0,Point Guard,1991-08-19,Left
+621,John Henson,1823280.0,Center and Power Forward,1990-12-28,Right
+622,Maurice Harkless,1731960.0,Small Forward,1993-05-11,Right
+623,Royce White,1719480.0,Power Forward,1991-04-10,Right
+624,Tyler Zeller,1563120.0,Center,1990-01-17,Right
+625,Terrence Jones,1485000.0,Power Forward,1992-01-09,Left
+626,Andrew Nicholson,1418160.0,Power Forward,1989-12-08,Right
+627,Jared Sullinger,1306920.0,Power Forward,1992-03-04,Right
+628,Fab Melo,1254720.0,Center,1990-06-20,Right
+629,John Jenkins,1204560.0,Shooting Guard,1991-03-06,Right
+630,Jared Cunningham,1156320.0,Shooting Guard,1991-05-22,Right
+631,Tony Wroten,1110120.0,Point Guard and Shooting Guard,1993-04-13,Left
+632,Miles Plumlee,1073280.0,Center,1988-09-01,Right
+633,Arnett Moultrie,1042320.0,Power Forward,1990-11-18,Right
+634,Perry Jones,1035960.0,Small Forward and Power Forward,1991-09-24,Right
+635,Marquis Teague,1028400.0,Shooting Guard and Point Guard,1993-02-28,Right
+636,Festus Ezeli,1020960.0,Center,1989-10-21,Right
+637,Jeff Taylor,575000.0,Small Forward,1989-05-23,Right
+638,Bernard James,473604.0,Center,1985-02-07,Left
+639,Jae Crowder,600491.0,Small Forward,1990-07-06,Right
+640,Draymond Green,850000.0,Power Forward and Small Forward,1990-03-04,Right
+641,Orlando Johnson,550000.0,Shooting Guard,1989-03-11,Right
+642,Quincy Acy,665000.0,Power Forward and Small Forward,1990-10-06,Right
+643,Quincy Miller,473604.0,Power Forward,1992-11-18,Right
+644,Khris Middleton,473604.0,Shooting Guard and Small Forward,1991-08-12,Right
+645,Will Barton,550000.0,Shooting Guard,1991-01-06,Right
+646,Tyshawn Taylor,473604.0,Point Guard,1990-04-12,Right
+647,Doron Lamb,650000.0,Shooting Guard,1991-11-06,Right
+648,Mike Scott,473604.0,Power Forward,1988-07-16,Right
+649,Kim English,473604.0,Shooting Guard,1988-09-24,Right
+650,Justin Hamilton,816482.0,Center,1990-04-01,Right
+651,Darius Miller,473604.0,Small Forward,1990-03-21,Right
+652,Kevin Murphy,473604.0,Shooting Guard,1990-03-06,Right
+653,Kyle O'Quinn,788872.0,Power Forward and Center,1990-03-26,Right
+654,Kris Joseph,189442.0,Small Forward,1988-12-17,Right
+655,Darius Johnson-Odom,192228.0,Shooting Guard,1989-09-28,Left
+656,Robbie Hummel,880000.0,Small Forward,1989-03-08,Right
+657,Marcus Denmon,,Guard,1990-03-20,Right
+658,Robert Sacre,473604.0,Center,1989-06-06,Right
+659,Anthony Bennett,5324280.0,Power Forward,1993-03-14,Right
+660,Victor Oladipo,4763760.0,Shooting Guard and Point Guard,1992-05-04,Right
+661,Otto Porter,4278000.0,Small Forward,1993-06-03,Right
+662,Cody Zeller,3857040.0,Center and Power Forward,1992-10-05,Right
+663,Alex Len,3492720.0,Center,1993-06-16,Right
+664,Nerlens Noel,3172320.0,Center and Power Forward,1994-04-10,
+665,Ben McLemore,2895960.0,Shooting Guard,1993-02-11,Right
+666,Kentavious Caldwell-Pope,2653080.0,Shooting Guard,1993-02-18,Right
+667,Trey Burke,2438760.0,Point Guard,1992-11-12,Right
+668,C.J. McCollum,2316720.0,Shooting Guard,1991-09-19,Right
+669,Michael Carter-Williams,2200920.0,Point Guard,1991-10-10,Right
+670,Steven Adams,2090880.0,Center,1993-07-20,Right
+671,Kelly Olynyk,1986360.0,Center,1991-04-19,Right
+672,Shabazz Muhammad,1887120.0,Small Forward and Shooting Guard,1992-11-13,Left
+673,Shane Larkin,1536960.0,Point Guard,1992-10-02,Right
+674,Tony Snell,1409040.0,Small Forward and Shooting Guard,1991-11-10,Right
+675,Gorgui Dieng,1352640.0,Center and Power Forward,1990-01-18,Right
+676,Mason Plumlee,1298640.0,Center,1990-03-05,Right
+677,Solomon Hill,1246680.0,Small Forward,1991-03-18,Right
+678,Tim Hardaway,1196760.0,Shooting Guard,1992-03-16,Right
+679,Reggie Bullock,1149000.0,Small Forward,1991-03-16,Right
+680,Andre Roberson,1110840.0,Shooting Guard and Small Forward,1991-12-04,Right
+681,Archie Goodwin,1064400.0,Shooting Guard and Point Guard,1994-08-17,Right
+682,Allen Crabbe,862000.0,Shooting Guard,1992-04-09,Right
+683,Carrick Felix,816482.0,Shooting Guard,1990-08-17,Right
+684,Isaiah Canaan,816482.0,Point Guard and Shooting Guard,1991-05-21,Right
+685,"Glen Rice, Jr.",400000.0,Shooting Guard,1991-01-01,Right
+686,Ray McCallum,816482.0,Point Guard,1991-06-12,Right
+687,Tony Mitchell,816482.0,Power Forward,1992-04-07,Right
+688,Nate Wolters,816482.0,Point Guard,1991-05-15,Right
+689,Jeff Withey,816482.0,Center,1990-03-07,Right
+690,Grant Jerrett,816481.0,Power Forward,1993-07-08,Right
+691,Jamaal Franklin,163296.0,Shooting Guard,1991-07-21,Right
+692,Pierre Jackson,400000.0,Point Guard,1991-08-29,Right
+693,Ricky Ledo,816482.0,Shooting Guard,1992-09-10,Right
+694,Mike Muscala,816482.0,Power Forward and Center,1991-07-01,Right
+695,Erick Green,507336.0,Point Guard,1991-05-09,Right
+696,Ryan Kelly,1650000.0,Power Forward,1991-04-09,Right
+697,Erik Murphy,100000.0,Center,1990-10-26,Right
+698,James Ennis,507336.0,Small Forward,1990-07-01,Right
+699,Lorenzo Brown,283367.0,Point Guard,1990-08-26,Right
+700,Colton Iverson,,Center,1989-06-29,Right
+701,Arsalan Kazemi,,Forward,1990-04-22,Right
+702,Peyton Siva,100000.0,Shooting Guard,1990-10-24,Right
+703,Alex Oriakhi,,Forward,1990-06-21,Right
+704,Deshaun Thomas,,Forward,1991-08-29,Left
+705,Andrew Wiggins,5510640.0,Small Forward,1995-02-23,Right
+706,Jabari Parker,4930560.0,Power Forward,1995-03-15,Right
+707,Joel Embiid,4427640.0,Center,1994-03-16,Right
+708,Aaron Gordon,3992040.0,Power Forward and Small Forward,1995-09-16,Right
+709,Marcus Smart,3283320.0,Point Guard,1994-03-06,Right
+710,Julius Randle,2997360.0,Power Forward,1994-11-29,Left
+711,Nik Stauskas,2745840.0,Shooting Guard,1993-10-07,Right
+712,Noah Vonleh,2524200.0,Power Forward,1995-08-24,Right
+713,Elfrid Payton,2397840.0,Point Guard,1994-02-22,Right
+714,Doug McDermott,2277960.0,Small Forward,1992-01-03,Right
+715,Zach LaVine,2055840.0,Shooting Guard and Point Guard,1995-03-10,Right
+716,T.J. Warren,1953120.0,Small Forward,1993-09-05,Right
+717,Adreian Payne,1855320.0,Power Forward,1991-02-19,Right
+718,James Young,1674480.0,Shooting Guard,1995-08-16,Left
+719,Tyler Ennis,1590720.0,Point Guard,1994-08-24,Right
+720,Gary Harris,1519200.0,Shooting Guard,1994-09-14,Right
+721,Mitch McGary,1400040.0,Power Forward,1992-06-06,Left
+722,Jordan Adams,1344120.0,Shooting Guard,1994-07-08,Right
+723,Rodney Hood,1290360.0,Shooting Guard,1992-10-20,Left
+724,Shabazz Napier,1238640.0,Point Guard,1991-07-14,Right
+725,P.J. Hairston,1149720.0,Small Forward and Shooting Guard,1992-12-24,Right
+726,C.J. Wilcox,1109760.0,Shooting Guard,1990-12-30,Right
+727,Josh Huestis,1140240.0,Power Forward,1991-12-19,Right
+728,Kyle Anderson,1093680.0,Small Forward and Shooting Guard,1993-09-20,Right
+729,K.J. McDaniels,507336.0,Small Forward and Shooting Guard,1993-02-09,Right
+730,Joe Harris,884879.0,Shooting Guard,1991-09-07,Right
+731,Cleanthony Early,507336.0,Small Forward,1991-04-17,Right
+732,Jarnell Stokes,725000.0,Power Forward and Center,1994-01-07,Right
+733,Johnny O'Bryant,600000.0,Power Forward,1993-06-01,Right
+734,DeAndre Daniels,,Forward,1992-04-15,Right
+735,Spencer Dinwiddie,700000.0,Point Guard,1993-04-06,Right
+736,Jerami Grant,884879.0,Small Forward,1994-03-12,Right
+737,Glenn Robinson III,507336.0,Small Forward and Shooting Guard,1994-01-08,Right
+738,Nick Johnson,507336.0,Shooting Guard,1992-12-22,Right
+739,Markel Brown,507336.0,Shooting Guard,1992-01-29,Right
+740,Dwight Powell,507336.0,Power Forward and Center,1991-07-20,Right
+741,Jordan Clarkson,507336.0,Shooting Guard and Point Guard,1992-06-07,Right
+742,Russ Smith,816482.0,Point Guard,1991-04-19,Right
+743,Lamar Patterson,525093.0,Shooting Guard,1991-08-12,Right
+744,Cameron Bairstow,507336.0,Power Forward and Center,1990-12-07,Right
+745,Alec Brown,,Forward/Center,1992-07-23,Right
+746,Semaj Christon,,Point Guard,1992-11-01,Right
+747,Devyn Marble,884879.0,Shooting Guard,1992-09-21,Right
+748,Jordan McRae,172972.0,Point Guard and Shooting Guard,1991-03-28,Right
+749,Xavier Thames,,Guard,1991-01-19,Right
+750,Cory Jefferson,507336.0,Power Forward,1990-12-26,Right
+751,Karl-Anthony Towns,5703600.0,Center,1995-11-15,Right
+752,D'Angelo Russell,5103120.0,Point Guard,1996-02-23,Left
+753,Jahlil Okafor,4582680.0,Center,1995-12-15,Right
+754,Willie Cauley-Stein,3398280.0,Center,1993-08-18,Right
+755,Stanley Johnson,2841960.0,Small Forward,1996-05-29,Right
+756,Frank Kaminsky,2612500.0,Center,1993-04-04,Right
+757,Justise Winslow,2481720.0,Small Forward,1996-03-26,Left
+758,Myles Turner,2357760.0,Center,1996-03-24,Right
+759,Trey Lyles,2239800.0,Power Forward,1995-11-05,Right
+760,Devin Booker,2127840.0,Shooting Guard,1996-10-30,Right
+761,Cameron Payne,2021520.0,Point Guard,1994-08-08,Left
+762,Kelly Oubre Jr.,1920240.0,Small Forward,1995-12-09,Left
+763,Terry Rozier,1824360.0,Point Guard,1994-03-17,Right
+764,Rashad Vaughn,1733040.0,Shooting Guard,1996-08-16,Right
+765,Sam Dekker,1646400.0,Small Forward,1994-05-06,Right
+766,Jerian Grant,1572360.0,Point Guard,1992-10-09,Right
+767,Delon Wright,1509360.0,Point Guard,1992-04-26,Right
+768,Justin Anderson,1449000.0,Small Forward,1993-11-19,Left
+769,Bobby Portis,1391160.0,Power Forward,1995-02-10,Right
+770,Rondae Hollis-Jefferson,1335480.0,Small Forward,1995-01-03,Left
+771,Tyus Jones,1282080.0,Point Guard,1996-05-10,Right
+772,Jarell Martin,1230840.0,Power Forward,1994-05-24,Right
+773,Larry Nance Jr.,1155600.0,Power Forward,1993-01-01,Right
+774,R.J. Hunter,1148640.0,Shooting Guard,1993-10-24,Right
+775,Chris McCullough,1140240.0,Power Forward,1995-02-05,Right
+776,Kevon Looney,1131960.0,Power Forward and Center,1996-02-06,Right
+777,Montrezl Harrell,1000000.0,Power Forward,1994-01-26,Right
+778,Jordan Mickey,1200000.0,Power Forward,1994-07-09,Right
+779,Anthony Brown,700000.0,Small Forward,1992-10-10,Right
+780,Rakeem Christmas,1000000.0,Power Forward,1991-12-01,Right
+781,Richaun Holmes,1050000.0,Center and Power Forward,1993-10-15,Right
+782,Darrun Hilliard,525093.0,Shooting Guard,1993-04-13,Left
+783,Josh Richardson,525093.0,Shooting Guard,1993-09-15,Right
+784,Pat Connaughton,525093.0,Shooting Guard,1993-01-06,Right
+785,Olivier Hanlan,,Guard,1993-02-15,Right
+786,Joe Young,1000000.0,Point Guard,1992-06-27,Right
+787,Andrew Harrison,,Shooting Guard,1994-10-28,Right
+788,Norman Powell,650000.0,Shooting Guard,1993-05-25,Right
+789,Dakari Johnson,,Center,1995-09-22,Right
+790,Aaron White,,Forward,1992-09-10,Right
+791,Tyler Harvey,,Guard,1993-07-17,Left
+792,Sir'Dominic Pointer,,Guard/Forward,1992-05-06,Right
+793,Cady Lalanne,,Center,1992-04-22,Right
+794,Branden Dawson,525093.0,Power Forward,1993-02-01,Right
+795,J.P. Tokoto,,Guard/Forward,1993-09-15,Right
+796,Ben Simmons,,Forward,1996-07-20,Left
+797,Brandon Ingram,,Small Forward,1997-09-02,Right
+798,Jaylen Brown,,Small Forward,1996-10-24,Right
+799,Kris Dunn,,Point Guard,1994-03-18,Right
+800,Buddy Hield,,Shooting Guard,1993-12-17,Right
+801,Jamal Murray,,Shooting Guard,1997-02-23,Right
+802,Marquese Chriss,,Power Forward,1997-07-02,Right
+803,Jakob Poeltl,,Center,1995-10-15,Right
+804,Domantas Sabonis,,Power Forward,1996-05-03,Left
+805,Taurean Prince,,Small Forward,1994-03-22,Right
+806,Denzel Valentine,,Shooting Guard,1993-11-16,Right
+807,Wade Baldwin,,Point Guard,1996-03-29,Right
+808,Henry Ellenson,,Power Forward,1997-01-13,Right
+809,Malik Beasley,,Shooting Guard,1996-11-26,Right
+810,Caris LeVert,,Small Forward,1994-08-25,Right
+811,DeAndre' Bembry,,Small Forward,1994-07-04,Right
+812,Malachi Richardson,,Shooting Guard,1996-01-05,Right
+813,Brice Johnson,,Power Forward,1994-06-27,Right
+814,Pascal Siakam,,Power Forward,1994-02-04,Right
+815,Skal Labissiere,,Power Forward,1996-03-18,Right
+816,Dejounte Murray,,Point Guard,1996-09-19,Right
+817,Damian Jones,,Center,1995-06-30,Right
+818,Deyonta Davis,,Center,1996-12-02,Right
+819,Cheick Diallo,,Power Forward,1996-09-13,Right
+820,Tyler Ulis,,Point Guard,1996-01-05,Right
+821,Malcolm Brogdon,,Shooting Guard,1992-12-11,Right
+822,Chinanu Onuaku,,Center,1996-11-01,Right
+823,Patrick McCaw,,Shooting Guard,1995-10-25,Right
+824,Diamond Stone,,Center,1997-02-10,Right
+825,Stephen Zimmerman,,Center,1996-09-09,Left
+826,Isaiah Whitehead,,Point Guard,1995-03-08,Right
+827,Demetrius Jackson,,Point Guard,1994-09-07,Right
+828,A.J. Hammons,,Center,1992-08-27,Right
+829,Jake Layman,,Small Forward,1994-03-07,Right
+830,Michael Gbinije,,Shooting Guard,1992-06-05,Right
+831,Georges Niang,,Power Forward,1993-06-17,Right
+832,Ben Bentil,,Forward,1995-03-29,Right
+833,Joel Bolomboy,,Power Forward,1994-01-28,Right
+834,Kay Felder,,Point Guard,1995-03-29,Left
+835,Marcus Paige,,Guard,1993-09-11,Left
+836,Daniel Hamilton,,Guard/Forward,1995-08-08,Right
+837,Abdel Nader,,Forward,1993-09-25,Right
+838,Isaiah Cousins,,Guard,1994-03-13,Right
+839,Tyrone Wallace,,Guard,1994-06-10,Left
+840,Joe Barry Carroll,800000.0,Center,1958-07-24,Right
+841,Darrell Griffith,363000.0,Shooting Guard,1958-06-16,Right
+842,Kevin McHale,1000000.0,Power Forward,1957-12-19,Right
+843,Kelvin Ransey,317500.0,Point Guard,1958-05-03,Right
+844,James Ray,,Power Forward,1957-07-27,Right
+845,Mike O'Koren,244000.0,Small Forward,1958-02-07,Right
+846,Mike Gminski,350000.0,Center,1959-08-03,Right
+847,Andrew Toney,310000.0,Shooting Guard,1957-11-23,Right
+848,Michael Brooks,75000.0,Small Forward,1958-08-17,Right
+849,Ronnie Lester,244000.0,Point Guard,1959-01-01,Right
+850,Kiki Vandeweghe,755000.0,Small Forward and Power Forward,1958-08-01,Right
+851,Mike Woodson,375000.0,Shooting Guard,1958-03-24,Right
+852,Rickey Brown,160000.0,Center,1958-08-20,Right
+853,Wes Matthews,85000.0,Point Guard,1959-08-24,Right
+854,Reggie Johnson,,Power Forward and Small Forward,1957-06-25,Right
+855,Hawkeye Whitney,,Shooting Guard,1957-06-22,Right
+856,Larry Drew,700000.0,Point Guard,1958-04-02,Right
+857,Don Collins,,Small Forward and Shooting Guard,1958-11-28,Right
+858,John Duren,,Point Guard,1958-10-30,Right
+859,Bill Hanzlik,175000.0,Small Forward and Power Forward,1957-12-06,Right
+860,Monti Davis,,Power Forward,1958-07-26,Right
+861,Chad Kinch,,Shooting Guard,1958-05-22,Right
+862,Carl Nicks,,Shooting Guard and Point Guard,1958-10-06,Left
+863,Larry Smith,300000.0,Power Forward,1958-01-18,Right
+864,Jeff Ruland,326000.0,Center and Power Forward,1958-12-16,Right
+865,Sam Worthen,,Point Guard,1958-01-17,Right
+866,John Stroud,,Small Forward,1957-10-29,Right
+867,Craig Shelton,,Small Forward,1957-05-01,Right
+868,Louis Orr,325000.0,Small Forward and Power Forward,1958-05-07,Right
+869,Kenny Natt,,Shooting Guard,1958-10-05,Right
+870,Wayne Robinson,,Power Forward,1958-04-19,Right
+871,Rick Mahorn,361000.0,Power Forward and Center,1958-09-21,Right
+872,DeWayne Scales,,Power Forward,1958-12-28,Right
+873,Butch Carter,160000.0,Shooting Guard and Small Forward,1958-06-11,Right
+874,Michael Wiley,,Power Forward,1957-10-16,Right
+875,Dick Miller,,Small Forward,1958-04-26,Right
+876,Jawann Oldham,175000.0,Center,1957-07-04,Right
+877,Brad Branson,,Power Forward,1958-09-24,Right
+878,Kurt Nimphius,250000.0,Center and Power Forward,1958-03-13,Right
+879,James Wilkes,,Small Forward,1958-04-01,Right
+880,Ronnie Valentine,,Small Forward,1957-11-27,Right
+881,Lowes Moore,,Point Guard,1957-05-05,Right
+882,Mike Harper,,Power Forward,1957-12-09,Right
+883,Dave Britton,,Point Guard,1958-08-29,Right
+884,Kurt Rambis,200000.0,Power Forward,1958-02-25,Right
+885,Rich Yonakor,,Power Forward,1958-10-03,Left
+886,Carl Bailey,,Center,1958-04-23,Right
+887,Darwin Cook,255000.0,Point Guard and Shooting Guard,1958-08-06,Right
+888,Rory Sparrow,500000.0,Point Guard,1958-06-12,Right
+889,Tony Jackson,,Point Guard,1958-01-17,Right
+890,Tony Fuller,,Shooting Guard,1958-09-04,Right
+891,Wally Rank,,Small Forward,1958-03-01,Right
+892,Darrell Allums,,Power Forward,1958-09-12,Right
+893,Lorenzo Romar,,Point Guard,1958-11-13,Right
+894,John Stroeder,75000.0,Power Forward,1958-07-24,Right
+895,Clarence Kea,,Power Forward,1959-02-02,Right
+896,Billy Reid,,Shooting Guard,1957-09-10,Right
+897,Mark Aguirre,800000.0,Small Forward,1959-12-10,Right
+898,Isiah Thomas,750000.0,Point Guard,1961-04-30,Right
+899,Buck Williams,513000.0,Power Forward,1960-03-08,Right
+900,Al Wood,450000.0,Shooting Guard and Small Forward,1958-06-02,Right
+901,Danny Vranes,392000.0,Small Forward,1958-10-29,Right
+902,Orlando Woolridge,300000.0,Small Forward,1959-12-16,Right
+903,Steve Johnson,369000.0,Center,1957-11-03,Right
+904,Tom Chambers,374000.0,Power Forward,1959-06-21,Right
+905,Rolando Blackman,215000.0,Shooting Guard,1959-02-26,Right
+906,Albert King,275000.0,Small Forward,1959-12-17,Right
+907,Frank Johnson,232000.0,Point Guard,1958-11-23,Right
+908,Kelly Tripucka,700000.0,Small Forward,1959-02-16,Right
+909,Danny Schayes,225000.0,Center and Power Forward,1959-05-10,Right
+910,Herb Williams,200000.0,Center and Power Forward,1958-02-16,Right
+911,Jeff Lamp,75000.0,Small Forward,1959-03-09,Right
+912,Darnell Valentine,210000.0,Point Guard and Shooting Guard,1959-02-03,Right
+913,Kevin Loder,,Small Forward,1959-03-15,Right
+914,Ray Tolbert,100000.0,Power Forward,1958-09-10,Right
+915,Mike McGee,200000.0,Small Forward and Shooting Guard,1959-07-29,Right
+916,Larry Nance,400000.0,Power Forward,1959-02-12,Right
+917,Alton Lister,150000.0,Center and Power Forward,1958-10-01,Right
+918,Franklin Edwards,100000.0,Point Guard,1959-02-02,Right
+919,Charles Bradley,,Shooting Guard,1959-05-16,Right
+920,Jay Vincent,250000.0,Small Forward and Power Forward,1959-06-10,Right
+921,Tracy Jackson,,Shooting Guard,1959-04-21,Right
+922,Howard Wood,,Small Forward,1959-05-20,Right
+923,Gene Banks,265000.0,Small Forward and Power Forward,1959-05-15,Right
+924,Eddie Johnson,225000.0,Small Forward and Shooting Guard,1959-05-01,Right
+925,Ed Rains,,Small Forward,1956-12-24,Right
+926,Danny Ainge,400000.0,Shooting Guard and Point Guard,1959-03-17,Right
+927,Sam Williams,,Power Forward,1959-03-07,Right
+928,Ken Green,,Power Forward,1959-09-19,Right
+929,Charles Davis,90000.0,Small Forward,1958-10-05,Right
+930,Ray Blume,,Shooting Guard,1958-09-23,Right
+931,Claude Gregory,75000.0,Power Forward,1958-12-26,Right
+932,Elston Turner,125000.0,Small Forward and Shooting Guard,1959-06-10,Right
+933,Steve Lingenfelter,,Power Forward,1958-06-10,Right
+934,David Burns,,Point Guard,1958-07-03,Right
+935,Rudy Macklin,,Small Forward,1958-02-19,Right
+936,Mark Radford,,Shooting Guard,1959-07-05,Right
+937,Jim Smith,,Power Forward,1958-04-12,Right
+938,Mickey Dillard,,Point Guard,1958-10-15,Right
+939,Frank Brickowski,240000.0,Center and Power Forward and Small Forward,1959-08-14,Right
+940,Petur Gudmundsson,175000.0,Center,1958-10-30,Right
+941,Craig Dykema,,Small Forward,1959-06-11,Right
+942,Lewis Lloyd,150000.0,Shooting Guard,1959-02-22,Right
+943,Kenny Dennard,,Power Forward,1958-10-18,Right
+944,Larry Spriggs,90000.0,Small Forward and Power Forward,1959-09-08,Right
+945,Pete Verhoeven,100000.0,Power Forward,1959-02-15,Right
+946,Alex Bradley,,Small Forward,1959-10-30,Right
+947,Kevin McKenna,85000.0,Shooting Guard,1959-01-08,Right
+948,Joe Cooper,,Center,1957-09-01,Right
+949,Hank McDowell,,Power Forward,1959-11-13,Right
+950,Garry Witts,,Small Forward,1959-07-03,Right
+951,Roger Burkman,,Shooting Guard,1958-05-22,Right
+952,Clinton Wheeler,100000.0,Point Guard,1959-10-27,Right
+953,Bobby Cattage,70000.0,Power Forward,1958-08-17,Right
+954,Derrick Rowland,,Shooting Guard,1959-06-21,Right
+955,James Worthy,400000.0,Small Forward and Power Forward,1961-02-27,Right
+956,Terry Cummings,410000.0,Power Forward and Small Forward,1961-03-15,Right
+957,Dominique Wilkins,460000.0,Small Forward,1960-01-12,Right
+958,Bill Garnett,269000.0,Power Forward and Center,1960-04-22,Right
+959,LaSalle Thompson,277000.0,Center,1961-06-23,Right
+960,Trent Tucker,273000.0,Shooting Guard,1959-12-20,Right
+961,Quintin Dailey,410000.0,Shooting Guard,1961-01-22,Right
+962,Clark Kellogg,406000.0,Power Forward,1961-07-02,Right
+963,Cliff Levingston,200000.0,Power Forward,1961-01-04,Right
+964,Keith Edmonson,,Shooting Guard,1960-09-28,Right
+965,Fat Lever,185000.0,Point Guard and Shooting Guard,1960-08-18,Right
+966,John Bagley,209000.0,Point Guard,1960-04-23,Right
+967,Sleepy Floyd,200000.0,Point Guard and Shooting Guard,1960-03-06,Right
+968,Lester Conner,160000.0,Point Guard and Shooting Guard,1959-09-17,Right
+969,David Thirdkill,,Small Forward and Power Forward,1960-04-12,Right
+970,Terry Teagle,150000.0,Shooting Guard and Small Forward,1960-04-10,Right
+971,Brook Steppe,100000.0,Shooting Guard and Point Guard,1959-11-07,Right
+972,Ricky Pierce,140000.0,Shooting Guard and Point Guard,1959-08-19,Right
+973,Rob Williams,120000.0,Point Guard,1961-05-05,Right
+974,Paul Pressey,152000.0,Shooting Guard and Small Forward,1958-12-24,Right
+975,Eddie Phillips,,Small Forward,1961-09-29,Right
+976,Mark McNamara,165000.0,Center,1959-06-08,Left
+977,Darren Tillis,,Center,1960-02-23,Right
+978,Oliver Robinson,,Shooting Guard,1960-03-13,Right
+979,Bryan Warrick,110000.0,Point Guard,1959-07-22,Right
+980,Fred Roberts,86000.0,Power Forward and Center and Small Forward,1960-08-14,Right
+981,Dave Magley,,Small Forward,1959-11-24,Right
+982,Scott Hastings,160000.0,Power Forward and Center,1960-06-03,Right
+983,Wallace Bryant,130000.0,Center,1959-07-14,Right
+984,Rod Higgins,160000.0,Small Forward and Power Forward,1960-01-31,Right
+985,Richard Anderson,150000.0,Power Forward and Center,1960-11-19,Right
+986,Linton Townes,,Small Forward,1959-11-30,Right
+987,Vince Taylor,,Shooting Guard,1960-09-11,Right
+988,Derek Smith,400000.0,Shooting Guard and Small Forward,1961-11-01,Right
+989,J.J. Anderson,,Small Forward,1960-09-23,Right
+990,Audie Norris,110000.0,Center,1960-12-18,Right
+991,Wayne Sappleton,,Power Forward,1960-11-17,Right
+992,Guy Morgan,,Shooting Guard,1960-08-23,Right
+993,Dwight Anderson,,Point Guard,1960-12-28,Right
+994,Jeff Taylor,,Shooting Guard,1960-01-01,Right
+995,Jose Slaughter,,Shooting Guard,1960-09-09,Right
+996,Mike Gibson,80000.0,Power Forward,1960-10-27,Right
+997,Russ Schoene,250000.0,Power Forward,1960-04-16,Right
+998,Michael Wilson,,Shooting Guard and Point Guard,1959-09-15,Right
+999,Craig Hodges,100000.0,Shooting Guard and Point Guard,1960-06-27,Right
+1000,Corny Thompson,,Power Forward,1960-02-05,Right
+1001,Jim Johnstone,,Power Forward and Center,1960-09-20,Right
+1002,Jerry Eaves,,Point Guard,1959-02-08,Right
+1003,Joe Kopicki,80000.0,Power Forward,1960-06-12,Right
+1004,Chris Engler,125000.0,Center,1959-03-01,Right
+1005,Charles Pittman,80000.0,Power Forward and Small Forward,1958-03-23,Right
+1006,Chuck Nevitt,70000.0,Center,1959-06-13,Right
+1007,John Greig,,Small Forward,1961-04-28,Right
+1008,Perry Moss,,Point Guard,1958-11-11,Right
+1009,Mark Eaton,133000.0,Center,1957-01-24,Left
+1010,Mike Sanders,70000.0,Small Forward,1960-05-07,Right
+1011,Chuck Aleksinas,,Center,1959-02-26,Right
+1012,Walker Russell,,Point Guard,1960-10-26,Right
+1013,Tony Brown,135000.0,Small Forward and Shooting Guard,1960-07-29,Right
+1014,Rory White,70000.0,Small Forward and Power Forward,1959-08-16,Right
+1015,John Schweitz,,Shooting Guard,1960-04-19,Right
+1016,Eddie Hughes,100000.0,Point Guard,1960-05-26,Right
+1017,Ed Nealy,100000.0,Power Forward,1960-02-19,Right
+1018,Dale Wilkinson,70000.0,Power Forward and Small Forward,1960-03-18,Right
+1019,Ralph Sampson,1300000.0,Center and Power Forward,1960-07-07,Right
+1020,Steve Stipanovich,420000.0,Center,1960-11-17,Right
+1021,Rodney McCray,360000.0,Small Forward and Power Forward,1961-08-29,Right
+1022,Byron Scott,350000.0,Shooting Guard and Point Guard,1961-03-28,Right
+1023,Sidney Green,275000.0,Power Forward and Center,1961-01-04,Right
+1024,Russell Cross,,Center,1961-09-05,Right
+1025,Thurl Bailey,225000.0,Power Forward and Small Forward,1961-04-07,Right
+1026,Antoine Carr,335000.0,Power Forward and Small Forward and Center,1961-07-23,Right
+1027,Dale Ellis,200000.0,Small Forward and Shooting Guard,1960-08-06,Right
+1028,Jeff Malone,211000.0,Shooting Guard,1961-06-28,Right
+1029,Derek Harper,200000.0,Point Guard and Shooting Guard,1961-10-13,Right
+1030,Darrell Walker,230000.0,Point Guard and Shooting Guard,1961-03-09,Right
+1031,Ennis Whatley,200000.0,Point Guard,1962-08-11,Right
+1032,Clyde Drexler,175000.0,Shooting Guard,1962-06-22,Right
+1033,Howard Carter,,Shooting Guard,1961-10-26,Right
+1034,Jon Sundvold,158000.0,Point Guard and Shooting Guard,1961-07-02,Right
+1035,Leo Rautins,,Small Forward,1960-03-20,Left
+1036,Randy Breuer,167000.0,Center,1960-10-11,Right
+1037,John Paxson,102000.0,Point Guard,1960-09-29,Right
+1038,Roy Hinson,150000.0,Small Forward and Power Forward,1961-05-02,Right
+1039,Greg Kite,120000.0,Center,1961-08-05,Right
+1040,Randy Wittman,170000.0,Shooting Guard and Small Forward,1959-10-28,Right
+1041,Mitchell Wiggins,130000.0,Shooting Guard,1959-09-28,Right
+1042,Stewart Granger,,Point Guard,1961-10-27,Right
+1043,Sidney Lowe,,Point Guard and Shooting Guard,1960-01-21,Right
+1044,Leroy Combs,,Small Forward,1961-01-01,Right
+1045,John Garris,,Power Forward,1959-06-06,Right
+1046,Rod Foster,125000.0,Point Guard,1960-10-10,Right
+1047,Larry Micheaux,,Power Forward,1960-03-24,Right
+1048,Mark West,120000.0,Center,1960-11-05,Right
+1049,Doc Rivers,105000.0,Point Guard,1961-10-13,Right
+1050,Dirk Minniefield,75000.0,Point Guard,1961-01-17,Right
+1051,Guy Williams,,Power Forward and Small Forward,1960-07-01,Right
+1052,Darrell Lockhart,,Center,1960-09-14,Right
+1053,Scooter McCray,,Power Forward,1960-02-08,Right
+1054,Chris McNealy,,Power Forward,1961-07-15,Right
+1055,Granville Waiters,100000.0,Center,1961-01-08,Right
+1056,Jim Thomas,80000.0,Shooting Guard,1960-10-19,Right
+1057,Pace Mannion,70000.0,Small Forward,1960-09-22,Right
+1058,Kevin Williams,125000.0,Shooting Guard,1961-09-11,Right
+1059,Craig Ehlo,80000.0,Shooting Guard,1961-08-11,Right
+1060,Paul Thompson,90000.0,Small Forward,1961-05-25,Right
+1061,Mike Holton,120000.0,Point Guard and Shooting Guard,1961-08-04,Left
+1062,Bob Hansen,65000.0,Shooting Guard,1961-01-18,Right
+1063,Darren Daye,95000.0,Small Forward,1960-11-30,Right
+1064,John Pinone,,Small Forward,1961-02-19,Right
+1065,Bruce Kuczenski,,Power Forward,1961-02-03,Right
+1066,Tom Piotrowski,,Center,1960-10-17,Right
+1067,Ron Crevier,,Center,1958-04-14,Right
+1068,Peter Thibeaux,85000.0,Small Forward,1961-10-03,Right
+1069,Mark Jones,,Point Guard,1961-04-10,Right
+1070,Brant Weidner,,Power Forward,1960-10-28,Right
+1071,Carlos Clark,65000.0,Shooting Guard,1960-08-10,Right
+1072,Ken Austin,,Small Forward,1961-07-15,Right
+1073,Jim Lampley,,Center,1960-07-02,Right
+1074,Sedale Threatt,78000.0,Point Guard and Shooting Guard,1961-09-10,Right
+1075,Dane Suttle,,Shooting Guard,1961-08-09,Right
+1076,Hakeem Olajuwon,780000.0,Center,1963-01-21,Right
+1077,Sam Bowie,400000.0,Center,1961-03-17,Right
+1078,Michael Jordan,550000.0,Shooting Guard and Small Forward,1963-02-17,Right
+1079,Sam Perkins,500000.0,Power Forward and Center and Small Forward,1961-06-14,Left
+1080,Charles Barkley,307000.0,Power Forward and Small Forward,1963-02-20,Right
+1081,Melvin Turpin,260000.0,Center,1960-12-28,Right
+1082,Alvin Robertson,233750.0,Shooting Guard,1962-07-22,Right
+1083,Lancaster Gordon,200000.0,Shooting Guard,1962-06-24,Right
+1084,Otis Thorpe,225000.0,Power Forward and Center,1962-08-05,Right
+1085,Leon Wood,215000.0,Point Guard and Shooting Guard,1962-03-25,Right
+1086,Kevin Willis,298000.0,Power Forward and Center,1962-09-06,Right
+1087,Tim McCormick,228333.0,Center,1962-03-10,Right
+1088,Jay Humphries,222500.0,Point Guard and Shooting Guard,1962-10-17,Right
+1089,Michael Cage,250000.0,Center and Power Forward,1962-01-28,Left
+1090,Terence Stansbury,160000.0,Shooting Guard,1961-02-27,Right
+1091,John Stockton,150000.0,Point Guard,1962-03-26,Right
+1092,Jeff Turner,200000.0,Power Forward and Small Forward,1962-04-09,Left
+1093,Vern Fleming,200000.0,Point Guard,1962-02-04,Right
+1094,Bernard Thompson,120000.0,Small Forward and Shooting Guard and Power Forward,1962-08-30,Right
+1095,Tony Campbell,110000.0,Small Forward and Shooting Guard,1962-05-07,Right
+1096,Kenny Fields,145000.0,Small Forward,1962-02-09,Right
+1097,Tom Sewell,150000.0,Shooting Guard,1962-03-11,Right
+1098,Earl Jones,,Center,1961-01-13,Right
+1099,Michael Young,,Small Forward,1961-01-02,Right
+1100,Devin Durrant,,Small Forward,1960-10-20,Right
+1101,Ron Anderson,115000.0,Small Forward,1958-10-15,Right
+1102,Cory Blackwell,,Small Forward,1963-03-27,Right
+1103,Stuart Gray,143200.0,Center,1963-05-27,Right
+1104,Steve Burtt,75000.0,Shooting Guard,1962-11-05,Right
+1105,Jay Murphy,130000.0,Power Forward and Small Forward,1962-06-26,Right
+1106,Steve Colter,112500.0,Point Guard,1962-07-24,Right
+1107,Othell Wilson,,Point Guard,1961-10-26,Right
+1108,Charles Jones,150000.0,Power Forward and Center,1962-01-12,Right
+1109,Ben Coleman,275000.0,Power Forward and Center,1961-11-14,Right
+1110,Charlie Sitton,,Small Forward,1962-07-03,Right
+1111,Danny Young,75000.0,Point Guard,1962-07-26,Right
+1112,Tom Sluby,,Shooting Guard,1962-02-18,Right
+1113,Willie White,85000.0,Shooting Guard,1962-08-20,Right
+1114,Gary Plummer,110000.0,Power Forward,1962-02-21,Right
+1115,Jerome Kersey,100000.0,Small Forward,1962-06-26,Right
+1116,Ben McDonald,135000.0,Power Forward and Small Forward,1962-07-20,Right
+1117,Jim Petersen,125000.0,Power Forward and Center,1962-02-22,Right
+1118,Joe Binion,,Power Forward,1961-03-26,Right
+1119,Jeff Cross,,Power Forward,1961-09-01,Right
+1120,David Pope,,Small Forward,1962-04-15,Right
+1121,Butch Graves,,Shooting Guard,1962-01-05,Right
+1122,Rick Carlisle,90000.0,Shooting Guard,1959-10-27,Right
+1123,Ralph Jackson,,Point Guard,1962-10-26,Right
+1124,Jim Grandholm,115000.0,Power Forward,1960-10-04,Right
+1125,Carl Henry,85000.0,Shooting Guard,1960-08-16,Right
+1126,Jim Rowinski,,Power Forward and Center,1961-01-04,Right
+1127,Bob Thornton,70000.0,Power Forward,1962-07-10,Right
+1128,Ozell Jones,,Center,1960-11-20,Right
+1129,McKinley Singleton,,Point Guard,1961-10-29,Right
+1130,Eddie Lee Wilkins,330000.0,Center and Power Forward,1962-05-07,Right
+1131,Kenton Edelin,,Small Forward,1962-05-24,Right
+1132,Ken Bannister,105000.0,Power Forward,1960-04-01,Right
+1133,Brian Martin,,Small Forward and Power Forward,1962-08-18,Right
+1134,Patrick Ewing,1250000.0,Center and Power Forward,1962-08-05,Right
+1135,Wayman Tisdale,987000.0,Power Forward,1964-06-09,Left
+1136,Benoit Benjamin,575000.0,Center,1964-11-22,Right
+1137,Xavier McDaniel,525000.0,Small Forward and Power Forward,1963-06-04,Right
+1138,Jon Koncak,475250.0,Center,1963-05-17,Right
+1139,Joe Kleine,450000.0,Center,1962-01-04,Right
+1140,Chris Mullin,500000.0,Small Forward and Shooting Guard,1963-07-30,Left
+1141,Detlef Schrempf,290000.0,Small Forward and Power Forward,1963-01-21,Right
+1142,Charles Oakley,225000.0,Power Forward and Center,1963-12-18,Right
+1143,Ed Pinckney,300000.0,Power Forward and Small Forward,1963-03-27,Right
+1144,Keith Lee,271666.0,Power Forward,1962-12-28,Right
+1145,Kenny Green,245633.0,Small Forward,1964-10-11,Right
+1146,Karl Malone,225000.0,Power Forward,1963-07-24,Right
+1147,Alfredrick Hughes,177830.0,Shooting Guard,1962-07-19,Right
+1148,Blair Rasmussen,202500.0,Center,1962-11-13,Right
+1149,Bill Wennington,220000.0,Center,1963-04-26,Right
+1150,Uwe Blab,200000.0,Center,1962-03-26,Right
+1151,Joe Dumars,170000.0,Shooting Guard and Point Guard,1963-05-24,Right
+1152,Steve Harris,160000.0,Shooting Guard,1963-10-15,Right
+1153,Sam Vincent,87500.0,Point Guard and Shooting Guard,1963-05-18,Right
+1154,Terry Catledge,150000.0,Power Forward,1963-08-22,Right
+1155,Jerry Reynolds,175332.0,Small Forward and Shooting Guard,1962-12-23,Right
+1156,A.C. Green,128750.0,Power Forward and Small Forward,1963-10-04,Right
+1157,Terry Porter,151000.0,Point Guard,1963-04-08,Right
+1158,Mike Smrek,135000.0,Center and Power Forward,1962-08-31,Right
+1159,Bill Martin,150000.0,Small Forward,1962-08-16,Right
+1160,Dwayne McClain,115000.0,Small Forward,1963-02-07,Right
+1161,Ken Johnson,106000.0,Power Forward,1962-11-07,Right
+1162,Mike Brittain,105000.0,Center,1963-06-21,Right
+1163,Manute Bol,137500.0,Center,1962-10-16,Right
+1164,Nick Vanos,125000.0,Center,1963-04-13,Right
+1165,Greg Stokes,70000.0,Power Forward,1963-08-05,Right
+1166,Tyrone Corbin,85700.0,Small Forward,1962-12-31,Right
+1167,Yvon Joseph,,Center,1957-10-31,Right
+1168,Carey Scurry,70000.0,Small Forward,1962-12-04,Right
+1169,Mark Acres,75000.0,Center,1962-11-15,Right
+1170,Lorenzo Charles,70000.0,Small Forward,1963-11-25,Right
+1171,Barry Stevens,,Small Forward,1963-01-17,Right
+1172,Voise Winters,70000.0,Small Forward,1962-10-12,Right
+1173,Hot Rod Williams,349055.0,Center and Power Forward,1962-08-09,Right
+1174,Adrian Branch,150000.0,Small Forward,1963-11-17,Right
+1175,Gerald Wilkins,70000.0,Shooting Guard and Small Forward,1963-09-11,Right
+1176,Brad Wright,,Power Forward,1962-03-26,Right
+1177,Sam Mitchell,500000.0,Small Forward and Power Forward,1963-09-02,Right
+1178,Sedric Toney,75000.0,Point Guard,1962-04-13,Right
+1179,Perry Young,,Shooting Guard,1963-08-04,Right
+1180,Harold Keeling,,Shooting Guard,1963-09-18,Right
+1181,Michael Adams,85000.0,Point Guard,1963-01-19,Right
+1182,Mike Brown,220000.0,Center,1963-07-19,Right
+1183,Fred Cofield,70000.0,Point Guard,1962-01-04,Right
+1184,Alex Stivrins,140000.0,Small Forward and Power Forward,1962-11-29,Right
+1185,Mark Davis,,Small Forward,1963-06-08,Right
+1186,Scott Roth,75000.0,Small Forward,1963-06-03,Right
+1187,Delaney Rudd,215000.0,Point Guard and Shooting Guard,1962-11-08,Right
+1188,John Battle,70000.0,Shooting Guard,1962-11-09,Right
+1189,Spud Webb,70000.0,Point Guard,1963-07-13,Right
+1190,Pete Williams,70000.0,Power Forward,1965-03-10,Right
+1191,Derrick Gervin,155000.0,Power Forward,1963-03-28,Right
+1192,Cozell McQueen,,Power Forward,1962-01-18,Right
+1193,Dexter Shouse,,Point Guard,1963-03-24,Right
+1194,Ralph Lewis,75000.0,Shooting Guard,1963-03-28,Right
+1195,Michael Phelps,70000.0,Shooting Guard,1961-10-03,Right
+1196,Mario Elie,50000.0,Small Forward and Shooting Guard,1963-11-26,Right
+1197,Brad Daugherty,887500.0,Center,1965-10-19,Right
+1198,Chris Washburn,777200.0,Center,1965-05-13,Right
+1199,Chuck Person,565660.0,Small Forward and Power Forward,1964-06-27,Right
+1200,Kenny Walker,575000.0,Small Forward and Power Forward,1964-08-18,Right
+1201,William Bedford,637500.0,Center,1963-12-14,Right
+1202,Roy Tarpley,460000.0,Power Forward and Center,1964-11-28,Right
+1203,Ron Harper,555500.0,Shooting Guard and Point Guard,1964-01-20,Right
+1204,Brad Sellers,381830.0,Power Forward and Small Forward,1962-12-17,Right
+1205,Johnny Dawkins,330000.0,Point Guard,1963-09-28,Left
+1206,John Salley,335000.0,Power Forward and Center,1964-05-16,Right
+1207,John Williams,308000.0,Small Forward,1966-10-26,Right
+1208,Pearl Washington,310000.0,Point Guard,1964-01-06,Right
+1209,Walter Berry,287500.0,Power Forward and Small Forward,1964-05-14,Left
+1210,Dell Curry,250000.0,Shooting Guard,1964-06-25,Right
+1211,Maurice Martin,225000.0,Small Forward,1964-07-02,Right
+1212,Harold Pressley,240000.0,Small Forward and Power Forward,1963-07-14,Right
+1213,Mark Alarie,232500.0,Power Forward,1963-12-11,Right
+1214,Billy Thompson,230000.0,Small Forward,1963-12-01,Right
+1215,Buck Johnson,195000.0,Small Forward,1964-01-03,Right
+1216,Anthony Jones,,Shooting Guard and Small Forward,1962-09-13,Right
+1217,Scott Skiles,172000.0,Point Guard,1964-03-05,Right
+1218,Mark Price,175000.0,Point Guard,1964-02-15,Right
+1219,Greg Dreiling,180000.0,Center,1962-11-07,Right
+1220,Dennis Rodman,160000.0,Power Forward and Small Forward,1961-05-13,Right
+1221,Larry Krystkowiak,125000.0,Power Forward,1964-09-23,Right
+1222,Johnny Newman,275000.0,Small Forward and Shooting Guard,1963-11-28,Right
+1223,Nate McMillan,129000.0,Point Guard and Shooting Guard,1964-08-03,Right
+1224,Cedric Henderson,,Power Forward,1965-10-03,Right
+1225,Kevin Duckworth,175000.0,Center,1964-04-01,Right
+1226,Johnny Rogers,75000.0,Power Forward,1963-12-30,Right
+1227,Milt Wagner,75000.0,Shooting Guard,1963-02-20,Right
+1228,Rafael Addison,311000.0,Small Forward,1964-07-22,Right
+1229,Otis Smith,95000.0,Shooting Guard and Small Forward,1964-01-30,Right
+1230,Dave Feitl,124700.0,Center,1962-06-08,Right
+1231,David Wingate,258333.0,Shooting Guard and Small Forward,1963-12-15,Right
+1232,Keith Smith,,Shooting Guard,1964-03-09,Left
+1233,Jeff Hornacek,94000.0,Shooting Guard and Point Guard,1963-05-03,Right
+1234,Michael Jackson,115000.0,Point Guard,1964-07-13,Right
+1235,Forrest McKenzie,,Small Forward,1963-02-16,Right
+1236,Kevin Henderson,75000.0,Shooting Guard and Point Guard,1964-03-22,Right
+1237,Mike Williams,,Power Forward and Small Forward,1963-08-14,Left
+1238,Ricky Wilson,75000.0,Point Guard,1964-07-16,Right
+1239,Tod Murphy,590000.0,Power Forward and Center,1963-12-24,Right
+1240,Dwayne Polee,,Shooting Guard,1963-03-02,Right
+1241,Kenny Gattison,110000.0,Power Forward,1964-05-23,Right
+1242,Bruce Douglas,,Shooting Guard,1964-04-09,Right
+1243,Dave Henderson,75000.0,Shooting Guard,1964-07-21,Right
+1244,John Shasky,125000.0,Center,1964-07-31,Right
+1245,Dave Hoppen,75000.0,Center,1964-03-13,Right
+1246,Anthony Bowie,900000.0,Shooting Guard,1963-11-09,Right
+1247,Ron Rowan,,Shooting Guard,1962-04-23,Right
+1248,Andre Turner,75000.0,Point Guard,1964-12-13,Right
+1249,Jim Les,100000.0,Point Guard,1963-08-18,Right
+1250,Scott Meents,300000.0,Power Forward,1964-01-04,Right
+1251,Grant Gondrezick,125000.0,Shooting Guard,1963-01-19,Right
+1252,Myron Jackson,,Point Guard,1964-05-06,Right
+1253,Conner Henry,120000.0,Shooting Guard,1963-07-21,Right
+1254,Richard Rellford,,Small Forward,1964-02-16,Right
+1255,Clinton Smith,,Shooting Guard,1964-01-19,Right
+1256,Dominic Pressley,,Point Guard,1964-05-30,Right
+1257,Steffond Johnson,,Power Forward,1962-11-04,Right
+1258,Pete Myers,75000.0,Shooting Guard,1963-09-15,Right
+1259,Curtis Kitchen,,Power Forward,1964-01-30,Right
+1260,Tim Kempton,125000.0,Power Forward,1964-01-25,Right
+1261,Anthony Frederick,100000.0,Small Forward,1964-12-07,Right
+1262,David Robinson,1046000.0,Center,1965-08-06,Left
+1263,Armen Gilliam,700000.0,Power Forward and Small Forward,1964-05-28,Right
+1264,Dennis Hopson,400850.0,Shooting Guard and Small Forward,1965-04-22,Right
+1265,Reggie Williams,600000.0,Small Forward,1964-03-05,Right
+1266,Scottie Pippen,725000.0,Small Forward,1965-09-25,Right
+1267,Kenny Smith,600000.0,Point Guard,1965-03-08,Right
+1268,Kevin Johnson,536100.0,Point Guard,1966-03-04,Right
+1269,Olden Polynice,350000.0,Center,1964-11-21,Right
+1270,Derrick McKey,355000.0,Small Forward,1966-10-10,Right
+1271,Horace Grant,500000.0,Power Forward and Center,1965-07-04,Right
+1272,Reggie Miller,254000.0,Shooting Guard,1965-08-24,Right
+1273,Muggsy Bogues,250000.0,Point Guard,1965-01-09,Right
+1274,Joe Wolf,283708.0,Center and Power Forward,1964-12-17,Right
+1275,Tellis Frank,353000.0,Power Forward,1965-04-26,Right
+1276,Jose Ortiz,275000.0,Power Forward,1963-10-25,Right
+1277,Chris Welp,257500.0,Center,1964-01-02,Left
+1278,Ronnie Murphy,191666.0,Small Forward,1964-07-29,Right
+1279,Mark Jackson,115100.0,Point Guard,1965-04-01,Right
+1280,Ken Norman,250000.0,Small Forward,1964-09-05,Right
+1281,Jim Farmer,175000.0,Shooting Guard,1964-09-23,Right
+1282,Dallas Comegys,115000.0,Power Forward,1964-08-17,Right
+1283,Reggie Lewis,75000.0,Shooting Guard and Small Forward,1965-11-21,Right
+1284,Greg Anderson,185000.0,Power Forward and Center,1964-06-22,Right
+1285,Ron Moore,75000.0,Center,1962-01-16,Right
+1286,Steve Alford,100000.0,Point Guard,1964-11-23,Right
+1287,Nate Blackwell,,Point Guard,1965-02-15,Left
+1288,Rickie Winslow,,Small Forward,1964-07-26,Right
+1289,Nikita Wilson,,Small Forward,1964-02-25,Right
+1290,Andre Moore,,Power Forward and Small Forward,1964-07-02,Right
+1291,Bob McCann,130000.0,Small Forward and Power Forward,1964-04-22,Left
+1292,Tony White,75000.0,Point Guard,1965-02-15,Right
+1293,Brian Rowsom,100000.0,Power Forward,1965-10-23,Right
+1294,Doug Lee,150000.0,Shooting Guard,1964-10-24,Right
+1295,Duane Washington,75000.0,Shooting Guard,1964-08-31,Right
+1296,Norris Coleman,,Small Forward,1961-09-27,Right
+1297,Vincent Askew,135000.0,Shooting Guard,1966-02-28,Right
+1298,Winston Garland,75000.0,Point Guard,1964-12-19,Right
+1299,Kannard Johnson,,Small Forward,1965-06-24,Right
+1300,Brad Lohaus,75000.0,Power Forward,1964-09-29,Left
+1301,Jamie Waller,,Shooting Guard,1964-11-20,Right
+1302,Phil Zevenbergen,,Center,1964-04-13,Right
+1303,Donald Royal,130000.0,Small Forward,1966-05-22,Right
+1304,Winston Crite,100000.0,Small Forward,1965-06-20,Right
+1305,Darryl Johnson,,Point Guard,1965-10-26,Right
+1306,Kevin Gamble,100000.0,Small Forward,1965-11-13,Right
+1307,Eric White,75000.0,Small Forward,1965-12-30,Right
+1308,Billy Donovan,,Point Guard,1965-05-30,Right
+1309,Joe Arlauckas,,Small Forward,1965-07-20,Right
+1310,Chris Dudley,75000.0,Center and Power Forward,1965-02-22,Right
+1311,Jack Haley,150000.0,Power Forward and Center,1964-01-27,Right
+1312,Dave Popson,80000.0,Power Forward,1964-05-17,Right
+1313,Ron Grandison,100000.0,Power Forward,1964-07-09,Right
+1314,Bart Kofoed,75000.0,Shooting Guard,1964-03-24,Right
+1315,Martin Nessley,,Center,1965-02-16,Right
+1316,Danny Manning,1650000.0,Power Forward,1966-05-17,Right
+1317,Rik Smits,800000.0,Center,1966-08-23,Right
+1318,Charles Smith,1000000.0,Small Forward and Power Forward,1965-07-16,Right
+1319,Chris Morris,625000.0,Small Forward and Shooting Guard,1966-01-20,Right
+1320,Mitch Richmond,700000.0,Shooting Guard,1965-06-30,Right
+1321,Hersey Hawkins,650000.0,Shooting Guard,1966-09-29,Right
+1322,Tim Perry,600000.0,Power Forward and Center,1965-06-04,Right
+1323,Rex Chapman,675000.0,Shooting Guard and Point Guard,1967-10-05,Right
+1324,Rony Seikaly,650000.0,Center,1965-05-10,Right
+1325,Willie Anderson,500000.0,Shooting Guard and Small Forward,1967-01-08,Right
+1326,Will Perdue,425000.0,Center,1965-08-29,Right
+1327,Harvey Grant,425000.0,Power Forward and Small Forward,1965-07-04,Right
+1328,Jeff Grayer,400000.0,Shooting Guard and Small Forward,1965-12-17,Right
+1329,Dan Majerle,450000.0,Shooting Guard and Small Forward,1965-09-09,Right
+1330,Gary Grant,250000.0,Point Guard,1965-04-21,Right
+1331,Derrick Chievous,350000.0,Small Forward,1967-07-03,Right
+1332,Eric Leckner,325000.0,Center,1966-05-27,Right
+1333,Ricky Berry,300000.0,Shooting Guard,1964-10-06,Right
+1334,Rod Strickland,250000.0,Point Guard and Shooting Guard,1966-07-11,Right
+1335,Kevin Edwards,300000.0,Shooting Guard and Point Guard,1965-10-30,Right
+1336,Mark Bryant,220000.0,Power Forward and Center,1965-04-25,Right
+1337,Randolph Keys,250000.0,Small Forward,1966-04-19,Right
+1338,Jerome Lane,200000.0,Power Forward,1966-12-04,Right
+1339,Brian Shaw,150000.0,Point Guard and Shooting Guard,1966-03-22,Right
+1340,David Rivers,200000.0,Point Guard,1965-01-20,Right
+1341,Rolando Ferreira,100000.0,Center,1964-05-24,Right
+1342,Shelton Jones,,Small Forward,1966-04-06,Right
+1343,Andrew Lang,100000.0,Center,1966-06-28,Right
+1344,Vinny Del Negro,175000.0,Shooting Guard and Point Guard,1966-08-09,Right
+1345,Fennis Dembo,100000.0,Small Forward,1966-01-24,Right
+1346,Everette Stephens,100000.0,Point Guard,1966-10-21,Right
+1347,Charles Shackleford,150000.0,Center and Power Forward,1966-04-22,Right
+1348,Grant Long,100000.0,Power Forward,1966-03-12,Right
+1349,Tom Tolbert,150000.0,Power Forward and Small Forward,1965-10-16,Right
+1350,Sylvester Gray,160000.0,Small Forward,1967-07-08,Right
+1351,Ledell Eackles,225000.0,Shooting Guard,1966-11-24,Right
+1352,Greg Butler,100000.0,Center,1966-03-11,Right
+1353,Dean Garrett,100000.0,Center,1966-11-27,Right
+1354,Tito Horford,100000.0,Center,1966-01-19,Right
+1355,Orlando Graham,,Power Forward,1965-05-05,Right
+1356,Keith Smart,,Point Guard,1964-09-21,Right
+1357,Todd Mitchell,,Small Forward,1966-07-26,Right
+1358,Anthony Taylor,100000.0,Point Guard,1965-11-30,Right
+1359,Tom Garrick,100000.0,Shooting Guard,1966-07-07,Right
+1360,Morlon Wiley,100000.0,Point Guard,1966-09-24,Right
+1361,Vernon Maxwell,100000.0,Shooting Guard and Point Guard,1965-09-12,Right
+1362,Micheal Williams,100000.0,Point Guard,1966-07-23,Right
+1363,Steve Kerr,100000.0,Point Guard and Shooting Guard,1965-09-27,Right
+1364,Rob Lock,,Power Forward,1966-05-22,Right
+1365,Anthony Mason,210000.0,Power Forward and Small Forward and Center,1966-12-14,Left
+1366,Barry Sumpter,,Power Forward,1965-11-11,Right
+1367,Nate Johnston,,Power Forward and Small Forward,1966-12-18,Right
+1368,Winston Bennett,525000.0,Small Forward,1965-02-09,Right
+1369,Corey Gaines,13000.0,Shooting Guard,1965-06-01,Right
+1370,Ricky Grace,,Point Guard,1967-08-20,Left
+1371,Craig Neal,100000.0,Point Guard,1964-02-16,Right
+1372,Michael Anderson,,Point Guard,1966-03-23,Right
+1373,Gerald Paddio,120000.0,Small Forward,1965-04-21,Right
+1374,Pervis Ellison,2300000.0,Center and Power Forward,1967-04-03,Right
+1375,Danny Ferry,2640000.0,Power Forward and Small Forward,1966-10-17,Right
+1376,Sean Elliott,1800000.0,Small Forward,1968-02-02,Right
+1377,Glen Rice,1550000.0,Small Forward,1967-05-28,Right
+1378,J.R. Reid,1250000.0,Power Forward and Center,1968-03-31,Right
+1379,Stacey King,1000000.0,Center and Power Forward,1967-01-29,Left
+1380,George McCloud,940000.0,Small Forward,1967-05-27,Right
+1381,Randy White,730000.0,Power Forward,1967-11-04,Right
+1382,Tom Hammonds,800000.0,Power Forward,1967-03-27,Right
+1383,Pooh Richardson,615000.0,Point Guard,1966-05-14,Right
+1384,Nick Anderson,725000.0,Shooting Guard and Small Forward,1968-01-20,Right
+1385,Mookie Blaylock,525000.0,Point Guard,1967-03-20,Right
+1386,Michael Smith,525000.0,Power Forward,1965-05-19,Right
+1387,Tim Hardaway,500000.0,Point Guard,1966-09-01,Right
+1388,Todd Lichti,565000.0,Shooting Guard,1967-01-08,Right
+1389,Dana Barros,500000.0,Point Guard and Shooting Guard,1967-04-13,Right
+1390,Shawn Kemp,350000.0,Power Forward and Center,1969-11-26,Right
+1391,B.J. Armstrong,425000.0,Point Guard,1967-09-09,Right
+1392,Kenny Payne,400000.0,Small Forward,1966-11-25,Left
+1393,Jeff Sanders,385000.0,Power Forward and Small Forward,1966-01-14,Right
+1394,Blue Edwards,360000.0,Small Forward and Shooting Guard,1965-10-31,Right
+1395,Byron Irvin,375000.0,Shooting Guard,1966-12-02,Right
+1396,Roy Marble,,Shooting Guard and Small Forward,1966-12-13,Right
+1397,Anthony Cook,370000.0,Power Forward,1967-03-19,Right
+1398,John Morton,350000.0,Shooting Guard and Small Forward,1967-05-18,Right
+1399,Kenny Battle,350000.0,Shooting Guard,1964-10-10,Left
+1400,Sherman Douglas,325000.0,Point Guard,1966-09-15,Right
+1401,Dyron Nix,,Small Forward,1967-02-11,Right
+1402,Frank Kornet,225000.0,Power Forward,1967-01-27,Right
+1403,Jeff Martin,210000.0,Point Guard and Shooting Guard,1967-01-14,Right
+1404,Stanley Brundy,,Small Forward,1967-11-13,Right
+1405,Jay Edwards,,Shooting Guard,1969-01-03,Right
+1406,Gary Leonard,200000.0,Center,1967-02-16,Right
+1407,Pat Durham,126000.0,Small Forward,1967-03-10,Right
+1408,Clifford Robinson,250000.0,Power Forward and Small Forward and Center,1966-12-16,Right
+1409,Michael Ansley,200000.0,Small Forward,1967-02-08,Right
+1410,Doug West,230000.0,Shooting Guard,1967-05-27,Right
+1411,Ed Horton,,Power Forward,1967-12-17,Right
+1412,Doug Roth,,Center,1967-08-24,Right
+1413,Chucky Brown,630000.0,Small Forward and Power Forward,1968-02-29,Right
+1414,Scott Haffner,75000.0,Point Guard,1966-02-02,Right
+1415,Ricky Blanton,8000.0,Small Forward,1966-04-21,Right
+1416,Haywoode Workman,120000.0,Point Guard,1966-01-23,Right
+1417,Brian Quinnett,360000.0,Shooting Guard,1966-05-30,Right
+1418,Mike Morrison,,Shooting Guard,1967-08-16,Right
+1419,Greg Grant,300000.0,Point Guard,1966-08-29,Right
+1420,Derrick Coleman,2100000.0,Power Forward and Center,1967-06-21,Left
+1421,Gary Payton,1685000.0,Point Guard,1968-07-23,Right
+1422,Mahmoud Abdul-Rauf,1660000.0,Point Guard,1969-03-09,Right
+1423,Dennis Scott,1560000.0,Small Forward and Shooting Guard,1968-09-05,Right
+1424,Kendall Gill,1500000.0,Shooting Guard and Small Forward,1968-05-25,Right
+1425,Felton Spencer,1070000.0,Center,1968-01-15,Right
+1426,Lionel Simmons,930000.0,Small Forward,1968-11-14,Right
+1427,Bo Kimble,950000.0,Shooting Guard,1966-04-09,Right
+1428,Willie Burton,2000000.0,Small Forward,1968-05-26,Right
+1429,Rumeal Robinson,800000.0,Point Guard,1966-11-13,Right
+1430,Tyrone Hill,1000000.0,Power Forward and Center,1968-03-19,Right
+1431,Alec Kessler,1600000.0,Power Forward and Center,1967-01-13,Right
+1432,Loy Vaught,825000.0,Power Forward,1968-02-27,Right
+1433,Travis Mays,800000.0,Point Guard,1968-06-19,Right
+1434,Dave Jamerson,650000.0,Shooting Guard,1967-08-13,Right
+1435,Terry Mills,600000.0,Power Forward,1967-12-21,Right
+1436,Jerrod Mustaf,565000.0,Power Forward,1969-10-28,Right
+1437,Duane Causwell,650000.0,Center,1968-05-31,Right
+1438,Dee Brown,547000.0,Point Guard and Shooting Guard,1968-11-29,Right
+1439,Gerald Glass,575000.0,Small Forward,1967-11-12,Right
+1440,Jayson Williams,500000.0,Power Forward and Center,1968-02-22,Right
+1441,Tate George,410000.0,Shooting Guard and Point Guard,1968-05-29,Right
+1442,Anthony Bonner,568000.0,Power Forward and Small Forward,1968-06-08,Right
+1443,Dwayne Schintzius,520000.0,Center,1968-10-14,Right
+1444,Alaa Abdelnaby,395000.0,Power Forward,1968-06-24,Right
+1445,Lance Blanks,365000.0,Shooting Guard,1966-09-09,Right
+1446,Elden Campbell,575000.0,Center and Power Forward,1968-07-23,Right
+1447,Les Jepsen,505000.0,Center,1967-06-24,Right
+1448,Carl Herrera,325000.0,Power Forward,1966-12-14,Right
+1449,Negele Knight,468000.0,Point Guard,1967-03-06,Right
+1450,Brian Oliver,455000.0,Shooting Guard,1968-06-01,Right
+1451,Walter Palmer,225000.0,Center,1968-10-23,Right
+1452,Kevin Pritchard,185000.0,Point Guard,1967-07-17,Right
+1453,Greg Foster,275000.0,Power Forward and Center,1968-10-03,Right
+1454,Trevor Wilson,150000.0,Power Forward,1968-03-16,Right
+1455,A.J. English,275000.0,Shooting Guard,1967-07-11,Right
+1456,Jud Buechler,225000.0,Small Forward,1968-06-19,Right
+1457,Steve Scheffler,200000.0,Center,1967-09-03,Left
+1458,Bimbo Coles,290000.0,Point Guard,1968-04-22,Right
+1459,Steve Bardo,150000.0,Shooting Guard,1968-04-05,Right
+1460,Marcus Liberty,210000.0,Small Forward,1968-10-27,Right
+1461,Tony Massenburg,150000.0,Power Forward and Center,1967-07-31,Right
+1462,Steve Henson,120000.0,Point Guard,1968-02-02,Right
+1463,Antonio Davis,565000.0,Power Forward and Center,1968-10-31,Right
+1464,Kenny Williams,175000.0,Small Forward and Power Forward,1969-06-09,Right
+1465,Derek Strong,130000.0,Power Forward,1968-02-09,Right
+1466,Cedric Ceballos,175000.0,Small Forward,1969-08-02,Right
+1467,Milos Babic,200000.0,Power Forward and Center,1968-11-23,Right
+1468,Tony Smith,120000.0,Shooting Guard and Point Guard,1968-06-14,Right
+1469,Sean Higgins,150000.0,Small Forward and Power Forward,1968-12-30,Right
+1470,Larry Johnson,1955000.0,Power Forward and Small Forward,1969-03-14,Right
+1471,Kenny Anderson,1828000.0,Point Guard,1970-10-09,Left
+1472,Billy Owens,1509000.0,Small Forward and Power Forward and Shooting Guard,1969-05-01,Right
+1473,Dikembe Mutombo,2005000.0,Center,1966-06-25,Right
+1474,Steve Smith,2250000.0,Shooting Guard,1969-03-31,Right
+1475,Doug Smith,1500000.0,Power Forward,1969-09-17,Right
+1476,Luc Longley,1590000.0,Center,1969-01-19,Right
+1477,Mark Macon,970000.0,Shooting Guard and Point Guard,1969-04-14,Right
+1478,Stacey Augmon,875000.0,Shooting Guard and Small Forward,1968-08-01,Left
+1479,Bison Dele,777000.0,Center and Power Forward,1969-04-06,Left
+1480,Terrell Brandon,525000.0,Point Guard,1970-05-20,Right
+1481,Greg Anthony,865000.0,Point Guard,1967-11-15,Left
+1482,Dale Davis,430000.0,Center and Power Forward,1969-03-25,Right
+1483,Rich King,600000.0,Center,1969-04-04,Right
+1484,Anthony Avent,500000.0,Power Forward,1969-10-18,Right
+1485,Chris Gatling,700000.0,Power Forward and Center,1967-09-03,Left
+1486,Victor Alexander,750000.0,Center,1969-08-31,Right
+1487,Kevin Brooks,625000.0,Small Forward,1969-10-12,Right
+1488,LaBradford Smith,620000.0,Shooting Guard,1969-04-03,Right
+1489,John Turner,615000.0,Small Forward,1967-11-30,Right
+1490,Eric Murdock,600000.0,Point Guard,1968-06-14,Right
+1491,LeRon Ellis,180000.0,Center,1969-04-28,Right
+1492,Stanley Roberts,550000.0,Center,1970-02-07,Right
+1493,Rick Fox,525000.0,Small Forward,1969-07-24,Right
+1494,Mark Randall,180000.0,Power Forward,1967-09-30,Right
+1495,Pete Chilcutt,475000.0,Power Forward,1968-09-14,Right
+1496,Kevin Lynch,250000.0,Shooting Guard,1968-12-24,Right
+1497,Rodney Monroe,217000.0,Shooting Guard,1968-04-16,Right
+1498,Randy Brown,210000.0,Point Guard,1968-05-22,Right
+1499,Chad Gallagher,,Center,1969-05-30,Right
+1500,Donald Hodge,130000.0,Center and Power Forward,1969-02-25,Right
+1501,Myron Brown,200000.0,Point Guard,1969-11-03,Right
+1502,Mike Iuzzolino,185000.0,Point Guard,1968-01-22,Right
+1503,Chris Corchiani,300000.0,Point Guard,1968-03-28,Right
+1504,Elliot Perry,130000.0,Point Guard,1969-03-28,Left
+1505,Jimmy Oliver,200000.0,Shooting Guard,1969-07-12,Right
+1506,Doug Overton,140000.0,Point Guard,1969-08-03,Right
+1507,Sean Green,130000.0,Shooting Guard,1970-02-02,Right
+1508,Lamont Strothers,150000.0,Shooting Guard,1968-05-10,Right
+1509,Bobby Phills,130000.0,Shooting Guard,1969-12-20,Right
+1510,Richard Dumas,140000.0,Small Forward and Power Forward,1969-05-19,Right
+1511,Isaac Austin,130000.0,Center,1969-08-18,Right
+1512,Greg Sutton,175000.0,Point Guard,1967-12-03,Right
+1513,Shaquille O'Neal,3000000.0,Center,1972-03-06,Right
+1514,Alonzo Mourning,2400000.0,Center and Power Forward,1970-02-08,Right
+1515,Christian Laettner,2100000.0,Power Forward and Center,1969-08-17,Right
+1516,Jim Jackson,2000000.0,Small Forward and Shooting Guard,1970-10-14,Right
+1517,LaPhonso Ellis,1900000.0,Power Forward and Small Forward,1970-05-05,Right
+1518,Tom Gugliotta,1250000.0,Power Forward and Small Forward,1969-12-19,Right
+1519,Walt Williams,1275000.0,Small Forward,1970-04-16,Right
+1520,Todd Day,1325000.0,Shooting Guard,1970-01-07,Right
+1521,Clarence Weatherspoon,800000.0,Power Forward and Small Forward,1970-09-08,Right
+1522,Adam Keefe,1000000.0,Power Forward and Center and Small Forward,1970-02-22,Right
+1523,Robert Horry,997000.0,Power Forward and Small Forward,1970-08-25,Right
+1524,Harold Miner,912000.0,Shooting Guard and Point Guard,1971-05-05,Left
+1525,Bryant Stith,850000.0,Shooting Guard,1970-12-10,Right
+1526,Malik Sealy,790000.0,Small Forward and Shooting Guard,1970-02-01,Right
+1527,Anthony Peeler,700000.0,Shooting Guard,1969-11-25,Left
+1528,Randy Woods,500000.0,Point Guard,1970-09-23,Right
+1529,Doug Christie,1445000.0,Shooting Guard and Small Forward,1970-05-09,Right
+1530,Tracy Murray,725000.0,Small Forward,1971-07-25,Right
+1531,Don MacLean,463000.0,Small Forward and Power Forward,1970-01-16,Right
+1532,Hubert Davis,588000.0,Shooting Guard and Point Guard,1970-05-17,Right
+1533,Jon Barry,500000.0,Shooting Guard,1969-07-25,Right
+1534,Oliver Miller,517000.0,Center and Power Forward,1970-04-06,Right
+1535,Lee Mayberry,520000.0,Point Guard,1970-06-12,Right
+1536,Latrell Sprewell,550000.0,Small Forward and Shooting Guard,1970-09-08,Right
+1537,Elmore Spencer,438000.0,Center,1969-12-06,Left
+1538,Dave Johnson,500000.0,Shooting Guard,1970-11-16,Right
+1539,Byron Houston,500000.0,Power Forward,1969-11-22,Right
+1540,Marlon Maxey,325000.0,Power Forward,1969-02-19,Right
+1541,P.J. Brown,600000.0,Power Forward and Center,1969-10-14,Right
+1542,Sean Rooks,375000.0,Center,1969-09-09,Right
+1543,Reggie Smith,275000.0,Center and Power Forward,1970-08-21,Right
+1544,Brent Price,283000.0,Point Guard,1968-12-09,Right
+1545,Corey Williams,200000.0,Point Guard,1970-04-24,Right
+1546,Chris Smith,200000.0,Shooting Guard and Point Guard,1970-05-17,Right
+1547,Tony Bennett,140000.0,Point Guard,1969-06-01,Right
+1548,Duane Cooper,140000.0,Point Guard,1969-06-25,Right
+1549,Isaiah Morris,140000.0,Small Forward,1969-04-02,Right
+1550,Elmer Bennett,,Point Guard,1970-02-13,Right
+1551,Litterial Green,140000.0,Point Guard,1970-03-07,Right
+1552,Popeye Jones,275000.0,Power Forward,1970-06-17,Right
+1553,Matt Geiger,140000.0,Center,1969-09-10,Right
+1554,Chris King,225000.0,Small Forward,1969-07-24,Right
+1555,Robert Werdann,145000.0,Center,1970-09-12,Right
+1556,Darren Morningstar,43000.0,Center,1969-04-22,Right
+1557,Brian Davis,150000.0,Small Forward,1970-06-21,Right
+1558,Matt Fish,150000.0,Center,1969-11-18,Left
+1559,Matt Steigenga,,Small Forward,1970-03-27,Right
+1560,Chris Webber,1600000.0,Power Forward and Center,1973-03-01,Right
+1561,Shawn Bradley,2700000.0,Center,1972-03-22,Right
+1562,Anfernee Hardaway,1244000.0,Shooting Guard and Point Guard and Small Forward,1971-07-18,Right
+1563,Jamal Mashburn,2033000.0,Small Forward,1972-11-29,Right
+1564,Isaiah Rider,2000000.0,Shooting Guard,1971-03-12,Right
+1565,Calbert Cheaney,2000000.0,Shooting Guard and Small Forward,1971-07-17,Left
+1566,Bobby Hurley,1616000.0,Point Guard,1971-06-28,Right
+1567,Vin Baker,866000.0,Power Forward and Center,1971-11-23,Right
+1568,Rodney Rogers,150000.0,Small Forward and Power Forward,1971-06-20,Left
+1569,Lindsey Hunter,902000.0,Point Guard and Shooting Guard,1970-12-03,Right
+1570,Allan Houston,736000.0,Shooting Guard,1971-04-20,Right
+1571,George Lynch,1100000.0,Small Forward and Shooting Guard,1970-09-03,Right
+1572,Terry Dehere,1050000.0,Point Guard and Shooting Guard,1971-09-12,Right
+1573,Scott Haskin,833000.0,Center,1970-09-19,Right
+1574,Doug Edwards,650000.0,Power Forward,1971-01-21,Right
+1575,Rex Walters,650000.0,Shooting Guard and Point Guard,1970-03-12,Left
+1576,Greg Graham,700000.0,Shooting Guard,1970-11-26,Right
+1577,Luther Wright,650000.0,Center,1971-09-22,Right
+1578,Acie Earl,650000.0,Center,1970-06-23,Right
+1579,Scott Burrell,650000.0,Small Forward,1971-01-12,Right
+1580,James Robinson,650000.0,Point Guard,1970-08-31,Right
+1581,Chris Mills,650000.0,Small Forward and Power Forward,1970-01-25,Right
+1582,Ervin Johnson,617000.0,Center,1967-12-21,Right
+1583,Sam Cassell,650000.0,Point Guard,1969-11-18,Right
+1584,Corie Blount,620000.0,Power Forward and Center,1969-01-04,Right
+1585,Geert Hammink,250000.0,Center,1969-07-12,Right
+1586,Malcolm Mackey,550000.0,Center,1970-07-11,Right
+1587,Lucious Harris,350000.0,Shooting Guard and Point Guard,1970-12-18,Right
+1588,Evers Burns,1616000.0,Power Forward,1971-08-24,Right
+1589,Alphonso Ford,,Shooting Guard and Point Guard,1971-10-31,Right
+1590,Eric Riley,150000.0,Center,1970-06-02,Right
+1591,Darnell Mee,150000.0,Shooting Guard,1971-02-11,Right
+1592,Ed Stokes,272500.0,Center,1971-09-03,Right
+1593,Nick Van Exel,1100000.0,Point Guard and Shooting Guard,1971-11-27,Left
+1594,Rich Manning,247500.0,Power Forward,1970-06-23,Right
+1595,Adonis Jordan,350000.0,Point Guard,1970-08-21,Right
+1596,Josh Grant,150000.0,Power Forward,1967-08-07,Right
+1597,Bryon Russell,150000.0,Small Forward and Shooting Guard,1970-12-31,Right
+1598,Richard Petruska,150000.0,Center,1969-01-25,Left
+1599,Chris Whitney,150000.0,Point Guard,1971-10-05,Right
+1600,Kevin Thompson,150000.0,Center,1971-02-07,Right
+1601,Mike Peplowski,150000.0,Center,1970-10-15,Right
+1602,Glenn Robinson,2900000.0,Small Forward,1973-01-10,Right
+1603,Jason Kidd,2770800.0,Point Guard and Shooting Guard,1973-03-23,Right
+1604,Grant Hill,2750000.0,Small Forward and Shooting Guard,1972-10-05,Right
+1605,Donyell Marshall,2100000.0,Power Forward and Small Forward,1973-05-18,Right
+1606,Juwan Howard,1309000.0,Power Forward and Small Forward and Center,1973-02-07,Right
+1607,Sharone Wright,2020000.0,Center,1973-01-30,Right
+1608,Lamond Murray,2000000.0,Small Forward,1973-04-20,Right
+1609,Brian Grant,808000.0,Power Forward and Center and Small Forward,1972-03-05,Right
+1610,Eric Montross,800000.0,Center,1971-09-23,Right
+1611,Eddie Jones,1300000.0,Shooting Guard and Small Forward,1971-10-20,Right
+1612,Carlos Rogers,715000.0,Power Forward and Center,1971-02-06,Right
+1613,Khalid Reeves,1300000.0,Point Guard,1972-07-15,Right
+1614,Jalen Rose,975000.0,Small Forward and Shooting Guard and Point Guard,1973-01-30,Left
+1615,Yinka Dare,920000.0,Center,1972-10-10,Right
+1616,Eric Piatkowski,962500.0,Shooting Guard and Small Forward,1970-09-30,Right
+1617,Clifford Rozier,650000.0,Center,1972-10-31,Right
+1618,Aaron McKie,650000.0,Shooting Guard and Small Forward and Point Guard,1972-10-02,Right
+1619,Eric Mobley,620000.0,Center,1970-02-01,Right
+1620,Tony Dumas,700000.0,Shooting Guard,1972-08-25,Right
+1621,B.J. Tyler,715000.0,Point Guard,1971-04-30,Right
+1622,Dickey Simpkins,650000.0,Power Forward and Center,1972-04-06,Right
+1623,Bill Curley,702000.0,Power Forward and Small Forward,1972-05-29,Right
+1624,Wesley Person,650000.0,Shooting Guard and Small Forward,1971-03-28,Right
+1625,Monty Williams,650000.0,Small Forward,1971-10-08,Right
+1626,Greg Minor,250000.0,Shooting Guard and Small Forward,1971-09-18,Right
+1627,Charlie Ward,555000.0,Point Guard,1970-10-12,Right
+1628,Brooks Thompson,650000.0,Point Guard,1970-07-19,Left
+1629,Antonio Lang,325000.0,Small Forward and Power Forward,1972-05-15,Right
+1630,Howard Eisley,150000.0,Point Guard and Shooting Guard,1972-12-04,Right
+1631,Jim McIlvaine,200000.0,Center,1972-07-30,Right
+1632,Derrick Alston,150000.0,Center,1972-08-20,Right
+1633,Gaylon Nickerson,152900.0,Shooting Guard,1969-02-05,Right
+1634,Michael Smith,150000.0,Power Forward and Small Forward,1972-03-28,Left
+1635,Dontonio Wingfield,150000.0,Small Forward,1974-06-23,Right
+1636,Darrin Hancock,150000.0,Small Forward,1971-11-03,Right
+1637,Anthony Miller,150000.0,Power Forward,1971-10-22,Right
+1638,Jeff Webster,,Small Forward,1971-02-19,Right
+1639,Shawnelle Scott,300000.0,Center,1972-06-16,Right
+1640,Dwayne Morton,150000.0,Point Guard,1971-08-08,Right
+1641,Voshon Lenard,247500.0,Shooting Guard,1973-05-14,Right
+1642,Jamie Watson,150000.0,Small Forward,1972-02-23,Right
+1643,Charles Claxton,,Center,1970-12-13,Right
+1644,Lawrence Funderburke,2400000.0,Power Forward,1970-12-15,Left
+1645,Anthony Goldwire,250000.0,Point Guard,1971-09-06,Right
+1646,Joe Smith,2473000.0,Power Forward and Center and Small Forward,1975-07-26,Right
+1647,Antonio McDyess,2213000.0,Power Forward and Center,1974-09-07,Right
+1648,Jerry Stackhouse,1987000.0,Shooting Guard and Small Forward,1974-11-05,Right
+1649,Rasheed Wallace,1493000.0,Power Forward and Center,1974-09-17,Right
+1650,Bryant Reeves,1474000.0,Center,1973-06-08,Right
+1651,Damon Stoudamire,1345000.0,Point Guard,1973-09-03,Left
+1652,Shawn Respert,1232000.0,Shooting Guard,1972-02-06,Right
+1653,Ed O'Bannon,1133000.0,Small Forward and Shooting Guard,1972-08-14,Left
+1654,Kurt Thomas,1071000.0,Power Forward and Center,1972-10-04,Right
+1655,Gary Trent,1022000.0,Power Forward and Small Forward and Center,1974-09-22,Right
+1656,Cherokee Parks,971000.0,Center and Power Forward,1972-10-11,Right
+1657,Corliss Williamson,923000.0,Small Forward and Power Forward,1973-12-04,Right
+1658,Eric Williams,876000.0,Small Forward and Shooting Guard,1972-07-17,Right
+1659,Brent Barry,833000.0,Shooting Guard and Small Forward,1971-12-31,Right
+1660,Alan Henderson,791000.0,Power Forward and Center and Small Forward,1972-12-02,Right
+1661,Bob Sura,752000.0,Shooting Guard and Point Guard,1973-03-25,Right
+1662,Theo Ratliff,714000.0,Center and Power Forward,1973-04-17,Right
+1663,Randolph Childress,682000.0,Point Guard,1972-09-21,Right
+1664,Jason Caffey,627000.0,Power Forward,1973-06-12,Right
+1665,Michael Finley,628000.0,Small Forward and Shooting Guard,1973-03-06,Right
+1666,George Zidek,603000.0,Center,1973-08-02,Right
+1667,Travis Best,580000.0,Point Guard,1972-07-12,Left
+1668,Loren Meyer,556000.0,Center and Power Forward,1972-12-30,Right
+1669,David Vaughn,534000.0,Power Forward,1973-03-23,Right
+1670,Sherell Ford,500000.0,Small Forward,1972-08-26,Right
+1671,Mario Bennett,480000.0,Power Forward and Small Forward,1973-08-01,Right
+1672,Greg Ostertag,498000.0,Center,1973-03-06,Right
+1673,Cory Alexander,490000.0,Point Guard and Shooting Guard,1973-06-22,Right
+1674,Lou Roe,200000.0,Small Forward,1972-07-14,Right
+1675,Terrence Rencher,200000.0,Point Guard,1973-02-19,Right
+1676,Junior Burrough,300000.0,Power Forward,1973-01-18,Right
+1677,Andrew DeClercq,230000.0,Center,1973-02-01,Right
+1678,Jimmy King,300000.0,Shooting Guard,1973-08-09,Right
+1679,Lawrence Moten,280000.0,Shooting Guard,1972-03-25,Right
+1680,Frankie King,200000.0,Shooting Guard and Point Guard,1972-06-06,Right
+1681,Donny Marshall,200000.0,Small Forward,1972-07-17,Right
+1682,Dwayne Whitfield,,Power Forward,1972-08-21,Right
+1683,Donnie Boyce,250000.0,Shooting Guard,1973-09-02,Right
+1684,Eric Snow,200000.0,Point Guard and Shooting Guard,1973-04-24,Right
+1685,Tyus Edney,210000.0,Point Guard,1973-02-14,Right
+1686,Mark Davis,200000.0,Small Forward,1973-04-26,Right
+1687,Jerome Allen,200000.0,Shooting Guard,1973-01-28,Right
+1688,Martin Lewis,200000.0,Small Forward,1975-04-28,Right
+1689,Fred Hoiberg,200000.0,Shooting Guard,1972-10-15,Right
+1690,Michael McDonald,,Center,1969-02-13,Right
+1691,Chris Carr,200000.0,Shooting Guard and Small Forward,1974-03-12,Right
+1692,Cuonzo Martin,,Shooting Guard,1971-09-23,Right
+1693,Don Reid,200000.0,Power Forward,1973-12-30,Right
+1694,Allen Iverson,2267000.0,Shooting Guard and Point Guard,1975-06-07,Right
+1695,Marcus Camby,2434000.0,Center and Power Forward,1974-03-22,Right
+1696,Shareef Abdur-Rahim,2186000.0,Power Forward and Small Forward and Center,1976-12-11,Right
+1697,Stephon Marbury,1917000.0,Point Guard,1977-02-20,Right
+1698,Ray Allen,1785000.0,Shooting Guard,1975-07-20,Right
+1699,Antoine Walker,1620000.0,Power Forward,1976-08-12,Right
+1700,Lorenzen Wright,1480000.0,Center,1975-11-04,Right
+1701,Kerry Kittles,1356000.0,Shooting Guard,1974-06-12,Right
+1702,Samaki Walker,1246000.0,Power Forward and Center,1976-02-25,Right
+1703,Erick Dampier,1184000.0,Center,1975-07-14,Right
+1704,Todd Fuller,1125000.0,Center,1974-07-25,Left
+1705,Vitaly Potapenko,1068000.0,Center,1975-03-21,Right
+1706,Steve Nash,916000.0,Point Guard,1974-02-07,Right
+1707,Tony Delk,870000.0,Point Guard and Shooting Guard,1974-01-28,Right
+1708,John Wallace,785000.0,Small Forward,1974-02-09,Right
+1709,Walter McCarty,750000.0,Power Forward and Small Forward,1974-02-01,Right
+1710,Dontae' Jones,691000.0,Small Forward,1975-06-02,Right
+1711,Roy Rogers,664000.0,Power Forward,1973-08-19,Right
+1712,Derek Fisher,612000.0,Point Guard and Shooting Guard,1974-08-09,Left
+1713,Jerome Williams,568000.0,Power Forward and Small Forward,1973-05-10,Right
+1714,Brian Evans,551000.0,Small Forward,1973-09-13,Left
+1715,Priest Lauderdale,548000.0,Center,1973-08-31,Left
+1716,Travis Knight,220000.0,Center,1974-09-13,Right
+1717,Othella Harrington,247500.0,Power Forward and Center,1974-01-31,Left
+1718,Mark Hendrickson,247000.0,Power Forward,1974-06-23,Left
+1719,Moochie Norris,350000.0,Point Guard,1973-07-27,Left
+1720,Jeff McInnis,350000.0,Point Guard and Shooting Guard,1974-10-22,Right
+1721,Steve Hamer,220000.0,Center,1973-11-13,Right
+1722,Jason Sasser,2706.0,Small Forward,1974-01-13,Right
+1723,Randy Livingston,220000.0,Point Guard,1975-04-02,Right
+1724,Ben Davis,220000.0,Power Forward,1972-12-26,Right
+1725,Malik Rose,220000.0,Power Forward and Small Forward,1974-11-23,Right
+1726,Marcus Brown,220000.0,Point Guard and Shooting Guard,1974-04-03,Right
+1727,Jamie Feick,272250.0,Center and Power Forward,1974-07-03,Right
+1728,Amal McCaskill,220000.0,Center,1973-10-28,Right
+1729,Chris Robinson,220000.0,Shooting Guard,1974-04-02,Right
+1730,Mark Pope,242000.0,Power Forward and Small Forward,1972-09-11,Right
+1731,Jeff Nordgaard,242000.0,Power Forward,1973-02-23,Right
+1732,Shandon Anderson,220000.0,Shooting Guard and Small Forward,1973-12-31,Right
+1733,Reggie Geary,220000.0,Point Guard,1973-08-31,Right
+1734,Drew Barry,350000.0,Point Guard and Shooting Guard,1973-02-17,Right
+1735,Tim Duncan,2967840.0,Center and Power Forward,1976-04-25,Right
+1736,Keith Van Horn,2655360.0,Small Forward and Power Forward,1975-10-23,Right
+1737,Chauncey Billups,2384640.0,Point Guard and Shooting Guard,1976-09-25,Right
+1738,Antonio Daniels,2149920.0,Point Guard and Shooting Guard,1975-03-19,Right
+1739,Tony Battie,1946880.0,Center and Power Forward,1976-02-11,Right
+1740,Ron Mercer,1768320.0,Shooting Guard and Small Forward,1976-05-18,Right
+1741,Tim Thomas,1614240.0,Small Forward and Power Forward,1977-02-26,Right
+1742,Adonal Foyle,1495000.0,Center,1975-03-09,Right
+1743,Danny Fortson,1291440.0,Power Forward and Center,1976-03-27,Right
+1744,Tariq Abdul-Wahad,1226880.0,Shooting Guard,1974-11-03,Right
+1745,Austin Croshere,1165440.0,Power Forward,1975-05-01,Right
+1746,Derek Anderson,1107240.0,Shooting Guard and Small Forward and Point Guard,1974-07-18,Right
+1747,Maurice Taylor,1051800.0,Power Forward and Small Forward and Center,1976-10-30,Right
+1748,Kelvin Cato,999240.0,Center and Power Forward,1974-08-26,Right
+1749,Brevin Knight,949320.0,Point Guard,1975-11-08,Right
+1750,Johnny Taylor,901880.0,Small Forward,1974-06-04,Right
+1751,Scot Pollard,818160.0,Center,1975-02-12,Right
+1752,Paul Grant,785400.0,Center,1974-01-06,Right
+1753,Anthony Parker,754080.0,Shooting Guard and Small Forward,1975-06-19,Right
+1754,Ed Gray,723840.0,Shooting Guard,1975-09-27,Right
+1755,Bobby Jackson,694920.0,Point Guard and Shooting Guard,1973-03-13,Right
+1756,Rodrick Rhodes,555900.0,Small Forward and Shooting Guard,1973-09-24,Right
+1757,John Thomas,640440.0,Center and Power Forward,1975-09-08,Right
+1758,Charles Smith,619200.0,Shooting Guard,1975-08-22,Right
+1759,Jacque Vaughn,601320.0,Point Guard and Shooting Guard,1975-02-11,Right
+1760,Keith Booth,597600.0,Small Forward,1974-10-09,Right
+1761,Charles O'Bannon,320000.0,Shooting Guard,1975-02-22,Right
+1762,James Cotton,242000.0,Shooting Guard,1975-12-14,Left
+1763,Bubba Wells,260000.0,Shooting Guard,1974-07-26,Right
+1764,Kebu Stewart,242000.0,Power Forward,1973-12-19,Right
+1765,James Collins,242000.0,Shooting Guard,1973-11-05,Right
+1766,Marc Jackson,316969.0,Center and Power Forward,1975-01-16,Right
+1767,Jerald Honeycutt,300000.0,Power Forward,1974-10-20,Right
+1768,Anthony Johnson,242000.0,Point Guard and Shooting Guard,1974-10-02,Right
+1769,Jason Lawson,242250.0,Center,1974-09-02,Right
+1770,Stephen Jackson,316969.0,Small Forward and Shooting Guard and Power Forward,1978-04-05,Right
+1771,Cedric Henderson,250000.0,Small Forward,1975-03-11,Right
+1772,God Shammgod,242250.0,Point Guard,1976-04-29,Right
+1773,Eric Washington,242000.0,Shooting Guard,1974-03-23,Right
+1774,Alvin Williams,242000.0,Point Guard and Shooting Guard,1974-08-06,Right
+1775,Chris Crawford,242000.0,Power Forward,1975-05-13,Right
+1776,DeJuan Wheat,242000.0,Point Guard,1973-10-14,Right
+1777,Mark Blount,316969.0,Center,1975-11-30,Right

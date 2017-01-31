@@ -1,0 +1,843 @@
+,college,name,draft_rank,draft_year
+0,Wake Forest University,Tim Duncan,1,1997
+1,University of Utah,Keith Van Horn,2,1997
+2,University of Colorado,Chauncey Billups,3,1997
+3,Bowling Green State University,Antonio Daniels,4,1997
+4,Texas Tech University,Tony Battie,5,1997
+5,University of Kentucky,Ron Mercer,6,1997
+6,Villanova University,Tim Thomas,7,1997
+7,Colgate University,Adonal Foyle,8,1997
+8,University of Cincinnati,Danny Fortson,10,1997
+9,San Jose State University,Tariq Abdul-Wahad,11,1997
+10,Providence College,Austin Croshere,12,1997
+11,University of Kentucky,Derek Anderson,13,1997
+12,University of Michigan,Maurice Taylor,14,1997
+13,Iowa State University,Kelvin Cato,15,1997
+14,Stanford University,Brevin Knight,16,1997
+15,University of Tennessee at Chattanooga,Johnny Taylor,17,1997
+16,University of Kansas,Scot Pollard,19,1997
+17,University of Wisconsin,Paul Grant,20,1997
+18,Bradley University,Anthony Parker,21,1997
+19,University of California,Ed Gray,22,1997
+20,University of Minnesota,Bobby Jackson,23,1997
+21,University of Southern California,Rodrick Rhodes,24,1997
+22,University of Minnesota,John Thomas,25,1997
+23,University of New Mexico,Charles Smith,26,1997
+24,University of Kansas,Jacque Vaughn,27,1997
+25,University of Maryland,Keith Booth,28,1997
+26,"University of California, Los Angeles",Charles O'Bannon,31,1997
+27,"California State University, Long Beach",James Cotton,32,1997
+28,Austin Peay State University,Bubba Wells,34,1997
+29,"California State University, Bakersfield",Kebu Stewart,35,1997
+30,Florida State University,James Collins,36,1997
+31,Temple University,Marc Jackson,37,1997
+32,Tulane University,Jerald Honeycutt,38,1997
+33,College of Charleston,Anthony Johnson,39,1997
+34,Villanova University,Jason Lawson,41,1997
+35,Butler County Community College,Stephen Jackson,42,1997
+36,University of Memphis,Cedric Henderson,44,1997
+37,Providence College,God Shammgod,45,1997
+38,University of Alabama,Eric Washington,46,1997
+39,Villanova University,Alvin Williams,47,1997
+40,Marquette University,Chris Crawford,50,1997
+41,University of Louisville,DeJuan Wheat,51,1997
+42,University of Pittsburgh,Mark Blount,54,1997
+43,University of the Pacific,Michael Olowokandi,1,1998
+44,University of Arizona,Mike Bibby,2,1998
+45,University of Kansas,Raef LaFrentz,3,1998
+46,University of North Carolina,Antawn Jamison,4,1998
+47,University of North Carolina,Vince Carter,5,1998
+48,University of Michigan,Robert Traylor,6,1998
+49,University of Florida,Jason Williams,7,1998
+50,Saint Louis University,Larry Hughes,8,1998
+51,University of Kansas,Paul Pierce,10,1998
+52,Ball State University,Bonzi Wells,11,1998
+53,University of Utah,Michael Doleac,12,1998
+54,"University of Nevada, Las Vegas",Keon Clark,13,1998
+55,University of Arizona,Michael Dickerson,14,1998
+56,Georgia Institute of Technology,Matt Harpring,15,1998
+57,Valparaiso University,Bryce Drew,16,1998
+58,University of Notre Dame,Pat Garrity,19,1998
+59,Duke University,Roshown McLeod,20,1998
+60,University of Iowa,Ricky Davis,21,1998
+61,Baylor University,Brian Skinner,22,1998
+62,University of Nebraska,Tyronn Lue,23,1998
+63,St. John's University,Felipe Lopez,24,1998
+64,University of Minnesota,Sam Jacobson,26,1998
+65,Oregon State University,Corey Benjamin,28,1998
+66,University of Kentucky,Nazr Mohammed,29,1998
+67,University of Mississippi,Ansu Sesay,30,1998
+68,University of Cincinnati,Ruben Patterson,31,1998
+69,"University of California, Los Angeles",Jelani McCoy,33,1998
+70,University of North Carolina,Shammond Williams,34,1998
+71,Florida Agricultural and Mechanical University,Jerome James,36,1998
+72,University of Toledo,Casey Shaw,37,1998
+73,University of North Carolina at Charlotte,DeMarco Johnson,38,1998
+74,"California State University, Fresno",Rafer Alston,39,1998
+75,University of Rhode Island,Cuttino Mobley,41,1998
+76,University of Arizona,Miles Simon,42,1998
+77,Georgetown University,Jahidi White,43,1998
+78,University of California,Sean Marks,44,1998
+79,"University of California, Los Angeles",Toby Bailey,45,1998
+80,Indiana University,Andrae Patterson,46,1998
+81,University of Rhode Island,Tyson Wheeler,47,1998
+82,University of South Carolina,Ryan Stack,48,1998
+83,Texas Tech University,Cory Carr,49,1998
+84,Eastern Michigan University,Derrick Dial,52,1998
+85,Clemson University,Greg Buckner,53,1998
+86,"California State University, Fresno",Tremaine Fowlkes,54,1998
+87,University of Iowa,Ryan Bowen,55,1998
+88,"University of California, Los Angeles",J.R. Henderson,56,1998
+89,Xavier University,Torraye Braggs,57,1998
+90,University of Michigan,Maceo Baston,58,1998
+91,Duke University,Elton Brand,1,1999
+92,University of Maryland,Steve Francis,2,1999
+93,"University of California, Los Angeles",Baron Davis,3,1999
+94,University of Rhode Island,Lamar Odom,4,1999
+95,Miami University,Wally Szczerbiak,6,1999
+96,University of Connecticut,Richard Hamilton,7,1999
+97,University of Utah,Andre Miller,8,1999
+98,"University of Nevada, Las Vegas",Shawn Marion,9,1999
+99,University of Arizona,Jason Terry,10,1999
+100,Duke University,Trajan Langdon,11,1999
+101,Barton County Community College,Aleksandar Radojevic,12,1999
+102,Duke University,Corey Maggette,13,1999
+103,Duke University,William Avery,14,1999
+104,St. John's University,Metta World Peace,16,1999
+105,Old Dominion University,Cal Bowdler,17,1999
+106,Xavier University,James Posey,18,1999
+107,University of Minnesota,Quincy Lewis,19,1999
+108,Georgia Institute of Technology,Dion Glover,20,1999
+109,Texas State University,Jeff Foster,21,1999
+110,University of New Mexico,Kenny Thomas,22,1999
+111,Augsburg College,Devean George,23,1999
+112,University of Miami,Tim James,25,1999
+113,University of Pittsburgh,Vonteego Cummings,26,1999
+114,University of Georgia,Jumaine Jones,27,1999
+115,University of Kentucky,Scott Padgett,28,1999
+116,Villanova University,John Celestand,30,1999
+117,University of Tulsa,Michael Ruffin,32,1999
+118,"California State University, Fresno",Chris Herren,33,1999
+119,Northwestern University,Evan Eschmeyer,34,1999
+120,Pennsylvania State University,Calvin Booth,35,1999
+121,University of Maryland,Obinna Ekezie,37,1999
+122,University of Maryland,Laron Profit,38,1999
+123,University of Arizona,A.J. Bramlett,39,1999
+124,University of California,Francisco Elson,41,1999
+125,Texas Christian University,Lee Nailon,43,1999
+126,University of Kansas,Ryan Robertson,45,1999
+127,University of Washington,Todd MacCulloch,47,1999
+128,University of Massachusetts Amherst,Lari Ketner,49,1999
+129,University of Nebraska,Venson Hamilton,50,1999
+130,Creighton University,Rodney Buford,53,1999
+131,Stanford University,Tim Young,56,1999
+132,University of Cincinnati,Kenyon Martin,1,2000
+133,Louisiana State University,Stromile Swift,2,2000
+134,Iowa State University,Marcus Fizer,4,2000
+135,University of Florida,Mike Miller,5,2000
+136,University of Cincinnati,DerMarr Johnson,6,2000
+137,University of Texas at Austin,Chris Mihm,7,2000
+138,University of Michigan,Jamal Crawford,8,2000
+139,University of Minnesota,Joel Przybilla,9,2000
+140,University of Missouri,Keyon Dooling,10,2000
+141,"University of California, Los Angeles",Jerome Moiso,11,2000
+142,Syracuse University,Etan Thomas,12,2000
+143,"California State University, Fresno",Courtney Alexander,13,2000
+144,Michigan State University,Mateen Cleaves,14,2000
+145,Georgia Institute of Technology,Jason Collier,15,2000
+146,Oklahoma State University,Desmond Mason,17,2000
+147,DePaul University,Quentin Richardson,18,2000
+148,University of Kentucky,Jamaal Magloire,19,2000
+149,Hofstra University,Speedy Claxton,20,2000
+150,Michigan State University,Morris Peterson,21,2000
+151,University of Florida,Donnell Harvey,22,2000
+152,Auburn University,Mamadou N'Diaye,26,2000
+153,St. John's University,Erick Barkley,28,2000
+154,Stanford University,Mark Madsen,29,2000
+155,Vanderbilt University,Dan Langhi,31,2000
+156,Indiana University,A.J. Guyton,32,2000
+157,University of Connecticut,Jake Voskuhl,33,2000
+158,University of Connecticut,Khalid El-Amin,34,2000
+159,University of Louisiana at Monroe,Mike Smith,35,2000
+160,Arizona State University,Eddie House,37,2000
+161,University of Oklahoma,Eduardo Najera,38,2000
+162,St. John's University,Lavor Postell,39,2000
+163,University of Utah,Hanno Mottola,40,2000
+164,Ohio State University,Michael Redd,43,2000
+165,Purdue University,Brian Cardinal,44,2000
+166,Louisiana State University,Jabari Smith,45,2000
+167,Syracuse University,Jason Hart,49,2000
+168,University of Idaho,Kaniel Dickens,50,2000
+169,Indian Hills Community College,Ernest Brown,52,2000
+170,Northern Arizona University,Dan McClintock,53,2000
+171,Auburn University,Chris Porter,55,2000
+172,Michigan State University,Jason Richardson,5,2001
+173,Duke University,Shane Battier,6,2001
+174,Seton Hall University,Eddie Griffin,7,2001
+175,University of North Carolina at Charlotte,Rodney White,9,2001
+176,University of Arkansas,Joe Johnson,10,2001
+177,Okaloosa-Walton Community College,Kedrick Brown,11,2001
+178,University of Arizona,Richard Jefferson,13,2001
+179,University of Notre Dame,Troy Murphy,14,2001
+180,DePaul University,Steven Hunter,15,2001
+181,Indiana University,Kirk Haston,16,2001
+182,Villanova University,Michael Bradley,17,2001
+183,Stanford University,Jason Collins,18,2001
+184,Michigan State University,Zach Randolph,19,2001
+185,University of North Carolina,Brendan Haywood,20,2001
+186,University of North Carolina,Joseph Forte,21,2001
+187,Southern Methodist University,Jeryl Sasser,22,2001
+188,Pepperdine University,Brandon Armstrong,23,2001
+189,University of Alabama,Gerald Wallace,25,2001
+190,Seton Hall University,Samuel Dalembert,26,2001
+191,Iowa State University,Jamaal Tinsley,27,2001
+192,Austin Peay State University,Trenton Hassell,29,2001
+193,University of Arizona,Gilbert Arenas,30,2001
+194,St. John's University,Omar Cook,31,2001
+195,Clemson University,Will Solomon,32,2001
+196,University of Maryland,Terence Morris,33,2001
+197,University of Southern California,Brian Scalabrine,34,2001
+198,University of Southern California,Jeff Trepagnier,35,2001
+199,Syracuse University,Damone Brown,36,2001
+200,"University of California, Los Angeles",Earl Watson,39,2001
+201,Auburn University,Jamison Brewer,40,2001
+202,DePaul University,Bobby Simmons,41,2001
+203,University of California,Sean Lampley,44,2001
+204,University of Arizona,Loren Woods,45,2001
+205,Ohio State University,Ken Johnson,48,2001
+206,Georgetown University,Ruben Boumtje-Boumtje,49,2001
+207,University of Houston,Alton Ford,50,2001
+208,Stanford University,Jarron Collins,52,2001
+209,University of Cincinnati,Kenny Satterfield,53,2001
+210,Georgia Institute of Technology,Alvin Jones,56,2001
+211,Duke University,Jay Williams,2,2002
+212,Duke University,Mike Dunleavy,3,2002
+213,University of Kansas,Drew Gooden,4,2002
+214,University of Memphis,Dajuan Wagner,6,2002
+215,University of Maryland,Chris Wilcox,8,2002
+216,University of Connecticut,Caron Butler,10,2002
+217,Indiana University,Jared Jeffries,11,2002
+218,"California State University, Fresno",Melvin Ely,12,2002
+219,University of Tennessee,Marcus Haislip,13,2002
+220,University of Oregon,Fred Jones,14,2002
+221,University of Maryland,Juan Dixon,17,2002
+222,Stanford University,Curtis Borchardt,18,2002
+223,University of Notre Dame,Ryan Humphrey,19,2002
+224,University of Missouri,Kareem Rush,20,2002
+225,Northeast Mississippi Community College,Qyntel Woods,21,2002
+226,Stanford University,Casey Jacobsen,22,2002
+227,University of Kentucky,Tayshaun Prince,23,2002
+228,University of Illinois at Urbana-Champaign,Frank Williams,25,2002
+229,University of Miami,John Salmons,26,2002
+230,"California State University, Fresno",Chris Jefferies,27,2002
+231,Gonzaga University,Dan Dickau,28,2002
+232,University of Virginia,Roger Mason,30,2002
+233,University of Illinois at Urbana-Champaign,Robert Archibald,31,2002
+234,University of Tennessee,Vincent Yarbrough,32,2002
+235,"University of California, Los Angeles",Dan Gadzuric,33,2002
+236,Duke University,Carlos Boozer,34,2002
+237,"California State University, Fresno",Tito Maddox,37,2002
+238,Shaw University,Ronald Murray,41,2002
+239,University of Maryland,Lonny Baxter,43,2002
+240,"University of California, Los Angeles",Matt Barnes,45,2002
+241,University of California,Jamal Sampson,46,2002
+242,University of Texas at Austin,Chris Owens,47,2002
+243,Wake Forest University,Darius Songaila,49,2002
+244,La Salle University,Rasual Butler,52,2002
+245,Marshall University,Tamar Slay,53,2002
+246,San Diego State University,Randy Holcomb,56,2002
+247,Central Connecticut State University,Corsley Edwards,57,2002
+248,Syracuse University,Carmelo Anthony,3,2003
+249,Georgia Institute of Technology,Chris Bosh,4,2003
+250,Marquette University,Dwyane Wade,5,2003
+251,Central Michigan University,Chris Kaman,6,2003
+252,University of Kansas,Kirk Hinrich,7,2003
+253,University of Texas at Austin,T.J. Ford,8,2003
+254,Georgetown University,Mike Sweetney,9,2003
+255,University of Georgia,Jarvis Hayes,10,2003
+256,University of Kansas,Nick Collison,12,2003
+257,"University of Nevada, Las Vegas",Marcus Banks,13,2003
+258,University of Oregon,Luke Ridnour,14,2003
+259,University of Louisville,Reece Gaines,15,2003
+260,Boston College,Troy Bell,16,2003
+261,Xavier University,David West,18,2003
+262,Duke University,Dahntay Jones,20,2003
+263,University of Illinois at Urbana-Champaign,Brian Cook,24,2003
+264,Wake Forest University,Josh Howard,29,2003
+265,"University of California, Los Angeles",Jason Kapono,31,2003
+266,University of Arizona,Luke Walton,32,2003
+267,University of North Dakota,Jerome Beasley,33,2003
+268,Mississippi State University,Mario Austin,36,2003
+269,Brigham Young University,Travis Hansen,37,2003
+270,University of Maryland,Steve Blake,38,2003
+271,Mississippi State University,Derrick Zimmerman,40,2003
+272,University of Detroit Mercy,Willie Green,41,2003
+273,University of Kentucky,Keith Bogans,43,2003
+274,University of Florida,Matt Bonner,45,2003
+275,University of Alabama,Mo Williams,47,2003
+276,University of Miami,James Jones,49,2003
+277,Creighton University,Kyle Korver,51,2003
+278,Ohio University,Brandon Hunter,56,2003
+279,University of Connecticut,Emeka Okafor,2,2004
+280,University of Connecticut,Ben Gordon,3,2004
+281,University of Wisconsin,Devin Harris,5,2004
+282,Stanford University,Josh Childress,6,2004
+283,Duke University,Luol Deng,7,2004
+284,Brigham Young University,Rafael Araujo,8,2004
+285,University of Arizona,Andre Iguodala,9,2004
+286,University of Oregon,Luke Jackson,10,2004
+287,University of Minnesota,Kris Humphries,14,2004
+288,"University of Nevada, Reno",Kirk Snyder,16,2004
+289,Saint Joseph's University,Jameer Nelson,20,2004
+290,Saint Joseph's University,Delonte West,24,2004
+291,Oklahoma State University,Tony Allen,25,2004
+292,Western Carolina University,Kevin Martin,26,2004
+293,University of Colorado,David Harrison,29,2004
+294,Iowa State University,Jackson Vroman,31,2004
+295,Xavier University,Lionel Chalmers,33,2004
+296,Southeastern Illinois College,Donta Smith,34,2004
+297,Texas Tech University,Andre Emmett,35,2004
+298,University of Memphis,Antonio Burks,36,2004
+299,University of Texas at Austin,Royal Ivey,37,2004
+300,Duke University,Chris Duhon,38,2004
+301,University of Mississippi,Justin Reed,40,2004
+302,"University of California, Los Angeles",Trevor Ariza,43,2004
+303,University of Michigan,Bernard Robinson,45,2004
+304,"California State University, Fullerton",Pape Sow,47,2004
+305,Vanderbilt University,Matt Freije,53,2004
+306,Manhattan College,Luis Flores,55,2004
+307,University of Utah,Andrew Bogut,1,2005
+308,University of North Carolina,Marvin Williams,2,2005
+309,University of Illinois at Urbana-Champaign,Deron Williams,3,2005
+310,Wake Forest University,Chris Paul,4,2005
+311,University of North Carolina,Raymond Felton,5,2005
+312,University of Connecticut,Charlie Villanueva,7,2005
+313,University of Arizona,Channing Frye,8,2005
+314,Arizona State University,Ike Diogu,9,2005
+315,University of North Carolina,Sean May,13,2005
+316,University of North Carolina,Rashad McCants,14,2005
+317,Texas A&M University,Antoine Wright,15,2005
+318,Oklahoma State University,Joey Graham,16,2005
+319,University of New Mexico,Danny Granger,17,2005
+320,Syracuse University,Hakim Warrick,19,2005
+321,North Carolina State University,Julius Hodge,20,2005
+322,University of Washington,Nate Robinson,21,2005
+323,Georgia Institute of Technology,Jarrett Jack,22,2005
+324,University of Louisville,Francisco Garcia,23,2005
+325,University of Illinois at Urbana-Champaign,Luther Head,24,2005
+326,University of Cincinnati,Jason Maxiell,26,2005
+327,University of Missouri,Linas Kleiza,27,2005
+328,University of Kansas,Wayne Simien,29,2005
+329,University of Florida,David Lee,30,2005
+330,University of Arizona,Salim Stoudamire,31,2005
+331,Duke University,Daniel Ewing,32,2005
+332,Louisiana State University,Brandon Bass,33,2005
+333,Gonzaga University,Ronny Turiaf,37,2005
+334,Marquette University,Travis Diener,38,2005
+335,Florida State University,Von Wafer,39,2005
+336,University of Pittsburgh,Chris Taft,42,2005
+337,Indiana University,Bracey Wright,47,2005
+338,Providence College,Ryan Gomes,50,2005
+339,Walsh University,Robert Whaley,51,2005
+340,University of Louisiana at Lafayette,Orien Greene,53,2005
+341,"University of California, Los Angeles",Dijon Thompson,54,2005
+342,Mississippi State University,Lawrence Roberts,55,2005
+343,Pepperdine University,Alex Acker,60,2005
+344,University of Texas at Austin,LaMarcus Aldridge,2,2006
+345,Gonzaga University,Adam Morrison,3,2006
+346,Louisiana State University,Tyrus Thomas,4,2006
+347,Duke University,Shelden Williams,5,2006
+348,University of Washington,Brandon Roy,6,2006
+349,Villanova University,Randy Foye,7,2006
+350,University of Connecticut,Rudy Gay,8,2006
+351,Bradley University,Patrick O'Bryant,9,2006
+352,Duke University,J.J. Redick,11,2006
+353,University of Connecticut,Hilton Armstrong,12,2006
+354,University of Arkansas,Ronnie Brewer,14,2006
+355,North Carolina State University,Cedric Simmons,15,2006
+356,University of Memphis,Rodney Carney,16,2006
+357,University of Memphis,Shawne Williams,17,2006
+358,Rutgers University,Quincy Douby,19,2006
+359,University of South Carolina,Renaldo Balkman,20,2006
+360,University of Kentucky,Rajon Rondo,21,2006
+361,University of Connecticut,Marcus Williams,22,2006
+362,University of Connecticut,Josh Boone,23,2006
+363,Villanova University,Kyle Lowry,24,2006
+364,Michigan State University,Shannon Brown,25,2006
+365,"University of California, Los Angeles",Jordan Farmar,26,2006
+366,Michigan State University,Maurice Ager,28,2006
+367,Temple University,Mardy Collins,29,2006
+368,University of Cincinnati,James White,31,2006
+369,Marquette University,Steve Novak,32,2006
+370,University of South Florida,Solomon Jones,33,2006
+371,Michigan State University,Paul Davis,34,2006
+372,University of Texas at Austin,P.J. Tucker,35,2006
+373,Boston College,Craig Smith,36,2006
+374,University of Washington,Bobby Jones,37,2006
+375,University of North Carolina,David Noel,39,2006
+376,University of Illinois at Urbana-Champaign,James Augustine,41,2006
+377,University of Texas at Austin,Daniel Gibson,42,2006
+378,Florida State University,Alexander Johnson,45,2006
+379,University of Illinois at Urbana-Champaign,Dee Brown,46,2006
+380,Louisiana Tech University,Paul Millsap,47,2006
+381,University of California,Leon Powe,49,2006
+382,"University of California, Los Angeles",Ryan Hollins,50,2006
+383,University of Miami,Guillermo Diaz,52,2006
+384,University of Arizona,Hassan Adams,54,2006
+385,Iowa State University,Will Blalock,60,2006
+386,Ohio State University,Greg Oden,1,2007
+387,University of Texas at Austin,Kevin Durant,2,2007
+388,University of Florida,Al Horford,3,2007
+389,Ohio State University,Mike Conley,4,2007
+390,Georgetown University,Jeff Green,5,2007
+391,University of Florida,Corey Brewer,7,2007
+392,University of North Carolina,Brandan Wright,8,2007
+393,University of Florida,Joakim Noah,9,2007
+394,University of Washington,Spencer Hawes,10,2007
+395,Texas A&M University,Acie Law,11,2007
+396,Georgia Institute of Technology,Thaddeus Young,12,2007
+397,University of Kansas,Julian Wright,13,2007
+398,Florida State University,Al Thornton,14,2007
+399,Eastern Washington University,Rodney Stuckey,15,2007
+400,University of Southern California,Nick Young,16,2007
+401,Boston College,Sean Williams,17,2007
+402,Georgia Institute of Technology,Javaris Crittenton,19,2007
+403,Colorado State University,Jason Smith,20,2007
+404,Ohio State University,Daequan Cook,21,2007
+405,Boston College,Jared Dudley,22,2007
+406,DePaul University,Wilson Chandler,23,2007
+407,Rice University,Morris Almond,25,2007
+408,University of Oregon,Aaron Brooks,26,2007
+409,"University of California, Los Angeles",Arron Afflalo,27,2007
+410,University of Wisconsin,Alando Tucker,29,2007
+411,Purdue University,Carl Landry,31,2007
+412,University of Southern California,Gabe Pruitt,32,2007
+413,University of Arizona,Marcus Williams,33,2007
+414,"University of Nevada, Reno",Nick Fazekas,34,2007
+415,Louisiana State University,Glen Davis,35,2007
+416,University of Alabama,Jermareo Davidson,36,2007
+417,Duke University,Josh McRoberts,37,2007
+418,University of Florida,Chris Richard,41,2007
+419,Vanderbilt University,Derrick Byars,42,2007
+420,University of Massachusetts Amherst,Stephane Lasme,46,2007
+421,"California State University, Fresno",Dominic McGuire,47,2007
+422,University of Pittsburgh,Aaron Gray,49,2007
+423,Oklahoma State University,JamesOn Curry,51,2007
+424,University of Florida,Taurean Green,52,2007
+425,Syracuse University,Demetris Nichols,53,2007
+426,"University of Nevada, Reno",Ramon Sessions,56,2007
+427,University of Maryland,D.J. Strawberry,59,2007
+428,University of Memphis,Derrick Rose,1,2008
+429,Kansas State University,Michael Beasley,2,2008
+430,University of Southern California,O.J. Mayo,3,2008
+431,"University of California, Los Angeles",Russell Westbrook,4,2008
+432,"University of California, Los Angeles",Kevin Love,5,2008
+433,Indiana University,Eric Gordon,7,2008
+434,West Virginia University,Joe Alexander,8,2008
+435,University of Texas at Austin,D.J. Augustin,9,2008
+436,Stanford University,Brook Lopez,10,2008
+437,University of Arizona,Jerryd Bayless,11,2008
+438,Rider University,Jason Thompson,12,2008
+439,University of Kansas,Brandon Rush,13,2008
+440,Louisiana State University,Anthony Randolph,14,2008
+441,Stanford University,Robin Lopez,15,2008
+442,University of Florida,Marreese Speights,16,2008
+443,Georgetown University,Roy Hibbert,17,2008
+444,"University of Nevada, Reno",JaVale McGee,18,2008
+445,North Carolina State University,J.J. Hickson,19,2008
+446,University of California,Ryan Anderson,21,2008
+447,Western Kentucky University,Courtney Lee,22,2008
+448,Ohio State University,Kosta Koufos,23,2008
+449,Indiana University-Purdue University Indianapolis,George Hill,26,2008
+450,University of Kansas,Darrell Arthur,27,2008
+451,Syracuse University,Donte Greene,28,2008
+452,Indiana University,D.J. White,29,2008
+453,University of New Mexico,J.R. Giddens,30,2008
+454,University of Alabama at Birmingham,Walter Sharpe,32,2008
+455,University of Memphis,Joey Dorsey,33,2008
+456,University of Kansas,Mario Chalmers,34,2008
+457,Texas A&M University,DeAndre Jordan,35,2008
+458,"University of California, Los Angeles",Luc Mbah a Moute,37,2008
+459,Washington State University,Kyle Weaver,38,2008
+460,University of Arkansas,Sonny Weems,39,2008
+461,University of Memphis,Chris Douglas-Roberts,40,2008
+462,University of Virginia,Sean Singletary,42,2008
+463,Georgetown University,Patrick Ewing,43,2008
+464,Kansas State University,Bill Walker,47,2008
+465,University of Oregon,Malik Hairston,48,2008
+466,University of California,DeVon Hardin,50,2008
+467,University of Kansas,Darnell Jackson,52,2008
+468,University of Oregon,Maarty Leunen,54,2008
+469,Iowa State University,Mike Taylor,55,2008
+470,University of Kansas,Sasha Kaun,56,2008
+471,University of Kentucky,Joe Crawford,58,2008
+472,University of Oklahoma,Blake Griffin,1,2009
+473,University of Connecticut,Hasheem Thabeet,2,2009
+474,Arizona State University,James Harden,3,2009
+475,University of Memphis,Tyreke Evans,4,2009
+476,Syracuse University,Jonny Flynn,6,2009
+477,Davidson College,Stephen Curry,7,2009
+478,University of Arizona,Jordan Hill,8,2009
+479,University of Southern California,DeMar DeRozan,9,2009
+480,University of Louisville,Terrence Williams,11,2009
+481,Duke University,Gerald Henderson,12,2009
+482,University of North Carolina,Tyler Hansbrough,13,2009
+483,University of Louisville,Earl Clark,14,2009
+484,Gonzaga University,Austin Daye,15,2009
+485,Wake Forest University,James Johnson,16,2009
+486,"University of California, Los Angeles",Jrue Holiday,17,2009
+487,University of North Carolina,Ty Lawson,18,2009
+488,Wake Forest University,Jeff Teague,19,2009
+489,Virginia Commonwealth University,Eric Maynor,20,2009
+490,"University of California, Los Angeles",Darren Collison,21,2009
+491,Ohio State University,Byron Mullens,24,2009
+492,University of Southern California,Taj Gibson,26,2009
+493,University of Missouri,DeMarre Carroll,27,2009
+494,University of North Carolina,Wayne Ellington,28,2009
+495,Florida State University,Toney Douglas,29,2009
+496,Arizona State University,Jeff Pendergraph,31,2009
+497,University of Central Florida,Jermaine Taylor,32,2009
+498,Villanova University,Dante Cunningham,33,2009
+499,Georgetown University,DaJuan Summers,35,2009
+500,University of Pittsburgh,Sam Young,36,2009
+501,University of Pittsburgh,DeJuan Blair,37,2009
+502,University of Washington,Jon Brockman,38,2009
+503,Xavier University,Derrick Brown,40,2009
+504,University of Kentucky,Jodie Meeks,41,2009
+505,University of Arkansas,Patrick Beverley,42,2009
+506,Louisiana State University,Marcus Thornton,43,2009
+507,University of Arizona,Chase Budinger,44,2009
+508,University of Florida,Nick Calathes,45,2009
+509,University of North Carolina,Danny Green,46,2009
+510,University of Oklahoma,Taylor Griffin,48,2009
+511,University of Connecticut,A.J. Price,52,2009
+512,Saint Mary's College of California,Patrick Mills,55,2009
+513,University of Tennessee at Martin,Lester Hudson,58,2009
+514,Texas A&M University,Chinemelu Elonu,59,2009
+515,University of Kentucky,John Wall,1,2010
+516,Ohio State University,Evan Turner,2,2010
+517,Georgia Institute of Technology,Derrick Favors,3,2010
+518,Syracuse University,Wesley Johnson,4,2010
+519,University of Kentucky,DeMarcus Cousins,5,2010
+520,Baylor University,Ekpe Udoh,6,2010
+521,Georgetown University,Greg Monroe,7,2010
+522,Wake Forest University,Al-Farouq Aminu,8,2010
+523,Butler University,Gordon Hayward,9,2010
+524,"California State University, Fresno",Paul George,10,2010
+525,University of Kansas,Cole Aldrich,11,2010
+526,University of Kansas,Xavier Henry,12,2010
+527,University of North Carolina,Ed Davis,13,2010
+528,University of Kentucky,Patrick Patterson,14,2010
+529,Virginia Commonwealth University,Larry Sanders,15,2010
+530,"University of Nevada, Reno",Luke Babbitt,16,2010
+531,University of Kentucky,Eric Bledsoe,18,2010
+532,University of Texas at Austin,Avery Bradley,19,2010
+533,Oklahoma State University,James Anderson,20,2010
+534,Iowa State University,Craig Brackins,21,2010
+535,University of Memphis,Elliot Williams,22,2010
+536,Clemson University,Trevor Booker,23,2010
+537,University of Texas at Austin,Damion James,24,2010
+538,University of South Florida,Dominique Jones,25,2010
+539,University of Washington,Quincy Pondexter,26,2010
+540,Xavier University,Jordan Crawford,27,2010
+541,University of Maryland,Greivis Vasquez,28,2010
+542,University of Kentucky,Daniel Orton,29,2010
+543,Marquette University,Lazar Hayward,30,2010
+544,University of Texas at Austin,Dexter Pittman,32,2010
+545,Marshall University,Hassan Whiteside,33,2010
+546,"University of Nevada, Reno",Armon Johnson,34,2010
+547,University of New Mexico,Darington Hobson,37,2010
+548,Syracuse University,Andy Rautins,38,2010
+549,Stanford University,Landry Fields,39,2010
+550,University of Cincinnati,Lance Stephenson,40,2010
+551,Mississippi State University,Jarvis Varnado,41,2010
+552,West Virginia University,Devin Ebanks,43,2010
+553,University of Tulsa,Jerome Jordan,44,2010
+554,Georgia Institute of Technology,Gani Lawal,46,2010
+555,Florida State University,Solomon Alabi,50,2010
+556,University of Notre Dame,Luke Harangody,52,2010
+557,University of Oklahoma,Willie Warren,54,2010
+558,Western Kentucky University,Jeremy Evans,55,2010
+559,Rutgers University,Hamady N'Diaye,56,2010
+560,Florida State University,Ryan Reid,57,2010
+561,University of Texas at El Paso,Derrick Caracter,58,2010
+562,University of Miami,Dwayne Collins,60,2010
+563,Duke University,Kyrie Irving,1,2011
+564,University of Arizona,Derrick Williams,2,2011
+565,University of Texas at Austin,Tristan Thompson,4,2011
+566,University of Kentucky,Brandon Knight,8,2011
+567,University of Connecticut,Kemba Walker,9,2011
+568,Brigham Young University,Jimmer Fredette,10,2011
+569,Washington State University,Klay Thompson,11,2011
+570,University of Colorado,Alec Burks,12,2011
+571,University of Kansas,Markieff Morris,13,2011
+572,University of Kansas,Marcus Morris,14,2011
+573,San Diego State University,Kawhi Leonard,15,2011
+574,University of Southern California,Nikola Vucevic,16,2011
+575,Georgia Institute of Technology,Iman Shumpert,17,2011
+576,Florida State University,Chris Singleton,18,2011
+577,University of Tennessee,Tobias Harris,19,2011
+578,Duke University,Nolan Smith,21,2011
+579,Morehead State University,Kenneth Faried,22,2011
+580,Boston College,Reggie Jackson,24,2011
+581,Providence College,MarShon Brooks,25,2011
+582,University of Texas at Austin,Jordan Hamilton,26,2011
+583,Purdue University,JaJuan Johnson,27,2011
+584,Cleveland State University,Norris Cole,28,2011
+585,University of Texas at Austin,Cory Joseph,29,2011
+586,Marquette University,Jimmy Butler,30,2011
+587,University of Richmond,Justin Harper,32,2011
+588,Duke University,Kyle Singler,33,2011
+589,Butler University,Shelvin Mack,34,2011
+590,"University of California, Los Angeles",Tyler Honeycutt,35,2011
+591,University of Maryland,Jordan Williams,36,2011
+592,University of Georgia,Trey Thompkins,37,2011
+593,University of Florida,Chandler Parsons,38,2011
+594,University of Wisconsin,Jon Leuer,40,2011
+595,University of Michigan,Darius Morris,41,2011
+596,"University of California, Los Angeles",Malcolm Lee,43,2011
+597,Hofstra University,Charles Jenkins,44,2011
+598,University of Kentucky,Josh Harrellson,45,2011
+599,College of Charleston,Andrew Goudelock,46,2011
+600,University of Georgia,Travis Leslie,47,2011
+601,Oakland University,Keith Benson,48,2011
+602,University of Kansas,Josh Selby,49,2011
+603,Temple University,Lavoy Allen,50,2011
+604,Ohio State University,Jon Diebler,51,2011
+605,University of Florida,Vernon Macklin,52,2011
+606,University of Kentucky,DeAndre Liggins,53,2011
+607,Purdue University,E'Twaun Moore,55,2011
+608,University of Washington,Isaiah Thomas,60,2011
+609,University of Kentucky,Anthony Davis,1,2012
+610,University of Kentucky,Michael Kidd-Gilchrist,2,2012
+611,University of Florida,Bradley Beal,3,2012
+612,Syracuse University,Dion Waiters,4,2012
+613,University of Kansas,Thomas Robinson,5,2012
+614,Weber State University,Damian Lillard,6,2012
+615,University of North Carolina,Harrison Barnes,7,2012
+616,University of Washington,Terrence Ross,8,2012
+617,University of Connecticut,Andre Drummond,9,2012
+618,Duke University,Austin Rivers,10,2012
+619,University of Illinois at Urbana-Champaign,Meyers Leonard,11,2012
+620,University of Connecticut,Jeremy Lamb,12,2012
+621,University of North Carolina,Kendall Marshall,13,2012
+622,University of North Carolina,John Henson,14,2012
+623,St. John's University,Maurice Harkless,15,2012
+624,Iowa State University,Royce White,16,2012
+625,University of North Carolina,Tyler Zeller,17,2012
+626,University of Kentucky,Terrence Jones,18,2012
+627,St. Bonaventure University,Andrew Nicholson,19,2012
+628,Ohio State University,Jared Sullinger,21,2012
+629,Syracuse University,Fab Melo,22,2012
+630,Vanderbilt University,John Jenkins,23,2012
+631,Oregon State University,Jared Cunningham,24,2012
+632,University of Washington,Tony Wroten,25,2012
+633,Duke University,Miles Plumlee,26,2012
+634,Mississippi State University,Arnett Moultrie,27,2012
+635,Baylor University,Perry Jones,28,2012
+636,University of Kentucky,Marquis Teague,29,2012
+637,Vanderbilt University,Festus Ezeli,30,2012
+638,Vanderbilt University,Jeff Taylor,31,2012
+639,Florida State University,Bernard James,33,2012
+640,Marquette University,Jae Crowder,34,2012
+641,Michigan State University,Draymond Green,35,2012
+642,"University of California, Santa Barbara",Orlando Johnson,36,2012
+643,Baylor University,Quincy Acy,37,2012
+644,Baylor University,Quincy Miller,38,2012
+645,Texas A&M University,Khris Middleton,39,2012
+646,University of Memphis,Will Barton,40,2012
+647,University of Kansas,Tyshawn Taylor,41,2012
+648,University of Kentucky,Doron Lamb,42,2012
+649,University of Virginia,Mike Scott,43,2012
+650,University of Missouri,Kim English,44,2012
+651,Louisiana State University,Justin Hamilton,45,2012
+652,University of Kentucky,Darius Miller,46,2012
+653,Tennessee Technological University,Kevin Murphy,47,2012
+654,Norfolk State University,Kyle O'Quinn,49,2012
+655,Syracuse University,Kris Joseph,51,2012
+656,Marquette University,Darius Johnson-Odom,55,2012
+657,Purdue University,Robbie Hummel,58,2012
+658,University of Missouri,Marcus Denmon,59,2012
+659,Gonzaga University,Robert Sacre,60,2012
+660,"University of Nevada, Las Vegas",Anthony Bennett,1,2013
+661,Indiana University,Victor Oladipo,2,2013
+662,Georgetown University,Otto Porter,3,2013
+663,Indiana University,Cody Zeller,4,2013
+664,University of Maryland,Alex Len,5,2013
+665,University of Kentucky,Nerlens Noel,6,2013
+666,University of Kansas,Ben McLemore,7,2013
+667,University of Georgia,Kentavious Caldwell-Pope,8,2013
+668,University of Michigan,Trey Burke,9,2013
+669,Lehigh University,C.J. McCollum,10,2013
+670,Syracuse University,Michael Carter-Williams,11,2013
+671,University of Pittsburgh,Steven Adams,12,2013
+672,Gonzaga University,Kelly Olynyk,13,2013
+673,"University of California, Los Angeles",Shabazz Muhammad,14,2013
+674,University of Miami,Shane Larkin,18,2013
+675,University of New Mexico,Tony Snell,20,2013
+676,University of Louisville,Gorgui Dieng,21,2013
+677,Duke University,Mason Plumlee,22,2013
+678,University of Arizona,Solomon Hill,23,2013
+679,University of Michigan,Tim Hardaway,24,2013
+680,University of North Carolina,Reggie Bullock,25,2013
+681,University of Colorado,Andre Roberson,26,2013
+682,University of Kentucky,Archie Goodwin,29,2013
+683,University of California,Allen Crabbe,31,2013
+684,Arizona State University,Carrick Felix,33,2013
+685,Murray State University,Isaiah Canaan,34,2013
+686,Georgia Institute of Technology,Glen Rice,35,2013
+687,University of Detroit Mercy,Ray McCallum,36,2013
+688,University of North Texas,Tony Mitchell,37,2013
+689,South Dakota State University,Nate Wolters,38,2013
+690,University of Kansas,Jeff Withey,39,2013
+691,University of Arizona,Grant Jerrett,40,2013
+692,San Diego State University,Jamaal Franklin,41,2013
+693,Baylor University,Pierre Jackson,42,2013
+694,Providence College,Ricky Ledo,43,2013
+695,Bucknell University,Mike Muscala,44,2013
+696,Virginia Polytechnic Institute and State University,Erick Green,46,2013
+697,Duke University,Ryan Kelly,48,2013
+698,University of Florida,Erik Murphy,49,2013
+699,"California State University, Long Beach",James Ennis,50,2013
+700,North Carolina State University,Lorenzo Brown,52,2013
+701,Colorado State University,Colton Iverson,53,2013
+702,University of Oregon,Arsalan Kazemi,54,2013
+703,University of Louisville,Peyton Siva,56,2013
+704,University of Missouri,Alex Oriakhi,57,2013
+705,Ohio State University,Deshaun Thomas,58,2013
+706,University of Kansas,Andrew Wiggins,1,2014
+707,Duke University,Jabari Parker,2,2014
+708,University of Kansas,Joel Embiid,3,2014
+709,University of Arizona,Aaron Gordon,4,2014
+710,Oklahoma State University,Marcus Smart,6,2014
+711,University of Kentucky,Julius Randle,7,2014
+712,University of Michigan,Nik Stauskas,8,2014
+713,Indiana University,Noah Vonleh,9,2014
+714,University of Louisiana at Lafayette,Elfrid Payton,10,2014
+715,Creighton University,Doug McDermott,11,2014
+716,"University of California, Los Angeles",Zach LaVine,13,2014
+717,North Carolina State University,T.J. Warren,14,2014
+718,Michigan State University,Adreian Payne,15,2014
+719,University of Kentucky,James Young,17,2014
+720,Syracuse University,Tyler Ennis,18,2014
+721,Michigan State University,Gary Harris,19,2014
+722,University of Michigan,Mitch McGary,21,2014
+723,"University of California, Los Angeles",Jordan Adams,22,2014
+724,Duke University,Rodney Hood,23,2014
+725,University of Connecticut,Shabazz Napier,24,2014
+726,University of North Carolina,P.J. Hairston,26,2014
+727,University of Washington,C.J. Wilcox,28,2014
+728,Stanford University,Josh Huestis,29,2014
+729,"University of California, Los Angeles",Kyle Anderson,30,2014
+730,Clemson University,K.J. McDaniels,32,2014
+731,University of Virginia,Joe Harris,33,2014
+732,Wichita State University,Cleanthony Early,34,2014
+733,University of Tennessee,Jarnell Stokes,35,2014
+734,Louisiana State University,Johnny O'Bryant III,36,2014
+735,University of Connecticut,DeAndre Daniels,37,2014
+736,University of Colorado,Spencer Dinwiddie,38,2014
+737,Syracuse University,Jerami Grant,39,2014
+738,University of Michigan,Glenn Robinson III,40,2014
+739,University of Arizona,Nick Johnson,42,2014
+740,Oklahoma State University,Markel Brown,44,2014
+741,Stanford University,Dwight Powell,45,2014
+742,University of Missouri,Jordan Clarkson,46,2014
+743,University of Louisville,Russ Smith,47,2014
+744,University of Pittsburgh,Lamar Patterson,48,2014
+745,University of New Mexico,Cameron Bairstow,49,2014
+746,University of Wisconsin-Green Bay,Alec Brown,50,2014
+747,Xavier University,Semaj Christon,55,2014
+748,University of Iowa,Roy Devyn Marble,56,2014
+749,University of Tennessee,Jordan McRae,58,2014
+750,San Diego State University,Xavier Thames,59,2014
+751,Baylor University,Cory Jefferson,60,2014
+752,University of Kentucky,Karl-Anthony Towns,1,2015
+753,Ohio State University,D'Angelo Russell,2,2015
+754,Duke University,Jahlil Okafor,3,2015
+755,University of Kentucky,Willie Cauley-Stein,6,2015
+756,University of Arizona,Stanley Johnson,8,2015
+757,University of Wisconsin,Frank Kaminsky,9,2015
+758,Duke University,Justise Winslow,10,2015
+759,University of Texas at Austin,Myles Turner,11,2015
+760,University of Kentucky,Trey Lyles,12,2015
+761,University of Kentucky,Devin Booker,13,2015
+762,Murray State University,Cameron Payne,14,2015
+763,University of Kansas,Kelly Oubre,15,2015
+764,University of Louisville,Terry Rozier,16,2015
+765,"University of Nevada, Las Vegas",Rashad Vaughn,17,2015
+766,University of Wisconsin,Sam Dekker,18,2015
+767,University of Notre Dame,Jerian Grant,19,2015
+768,University of Utah,Delon Wright,20,2015
+769,University of Virginia,Justin Anderson,21,2015
+770,University of Arkansas,Bobby Portis,22,2015
+771,University of Arizona,Rondae Hollis-Jefferson,23,2015
+772,Duke University,Tyus Jones,24,2015
+773,Louisiana State University,Jarell Martin,25,2015
+774,University of Wyoming,Larry Nance Jr.,27,2015
+775,Georgia State University,R.J. Hunter,28,2015
+776,Syracuse University,Chris McCullough,29,2015
+777,"University of California, Los Angeles",Kevon Looney,30,2015
+778,University of Louisville,Montrezl Harrell,32,2015
+779,Louisiana State University,Jordan Mickey,33,2015
+780,Stanford University,Anthony Brown,34,2015
+781,Syracuse University,Rakeem Christmas,36,2015
+782,Bowling Green State University,Richaun Holmes,37,2015
+783,Villanova University,Darrun Hilliard,38,2015
+784,University of Tennessee,Josh Richardson,40,2015
+785,University of Notre Dame,Pat Connaughton,41,2015
+786,Boston College,Olivier Hanlan,42,2015
+787,University of Oregon,Joseph Young,43,2015
+788,University of Kentucky,Andrew Harrison,44,2015
+789,College of William & Mary,Marcus Thornton,45,2015
+790,"University of California, Los Angeles",Norman Powell,46,2015
+791,University of Kentucky,Dakari Johnson,48,2015
+792,University of Iowa,Aaron White,49,2015
+793,Eastern Washington University,Tyler Harvey,51,2015
+794,St. John's University,Sir'Dominic Pointer,53,2015
+795,University of Massachusetts Amherst,Cady Lalanne,55,2015
+796,Michigan State University,Branden Dawson,56,2015
+797,University of North Carolina,J.P. Tokoto,58,2015
+798,Louisiana State University,Ben Simmons,1,2016
+799,Duke University,Brandon Ingram,2,2016
+800,University of California,Jaylen Brown,3,2016
+801,Providence College,Kris Dunn,5,2016
+802,University of Oklahoma,Buddy Hield,6,2016
+803,University of Kentucky,Jamal Murray,7,2016
+804,University of Washington,Marquesse Chriss,8,2016
+805,University of Utah,Jakob Poeltl,9,2016
+806,Gonzaga University,Domantas Sabonis,11,2016
+807,Baylor University,Taurean Prince,12,2016
+808,Michigan State University,Denzel Valentine,14,2016
+809,Vanderbilt University,Wade Baldwin,17,2016
+810,Marquette University,Henry Ellenson,18,2016
+811,Florida State University,Malik Beasley,19,2016
+812,University of Michigan,Caris LeVert,20,2016
+813,Saint Joseph's University,DeAndre Bembry,21,2016
+814,Syracuse University,Malachi Richardson,22,2016
+815,University of North Carolina,Brice Johnson,25,2016
+816,New Mexico State University,Pascal Siakam,27,2016
+817,University of Kentucky,Skal Labissiere,28,2016
+818,University of Washington,Dejounte Murray,29,2016
+819,Vanderbilt University,Damian Jones,30,2016
+820,Michigan State University,Deyonta Davis,31,2016
+821,University of Kansas,Cheick Diallo,33,2016
+822,University of Kentucky,Tyler Ulis,34,2016
+823,University of Virginia,Malcolm Brogdon,36,2016
+824,University of Louisville,Chinanu Onuaku,37,2016
+825,"University of Nevada, Las Vegas",Patrick McCaw,38,2016
+826,University of Maryland,Diamond Stone,40,2016
+827,"University of Nevada, Las Vegas",Stephen Zimmerman,41,2016
+828,Seton Hall University,Isaiah Whitehead,42,2016
+829,University of Notre Dame,Demetrius Jackson,45,2016
+830,Purdue University,A.J. Hammons,46,2016
+831,University of Maryland,Jake Layman,47,2016
+832,Syracuse University,Michael Gbinije,49,2016
+833,Iowa State University,Georges Niang,50,2016
+834,Providence College,Ben Bentil,51,2016
+835,Weber State University,Joel Bolomboy,52,2016
+836,Oakland University,Kay Felder,54,2016
+837,University of North Carolina,Marcus Paige,55,2016
+838,University of Connecticut,Daniel Hamilton,56,2016
+839,Iowa State University,Abdel Nader,58,2016
+840,University of Oklahoma,Isaiah Cousins,59,2016
+841,University of California,Tyrone Wallace,60,2016
